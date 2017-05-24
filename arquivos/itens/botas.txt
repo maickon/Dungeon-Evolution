@@ -1,0 +1,15 @@
+1-Botas comum
+2-Botas simples
+3-Botas da floresta
+4-Botas de Bárbaro
+5-Botas de Arquiero
+6-Botas de Ranger
+7-Botas de Soldado
+8-Botas da velocidade +2 em Destreza
+9-Botas de malha
+10-Botas de Roob
+11-Botas de Daimaon
+12-Botas de Goku
+13-Botas de Picolo
+14-Botas ninja
+15-Botas do cavaleiro

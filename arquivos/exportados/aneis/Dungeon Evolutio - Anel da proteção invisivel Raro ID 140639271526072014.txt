@@ -1,0 +1,59 @@
+>>>>>>>>>>>>Anel da proteção invisivel Lv 13<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 23900
+Preço total: 54987
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 13° Nível
+Nível de poder (NP): 130.25
+Esquiva: 13
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 18137 PO
+Preço para Venda: 9068.5 PO
+Nível da pedra: 6
+Bônus de experiência: 4925
+Bônus de dano: 0
+Bônus em habilidade (Força): 0
+Bônus de precisão: 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 12950 PO
+Preço para Venda: 6475 PO
+Nível da pedra: 4
+Bônus de deflexão: 20
+Bônus em habilidade (Sabedoria): 15
+Pontos de habilidade (PH): 13
+Bônus de dano na habilidade de classe: 18
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel de Tauron Lv 22<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 64000
+Preço total: 165519
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 22° Nível
+Nível de poder (NP): 592.13
+Força: 44
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 101519 PO
+Preço para Venda: 50759.5 PO
+Nível da pedra: 19
+Bônus de ouro extra a cada sessão: 43613
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 95
+Aumenta seu DL(Drop Level): 38
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel Glacial Lv 9<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 55000
+Preço total: 55000
+Esta arma possui 2 slot de encaixe livre
+Encaixes 0
+Requisito: 9° Nível
+Nível de poder (NP): 99
+
+_________________________________________________________________________________________________

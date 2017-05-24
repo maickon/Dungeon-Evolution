@@ -1,0 +1,418 @@
+		.np {
+			width: 1px;
+			height: 15px;
+			float: left;
+			background-color: #FF4500;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.for {
+			width: 1px;
+			height: 15px;
+			float: left;
+			background-color: #FF0000;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.des {
+			width: 1px;
+			height: 15px;
+			float: left;
+			background-color: #00E5EE;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.vig {
+			width: 1px;
+			height: 15px;
+			float: left;
+			background-color: #7FFF00;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.esquiva {
+			width: 1px;
+			height: 15px;
+			float: left;
+			background-color: #66CD00;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.dano_magia {
+			width: 1px;
+			height: 15px;
+			float: left;
+			background-color: #FF34B3;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.dano_hab {
+			width: 1px;
+			height: 15px;
+			float: left;
+			background-color: #551A8B;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.sab {
+			width: 1px;
+			height: 15px;
+			float: left;
+			background-color: #912CEE;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.int {
+			width: 1px;
+			height: 15px;
+			float: left;
+			background-color: #FFFF00;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.car {
+			width: 1px;
+			height: 15px;
+			float: left;
+			background-color: #FF1493;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.cura {
+			width: 1px;
+			height: 15px;
+			float: left;
+			background-color: #FFFFFF;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+			
+		.nivel{
+			width: 1px;
+			height: 15px;
+			float: left;
+			background-color: #FF0000;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+		.preco {
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #FFFF00;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.chance{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #FFD700;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.pts_hab{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #912CEE;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.deflexao{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #912CEE;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.def {
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #00008B;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.vida {
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #32CD32;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.dano {
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #FF0000;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.deslocamento{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #32CD32;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.precisao{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #32CD32;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.esquiva{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #32CD32;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+		
+		.critico{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #FF0000;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+
+		.habilidade{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #68228B;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.defesa{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #8B7765;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.reducao{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #8B7765;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);	
+		}
+
+		.rd{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #8B7765;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.sorte{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #8B7765;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.regeneracao{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #FF00FF;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.vida_por_acerto{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #C0FF3E;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.vigor{
+			float: left;
+			width: 1px;
+			height: 15px;
+			background-color: #D02090;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.habilidades{
+			width: 100%;
+		}
+
+		.bord-level{
+			display: inline-block;
+			margin-left: 2px;
+			border-radius:6px;
+			padding: 2px;
+			padding-bottom: 4px;
+		}
+
+		.label_link{
+			width: 100%;
+			margin-bottom: 20px;
+			float: left;
+		}
+
+		.link_xp{
+			float: left;
+			color: #333333;
+			text-decoration: none;
+			padding: 5px 10px;
+			margin-bottom: 5px;	
+		}
+
+		.link_xp:hover{
+			color: #7EC0EE;
+			box-shadow: inset 0 0 7px rgba(0, 0, 0, .2);
+		    top: 4px;
+		}
+
+		.label{
+			display:block;
+			bottom: 5px;
+			opacity: 0.9;
+			color: #FFFFFF;
+			background-color: #000000;
+			border-radius:6px;
+			margin-left: 2px;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.label_xp{
+			float: left;
+			width: 95%;
+			bottom: 5px;
+			opacity: 0.9;
+			color: #FFFFFF;
+			background-color: #000000;
+			border-radius:6px;
+			margin-left: 2px;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.label_pedra{
+			display: block;
+			opacity: 0.9;
+			width: 300px;
+			color: #FFFFFF;
+			background-color: #000000;
+			border-radius:6px;
+			margin-left: 2px;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.label_hab{
+			opacity: 0.9;
+			width: 300px;
+			color: #FFFFFF;
+			background-color: #000000;
+			border-radius:6px;
+			margin-left: 2px;
+			box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+		}
+
+		.armas{
+			width: 410px;
+			height: 280px;
+			overflow: auto;
+			border-radius: 0.8;
+			background-color: #E8E8E8;
+			background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
+			border: 2px solid #000000;
+			text-align: justify;
+			margin: 5px;
+			margin-left: 5px;
+			float: left;	
+		}
+
+		.pedra_img{
+			bottom: 10px;
+			width: 80px;
+			height: 60px;
+			margin-bottom: 10px;
+			float: right;
+		}
+
+		.hab_descricao{
+			background-color: green;
+			width: 325px;
+			float: left;
+			padding: 5px;
+			margin-bottom: 10px; 
+			margin-top: 10px;
+		}
+
+		.hab_logo{
+			background-color: blue;
+			width: 65px;
+			float: left;
+			padding: 5px;
+			margin-bottom: 10px; 
+			margin-top: 10px;	
+		}
+
+		.hab_img{
+			bottom: 10px;
+			width: 70px;
+			height: 60px;
+			float: left;
+		}
+
+		.comum{
+			background-color:#E8E8E8;
+			background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
+		}
+
+		.magico{
+			background-color:#7EC0EE;
+			background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
+		}
+
+		.raro{
+			background-color:#FFA500;
+			background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
+		}
+
+		.lendario{
+			background-color:#FFD700;
+			background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
+		}
+
+		.unico{
+			background-color:#FF0000;
+			background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
+		}
+
+		.table_xp1{
+			padding-top: 20px;
+			float: left;
+			width: 600px;
+		}
+
+		.table_xp2{
+			padding-top: 20px;
+			float: right;
+			width: 600px;
+		}
+
+		.linha1{
+			width: 500px;
+			display: block;
+			background-color: #E8E8E8;
+			background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
+		}
+
+		.linha2{
+			width: 500px;
+		}

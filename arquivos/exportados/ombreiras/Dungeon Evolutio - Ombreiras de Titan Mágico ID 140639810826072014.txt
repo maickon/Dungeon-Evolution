@@ -1,0 +1,63 @@
+>>>>>>>>>>>>Ombreiras de Titan Lv 4<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 27600
+Preço total: 29400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 4° Nível
+Nível de poder (NP): 75
+RD: 32
+Defesa: 32
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 1800 PO
+Preço para Venda: 900 PO
+Nível da pedra: 2
+Bônus de esquiva: 0
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 6
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreiras de Malha Grossa Lv 20<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 54000
+Preço total: 67555
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 20° Nível
+Nível de poder (NP): 263.37
+RD: 80
+Defesa: 80
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 13555 PO
+Preço para Venda: 6777.5 PO
+Nível da pedra: 8
+Bônus de ouro extra a cada sessão: 8237
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreiras Grega Lv 17<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 52200
+Preço total: 133550
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 17° Nível
+Nível de poder (NP): 296.7
+RD: 34
+Defesa: 68
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 81350 PO
+Preço para Venda: 40675 PO
+Nível da pedra: 10
+Bônus em habilidade (Vigor): 62
+Bônus de Redução de Dano: 47
+Regenera por rodada: 47
+Recuperação de vida por acerto: 207
+
+_________________________________________________________________________________________________

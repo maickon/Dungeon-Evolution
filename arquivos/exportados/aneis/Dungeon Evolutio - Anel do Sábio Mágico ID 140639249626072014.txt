@@ -1,0 +1,42 @@
+>>>>>>>>>>>>Anel do Sábio Lv 4<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 20000
+Preço total: 21050
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 4° Nível
+Nível de poder (NP): 10
+Sabedoria: 4
+Bônus de dano em habilidade de classe: 20
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 1050 PO
+Preço para Venda: 525 PO
+Nível da pedra: 2
+Bônus de esquiva: 0
+Chance de crítico: 0
+Bônus de precisao a distância: 5
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da aceleração Lv 20<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 500000
+Preço total: 500000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 20° Nível
+Nível de poder (NP): 1020
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da proteção invisivel Lv 19<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 25700
+Preço total: 25700
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 19° Nível
+Nível de poder (NP): 19
+Esquiva: 19
+
+_________________________________________________________________________________________________

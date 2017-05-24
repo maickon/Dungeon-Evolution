@@ -1,0 +1,36 @@
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 20<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 16000
+Preço total: 16000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 20° Nível
+Nível de poder (NP): 80
+RD: 20
+Defesa: 40
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 8<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 6400
+Preço total: 6400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 8° Nível
+Nível de poder (NP): 32
+RD: 8
+Defesa: 16
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do soldado Lv 5<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 14000
+Preço total: 14000
+Esta arma possui 2 slot de encaixe livre
+Encaixes 0
+Requisito: 5° Nível
+Nível de poder (NP): 20
+RD: 5
+Defesa: 10
+
+_________________________________________________________________________________________________

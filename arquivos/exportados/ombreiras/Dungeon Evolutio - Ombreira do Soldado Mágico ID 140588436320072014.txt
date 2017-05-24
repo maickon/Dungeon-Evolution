@@ -1,0 +1,1545 @@
+>>>>>>>>>>>>Ombreira do Soldado Lv 8<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 26400
+Preço total: 33350
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 8° Nível
+Nível de poder (NP): 64
+RD: 8
+Defesa: 16
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 6950 PO
+Preço para Venda: 3475 PO
+Nível da pedra: 3
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 9
+Pontos de habilidade (PH): 7
+Bônus de dano na habilidade de classe: 15
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 9<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 27200
+Preço total: 90650
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 9° Nível
+Nível de poder (NP): 119.7
+RD: 9
+Defesa: 18
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 6400 PO
+Preço para Venda: 3200 PO
+Nível da pedra: 3
+Bônus de esquiva: 0
+Chance de crítico: 12
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 7
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 57050 PO
+Preço para Venda: 28525 PO
+Nível da pedra: 9
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 43
+Regenera por rodada: 0
+Recuperação de vida por acerto: 197
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 15<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 12000
+Preço total: 12000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 15° Nível
+Nível de poder (NP): 60
+RD: 15
+Defesa: 30
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 20<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 16000
+Preço total: 16000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 20° Nível
+Nível de poder (NP): 80
+RD: 20
+Defesa: 40
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 9<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 22200
+Preço total: 22200
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 9° Nível
+Nível de poder (NP): 36
+RD: 9
+Defesa: 18
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 11<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 13800
+Preço total: 13800
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 11° Nível
+Nível de poder (NP): 44
+RD: 11
+Defesa: 22
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 11<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 28800
+Preço total: 28800
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 11° Nível
+Nível de poder (NP): 44
+RD: 11
+Defesa: 22
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 19<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 30200
+Preço total: 30800
+Esta arma possui 1 slot de encaixe livre
+Encaixes 1
+Requisito: 19° Nível
+Nível de poder (NP): 80
+RD: 19
+Defesa: 38
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 600 PO
+Preço para Venda: 300 PO
+Nível da pedra: 1
+Bônus em habilidade (Vigor): 2
+Bônus de Redução de Dano: 1
+Regenera por rodada: 0
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Soldado Lv 18<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 14400
+Preço total: 14400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 18° Nível
+Nível de poder (NP): 72
+RD: 18
+Defesa: 36
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 3<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 2400
+Preço total: 2400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 3° Nível
+Nível de poder (NP): 12
+RD: 3
+Defesa: 6
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 22<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 37600
+Preço total: 87251
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 22° Nível
+Nível de poder (NP): 249.29
+RD: 22
+Defesa: 44
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 31500 PO
+Preço para Venda: 15750 PO
+Nível da pedra: 15
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 75
+Aumenta seu DL(Drop Level)/Def/Esq: 30
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 18151 PO
+Preço para Venda: 9075.5 PO
+Nível da pedra: 5
+Bônus de experiência: 3829
+Bônus de dano: 0
+Bônus em habilidade (Força): 16
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 12<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 39600
+Preço total: 91828
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 12° Nível
+Nível de poder (NP): 249.08
+RD: 12
+Defesa: 24
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 17150 PO
+Preço para Venda: 8575 PO
+Nível da pedra: 5
+Bônus de esquiva: 22
+Chance de crítico: 21
+Bônus de precisao a distância: 10
+Bônus em habilidade (Destreza): 17
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 35078 PO
+Preço para Venda: 17539 PO
+Nível da pedra: 6
+Bônus de experiência: 6108
+Bônus de dano: 30
+Bônus em habilidade (Força): 26
+Bônus de precisão: 12
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 18<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 24400
+Preço total: 136746
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 18° Nível
+Nível de poder (NP): 447.56
+RD: 18
+Defesa: 36
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 112346 PO
+Preço para Venda: 56173 PO
+Nível da pedra: 15
+Bônus de experiência: 26956
+Bônus de dano: 75
+Bônus em habilidade (Força): 0
+Bônus de precisão: 30
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 10<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 18000
+Preço total: 18000
+Esta arma possui 2 slot de encaixe livre
+Encaixes 0
+Requisito: 10° Nível
+Nível de poder (NP): 40
+RD: 10
+Defesa: 20
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 5<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 14000
+Preço total: 14000
+Esta arma possui 2 slot de encaixe livre
+Encaixes 0
+Requisito: 5° Nível
+Nível de poder (NP): 20
+RD: 5
+Defesa: 10
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do soldado Lv 1<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 30800
+Preço total: 32750
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 1° Nível
+Nível de poder (NP): 13
+RD: 1
+Defesa: 2
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 300 PO
+Preço para Venda: 150 PO
+Nível da pedra: 1
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 1
+Regenera por rodada: 0
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 1650 PO
+Preço para Venda: 825 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 3
+Aumenta seu DL(Drop Level): 3
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Soldado Lv 5<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 19000
+Preço total: 19000
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 5° Nível
+Nível de poder (NP): 20
+RD: 5
+Defesa: 10
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 5<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 14000
+Preço total: 44350
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 5° Nível
+Nível de poder (NP): 80.2
+RD: 5
+Defesa: 10
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 30350 PO
+Preço para Venda: 15175 PO
+Nível da pedra: 4
+Bônus em habilidade (Vigor): 15
+Bônus de Redução de Dano: 20
+Regenera por rodada: 16
+Recuperação de vida por acerto: 82
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 8<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 26400
+Preço total: 26400
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 8° Nível
+Nível de poder (NP): 32
+RD: 8
+Defesa: 16
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 3<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 12400
+Preço total: 12400
+Esta arma possui 2 slot de encaixe livre
+Encaixes 0
+Requisito: 3° Nível
+Nível de poder (NP): 12
+RD: 3
+Defesa: 6
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 5<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 14000
+Preço total: 16300
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 5° Nível
+Nível de poder (NP): 29
+RD: 5
+Defesa: 10
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 2300 PO
+Preço para Venda: 1150 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 4
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 4
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 14<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 36200
+Preço total: 56800
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 14° Nível
+Nível de poder (NP): 154
+RD: 14
+Defesa: 28
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 20600 PO
+Preço para Venda: 10300 PO
+Nível da pedra: 11
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 75
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 22
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do soldado Lv 23<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 43400
+Preço total: 67200
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 23° Nível
+Nível de poder (NP): 178
+RD: 23
+Defesa: 46
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 23800 PO
+Preço para Venda: 11900 PO
+Nível da pedra: 17
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 85
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 18<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 44400
+Preço total: 90457
+Esta arma possui 0 slot de encaixe livre
+Encaixes 3
+Requisito: 18° Nível
+Nível de poder (NP): 334.02
+RD: 18
+Defesa: 36
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 5100 PO
+Preço para Venda: 2550 PO
+Nível da pedra: 6
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 12
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 38250 PO
+Preço para Venda: 19125 PO
+Nível da pedra: 17
+Bônus em habilidade (Vigor): 154
+Bônus de Redução de Dano: 84
+Regenera por rodada: 0
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 2707 PO
+Preço para Venda: 1353.5 PO
+Nível da pedra: 1
+Bônus de experiência: 602
+Bônus de dano: 3
+Bônus em habilidade (Força): 0
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 10<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 8000
+Preço total: 8000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 10° Nível
+Nível de poder (NP): 40
+RD: 10
+Defesa: 20
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 8<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 26400
+Preço total: 56375
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 8° Nível
+Nível de poder (NP): 186.5
+RD: 8
+Defesa: 16
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 20000 PO
+Preço para Venda: 10000 PO
+Nível da pedra: 7
+Bônus em habilidade (Vigor): 33
+Bônus de Redução de Dano: 35
+Regenera por rodada: 35
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 9975 PO
+Preço para Venda: 4987.5 PO
+Nível da pedra: 3
+Bônus de ouro extra a cada sessão: 1950
+Bônus em habilidade (Inteligência): 9
+Aumento de dano em Magias: 14
+Aumenta seu DL(Drop Level): 7
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 23<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 28400
+Preço total: 85010
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 23° Nível
+Nível de poder (NP): 408.07
+RD: 23
+Defesa: 46
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 56610 PO
+Preço para Venda: 28305 PO
+Nível da pedra: 11
+Bônus de ouro extra a cada sessão: 16707
+Bônus em habilidade (Inteligência): 71
+Aumento de dano em Magias: 54
+Aumenta seu DL(Drop Level): 23
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 22<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 37600
+Preço total: 111773
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 22° Nível
+Nível de poder (NP): 494.49
+RD: 22
+Defesa: 44
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 74173 PO
+Preço para Venda: 37086.5 PO
+Nível da pedra: 13
+Bônus de ouro extra a cada sessão: 22449
+Bônus em habilidade (Carisma): 93
+Aumento de Pvs reservas: 62
+Aumenta seu DL(Drop Level)/Def/Esq: 26
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do soldado Lv 10<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 28000
+Preço total: 44350
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 10° Nível
+Nível de poder (NP): 109
+RD: 10
+Defesa: 20
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 16350 PO
+Preço para Venda: 8175 PO
+Nível da pedra: 7
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 34
+Bônus de dano na habilidade de classe: 34
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 6<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 4800
+Preço total: 4800
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 6° Nível
+Nível de poder (NP): 24
+RD: 6
+Defesa: 12
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 8<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 16400
+Preço total: 34912
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 8° Nível
+Nível de poder (NP): 133.08
+RD: 8
+Defesa: 16
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 18512 PO
+Preço para Venda: 9256 PO
+Nível da pedra: 6
+Bônus de ouro extra a cada sessão: 5208
+Bônus em habilidade (Inteligência): 22
+Aumento de dano em Magias: 26
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do soldado Lv 3<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 22400
+Preço total: 32366
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 3° Nível
+Nível de poder (NP): 67.11
+RD: 3
+Defesa: 6
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 3316 PO
+Preço para Venda: 1658 PO
+Nível da pedra: 3
+Bônus de ouro extra a cada sessão: 1911
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 6650 PO
+Preço para Venda: 3325 PO
+Nível da pedra: 3
+Bônus de deflexão: 13
+Bônus em habilidade (Sabedoria): 10
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 11
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 23<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 18400
+Preço total: 18400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 23° Nível
+Nível de poder (NP): 92
+RD: 23
+Defesa: 46
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Soldado Lv 13<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 20400
+Preço total: 30750
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 13° Nível
+Nível de poder (NP): 110
+RD: 13
+Defesa: 26
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 10350 PO
+Preço para Venda: 5175 PO
+Nível da pedra: 12
+Bônus de esquiva: 57
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 5<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 9000
+Preço total: 9000
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 5° Nível
+Nível de poder (NP): 20
+RD: 5
+Defesa: 10
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Soldado Lv 8<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 16400
+Preço total: 71200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 8° Nível
+Nível de poder (NP): 146.2
+RD: 8
+Defesa: 16
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 54800 PO
+Preço para Venda: 27400 PO
+Nível da pedra: 7
+Bônus em habilidade (Vigor): 30
+Bônus de Redução de Dano: 35
+Regenera por rodada: 34
+Recuperação de vida por acerto: 142
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 23<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 28400
+Preço total: 48914
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 23° Nível
+Nível de poder (NP): 154.04
+RD: 23
+Defesa: 46
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 20514 PO
+Preço para Venda: 10257 PO
+Nível da pedra: 5
+Bônus de experiência: 4504
+Bônus de dano: 0
+Bônus em habilidade (Força): 16
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do soldado Lv 16<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 22800
+Preço total: 55500
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 16° Nível
+Nível de poder (NP): 199
+RD: 16
+Defesa: 32
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 32700 PO
+Preço para Venda: 16350 PO
+Nível da pedra: 8
+Bônus de esquiva: 40
+Chance de crítico: 36
+Bônus de precisao a distância: 16
+Bônus em habilidade (Destreza): 42
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 21<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 41800
+Preço total: 79965
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 21° Nível
+Nível de poder (NP): 240.02
+RD: 21
+Defesa: 42
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 9069 PO
+Preço para Venda: 4534.5 PO
+Nível da pedra: 6
+Bônus de ouro extra a cada sessão: 5446
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 0
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 29096 PO
+Preço para Venda: 14548 PO
+Nível da pedra: 7
+Bônus de experiência: 6556
+Bônus de dano: 34
+Bônus em habilidade (Força): 0
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 7<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 15600
+Preço total: 19300
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 7° Nível
+Nível de poder (NP): 42
+RD: 7
+Defesa: 14
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 3700 PO
+Preço para Venda: 1850 PO
+Nível da pedra: 3
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 0
+Regenera por rodada: 13
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Soldado Lv 12<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 14600
+Preço total: 14600
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 12° Nível
+Nível de poder (NP): 48
+RD: 12
+Defesa: 24
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 22<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 32600
+Preço total: 91800
+Esta arma possui 1 slot de encaixe livre
+Encaixes 1
+Requisito: 22° Nível
+Nível de poder (NP): 351
+RD: 22
+Defesa: 44
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 59200 PO
+Preço para Venda: 29600 PO
+Nível da pedra: 18
+Bônus de experiência: 0
+Bônus de dano: 90
+Bônus em habilidade (Força): 172
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 15<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 22000
+Preço total: 29350
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 15° Nível
+Nível de poder (NP): 91
+RD: 15
+Defesa: 30
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 7350 PO
+Preço para Venda: 3675 PO
+Nível da pedra: 3
+Bônus de esquiva: 12
+Chance de crítico: 12
+Bônus de precisao a distância: 6
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do soldado Lv 6<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 14800
+Preço total: 20900
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 6° Nível
+Nível de poder (NP): 56
+RD: 6
+Defesa: 12
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 6100 PO
+Preço para Venda: 3050 PO
+Nível da pedra: 3
+Bônus de experiência: 0
+Bônus de dano: 14
+Bônus em habilidade (Força): 10
+Bônus de precisão: 7
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 19<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 45200
+Preço total: 126250
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 19° Nível
+Nível de poder (NP): 267
+RD: 19
+Defesa: 38
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 74200 PO
+Preço para Venda: 37100 PO
+Nível da pedra: 9
+Bônus em habilidade (Vigor): 55
+Bônus de Redução de Dano: 44
+Regenera por rodada: 42
+Recuperação de vida por acerto: 190
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 6850 PO
+Preço para Venda: 3425 PO
+Nível da pedra: 7
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 29
+Bônus de dano na habilidade de classe: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 10<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 18000
+Preço total: 22950
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 10° Nível
+Nível de poder (NP): 56
+RD: 10
+Defesa: 20
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 4950 PO
+Preço para Venda: 2475 PO
+Nível da pedra: 2
+Bônus de esquiva: 0
+Chance de crítico: 9
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 6
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 3<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 22400
+Preço total: 24950
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 3° Nível
+Nível de poder (NP): 28
+RD: 3
+Defesa: 6
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 2550 PO
+Preço para Venda: 1275 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 1100
+Bônus em habilidade (Inteligência): 4
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Soldado Lv 19<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 25200
+Preço total: 33300
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 19° Nível
+Nível de poder (NP): 118
+RD: 19
+Defesa: 38
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 8100 PO
+Preço para Venda: 4050 PO
+Nível da pedra: 3
+Bônus de deflexão: 14
+Bônus em habilidade (Sabedoria): 8
+Pontos de habilidade (PH): 8
+Bônus de dano na habilidade de classe: 11
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Soldado Lv 15<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 22000
+Preço total: 44750
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 15° Nível
+Nível de poder (NP): 167
+RD: 15
+Defesa: 30
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 22750 PO
+Preço para Venda: 11375 PO
+Nível da pedra: 11
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 54
+Regenera por rodada: 52
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 2<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 21600
+Preço total: 28050
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 2° Nível
+Nível de poder (NP): 30
+RD: 2
+Defesa: 4
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 4250 PO
+Preço para Venda: 2125 PO
+Nível da pedra: 2
+Bônus de esquiva: 0
+Chance de crítico: 7
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 6
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 2200 PO
+Preço para Venda: 1100 PO
+Nível da pedra: 1
+Bônus de esquiva: 0
+Chance de crítico: 5
+Bônus de precisao a distância: 2
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 4<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 3200
+Preço total: 3200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 4° Nível
+Nível de poder (NP): 16
+RD: 4
+Defesa: 8
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 1<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 25800
+Preço total: 31971
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 1° Nível
+Nível de poder (NP): 30.06
+RD: 1
+Defesa: 2
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 3521 PO
+Preço para Venda: 1760.5 PO
+Nível da pedra: 1
+Bônus de experiência: 706
+Bônus de dano: 1
+Bônus em habilidade (Força): 3
+Bônus de precisão: 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 2650 PO
+Preço para Venda: 1325 PO
+Nível da pedra: 1
+Bônus de deflexão: 4
+Bônus em habilidade (Sabedoria): 2
+Pontos de habilidade (PH): 3
+Bônus de dano na habilidade de classe: 4
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 1<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 10800
+Preço total: 10800
+Esta arma possui 2 slot de encaixe livre
+Encaixes 0
+Requisito: 1° Nível
+Nível de poder (NP): 4
+RD: 1
+Defesa: 2
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 14<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 11200
+Preço total: 11200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 14° Nível
+Nível de poder (NP): 56
+RD: 14
+Defesa: 28
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 8<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 6400
+Preço total: 6400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 8° Nível
+Nível de poder (NP): 32
+RD: 8
+Defesa: 16
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 6<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 29800
+Preço total: 32800
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 6° Nível
+Nível de poder (NP): 41
+RD: 6
+Defesa: 12
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 3000 PO
+Preço para Venda: 1500 PO
+Nível da pedra: 4
+Bônus de experiência: 0
+Bônus de dano: 16
+Bônus em habilidade (Força): 0
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 7<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 5600
+Preço total: 5600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 7° Nível
+Nível de poder (NP): 28
+RD: 7
+Defesa: 14
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 8<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 26400
+Preço total: 53128
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 8° Nível
+Nível de poder (NP): 180.52
+RD: 8
+Defesa: 16
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 26728 PO
+Preço para Venda: 13364 PO
+Nível da pedra: 8
+Bônus de ouro extra a cada sessão: 9052
+Bônus em habilidade (Carisma): 40
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 17
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 17<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 38600
+Preço total: 95950
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 17° Nível
+Nível de poder (NP): 186
+RD: 17
+Defesa: 34
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 57350 PO
+Preço para Venda: 28675 PO
+Nível da pedra: 7
+Bônus em habilidade (Vigor): 33
+Bônus de Redução de Dano: 34
+Regenera por rodada: 35
+Recuperação de vida por acerto: 150
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 16<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 22800
+Preço total: 26700
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 16° Nível
+Nível de poder (NP): 85
+RD: 16
+Defesa: 32
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 3900 PO
+Preço para Venda: 1950 PO
+Nível da pedra: 2
+Bônus de esquiva: 9
+Chance de crítico: 0
+Bônus de precisao a distância: 5
+Bônus em habilidade (Destreza): 6
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 22<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 37600
+Preço total: 105500
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 22° Nível
+Nível de poder (NP): 410
+RD: 22
+Defesa: 44
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 67900 PO
+Preço para Venda: 33950 PO
+Nível da pedra: 19
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 191
+Aumento de Pvs reservas: 91
+Aumenta seu DL(Drop Level)/Def/Esq: 39
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 13<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 25400
+Preço total: 59150
+Esta arma possui 1 slot de encaixe livre
+Encaixes 1
+Requisito: 13° Nível
+Nível de poder (NP): 231
+RD: 13
+Defesa: 26
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 33750 PO
+Preço para Venda: 16875 PO
+Nível da pedra: 11
+Bônus em habilidade (Vigor): 73
+Bônus de Redução de Dano: 51
+Regenera por rodada: 54
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Soldado Lv 9<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 32200
+Preço total: 54000
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 9° Nível
+Nível de poder (NP): 105
+RD: 9
+Defesa: 18
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 7800 PO
+Preço para Venda: 3900 PO
+Nível da pedra: 9
+Bônus de esquiva: 43
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 14000 PO
+Preço para Venda: 7000 PO
+Nível da pedra: 2
+Bônus em habilidade (Vigor): 6
+Bônus de Redução de Dano: 7
+Regenera por rodada: 7
+Recuperação de vida por acerto: 40
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 23<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 33400
+Preço total: 33400
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 23° Nível
+Nível de poder (NP): 92
+RD: 23
+Defesa: 46
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 15<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 12000
+Preço total: 12000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 15° Nível
+Nível de poder (NP): 60
+RD: 15
+Defesa: 30
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 11<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 28800
+Preço total: 28800
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 11° Nível
+Nível de poder (NP): 44
+RD: 11
+Defesa: 22
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 18<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 14400
+Preço total: 14400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 18° Nível
+Nível de poder (NP): 72
+RD: 18
+Defesa: 36
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 20<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 16000
+Preço total: 16000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 20° Nível
+Nível de poder (NP): 80
+RD: 20
+Defesa: 40
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Soldado Lv 22<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 17600
+Preço total: 17600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 22° Nível
+Nível de poder (NP): 88
+RD: 22
+Defesa: 44
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Soldado Lv 10<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 18000
+Preço total: 24713
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 10° Nível
+Nível de poder (NP): 71.09
+RD: 10
+Defesa: 20
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 6713 PO
+Preço para Venda: 3356.5 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 1209
+Bônus em habilidade (Carisma): 4
+Aumento de Pvs reservas: 9
+Aumenta seu DL(Drop Level)/Def/Esq: 5
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 17<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 13600
+Preço total: 13600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 17° Nível
+Nível de poder (NP): 68
+RD: 17
+Defesa: 34
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 21<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 16800
+Preço total: 16800
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 21° Nível
+Nível de poder (NP): 84
+RD: 21
+Defesa: 42
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 20<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 26000
+Preço total: 28100
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 20° Nível
+Nível de poder (NP): 88
+RD: 20
+Defesa: 40
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 2100 PO
+Preço para Venda: 1050 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 5
+Aumenta seu DL(Drop Level)/Def/Esq: 2
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 10<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 28000
+Preço total: 49464
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 10° Nível
+Nível de poder (NP): 116.04
+RD: 10
+Defesa: 20
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 14000 PO
+Preço para Venda: 7000 PO
+Nível da pedra: 10
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 50
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 7464 PO
+Preço para Venda: 3732 PO
+Nível da pedra: 3
+Bônus de experiência: 1704
+Bônus de dano: 0
+Bônus em habilidade (Força): 0
+Bônus de precisão: 7
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 9<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 17200
+Preço total: 24600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 9° Nível
+Nível de poder (NP): 76
+RD: 9
+Defesa: 18
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 7400 PO
+Preço para Venda: 3700 PO
+Nível da pedra: 5
+Bônus de deflexão: 23
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 16
+Bônus de dano na habilidade de classe: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 13<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 10400
+Preço total: 10400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 13° Nível
+Nível de poder (NP): 52
+RD: 13
+Defesa: 26
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Ranger Lv 1<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 5800
+Preço total: 5800
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 1° Nível
+Nível de poder (NP): 4
+RD: 1
+Defesa: 2
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 20<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 36000
+Preço total: 143200
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 20° Nível
+Nível de poder (NP): 326.4
+RD: 20
+Defesa: 40
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 107200 PO
+Preço para Venda: 53600 PO
+Nível da pedra: 13
+Bônus em habilidade (Vigor): 92
+Bônus de Redução de Dano: 63
+Regenera por rodada: 64
+Recuperação de vida por acerto: 264
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Soldado Lv 11<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 18800
+Preço total: 27000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 11° Nível
+Nível de poder (NP): 83
+RD: 11
+Defesa: 22
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 8200 PO
+Preço para Venda: 4100 PO
+Nível da pedra: 4
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 19
+Regenera por rodada: 19
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Soldado Lv 12<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 9600
+Preço total: 9600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 12° Nível
+Nível de poder (NP): 48
+RD: 12
+Defesa: 24
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 14<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 11200
+Preço total: 11200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 14° Nível
+Nível de poder (NP): 56
+RD: 14
+Defesa: 28
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 5<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 9000
+Preço total: 9000
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 5° Nível
+Nível de poder (NP): 20
+RD: 5
+Defesa: 10
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Soldado Lv 15<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 32000
+Preço total: 32000
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 15° Nível
+Nível de poder (NP): 60
+RD: 15
+Defesa: 30
+
+_________________________________________________________________________________________________

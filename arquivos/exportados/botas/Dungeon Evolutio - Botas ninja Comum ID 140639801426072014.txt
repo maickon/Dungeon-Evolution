@@ -1,0 +1,48 @@
+>>>>>>>>>>>>Botas ninja Lv 20<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 212000
+Preço total: 212000
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 20° Nível
+Nível de poder (NP): 740
+RD: 240
+Defesa: 220
+Esquiva: 260
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 9<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 33750
+Preço total: 33750
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 9° Nível
+Nível de poder (NP): 135
+RD: 45
+Defesa: 36
+Esquiva: 45
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Arquiero Lv 20<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 116000
+Preço total: 161000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 20° Nível
+Nível de poder (NP): 631
+RD: 120
+Defesa: 120
+Esquiva: 160
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 45000 PO
+Preço para Venda: 22500 PO
+Nível da pedra: 14
+Bônus de esquiva: 68
+Chance de crítico: 0
+Bônus de precisao a distância: 28
+Bônus em habilidade (Destreza): 114
+
+_________________________________________________________________________________________________

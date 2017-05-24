@@ -1,0 +1,324 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: 15px;
+	font-family: "Myriad Pro";
+}
+.fixed-nav{
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+    z-index:999;
+}
+
+.menu{
+	list-style: none;
+	border: 1px solid #C0C0C0;
+}
+
+.menu li{
+	position: relative;
+	float: left;
+	border-right: 1px solid #C0C0C0;
+}
+
+.menu li a{
+	color: #333333;
+	text-decoration: none;
+	padding: 5px 10px;
+	display: block;
+}
+
+.menu li a{color:#333; text-decoration:none; padding:5px 10px; display:block;}
+ 
+.menu li a:hover{
+    background:#333;
+    color:#fff;
+    -moz-box-shadow:0 3px 10px 0 #CCC;
+    -webkit-box-shadow:0 3px 10px 0 #ccc;
+    text-shadow:0px 0px 5px #fff;
+}
+
+.menu li a:hover{
+	background: #333333;
+	color: #FFFFFF;
+	-moz-box-shadow:0 3px 10px 0 #CCC;
+	-webkit-box-shadow:0 3px 10px 0 #ccc;
+	text-shadow:0px 0px 5px #fff;
+}
+
+.menu li  ul{
+    position:absolute;
+    top:25px;
+    left:0;
+    background-color:#fff;
+    display:none;
+}  
+
+.menu li:hover ul, .menu li.over ul{
+    display:block;
+}
+
+.menu li ul li{
+    border:1px solid #c0c0c0;
+    display:block;
+    width:150px;
+}
+
+.logo{
+	float: right;
+	width: 250px;
+}
+
+.menu_bar{
+	width: 100%;
+	display: inline;
+	float: left;
+	background-color:#FFFFFF;
+	background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
+	border-bottom: 2px solid #000000;
+}
+
+.logo_bar{
+	width: 100%;
+	float: left;
+    padding-top: 25px;
+	height: auto;
+	display: block;
+	background-color:#C0C0FF;
+	background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
+	border-bottom: 2px solid #000000;
+	
+}
+
+.body_bar{
+	width: 100%;
+	height: auto;
+	float: left;
+	display: block;
+	color: #333333;
+	background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
+}
+
+.body_bar_conteudo{
+	width: 95%;
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-bottom: 2%;
+	height: auto;
+	float: left;
+	display: block;
+
+}
+
+.footer_bar{
+	width: 100%;
+	float: left;
+	height: auto;
+	display: block;
+	background-color:#C0C0FF;
+	background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
+	border-bottom: 2px solid #000000;
+    border-top: 2px solid #333333;
+    padding-top: 15px;
+}
+
+.footer_links{
+	width: 100%;
+	display: block;
+	float: left;
+	margin: 4px;
+	font-family:"Myriad Pro";
+	text-align: center;
+}
+
+.copyright{
+	width: 100%;
+	display: block;
+	float: left;
+	margin: 4px;
+	font-family: "Myriad Pro";
+	text-align: center;
+}
+
+.botao{
+     background: -webkit-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -moz-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     border: 1px solid #CCCCCE;
+     border-radius: 3px;
+     box-shadow: 0 3px 0 rgba(0, 0, 0, .3),
+                   0 2px 7px rgba(0, 0, 0, 0.2);
+     color: #616165;
+     display: block;
+     font-family: "Myriad Pro";
+     font-size: 14px;
+     font-weight: bold;
+     line-height: 25px;
+     text-align: center;
+     text-decoration: none;
+     text-transform: uppercase;
+     text-shadow:1px 1px 0 #FFF;
+     padding: 5px 15px;
+     position: relative;
+     width: auto;
+     float: left;
+     margin: 5px;
+    }
+
+.botao_xp{
+     background: -webkit-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -moz-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     border: 1px solid #CCCCCE;
+     border-radius: 3px;
+     box-shadow: 0 3px 0 rgba(0, 0, 0, .3),
+                   0 2px 7px rgba(0, 0, 0, 0.2);
+     color: #616165;
+     display: block;
+     font-family: "Myriad Pro";
+     font-size: 14px;
+     font-weight: bold;
+     line-height: 25px;
+     text-align: center;
+     text-decoration: none;
+     text-transform: uppercase;
+     text-shadow:1px 1px 0 #FFF;
+     padding: 5px 15px;
+     position: relative;
+     width: auto;
+     float: left;
+     margin: 5px;
+}
+
+.export_bt{
+     background: -webkit-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -moz-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     border: 1px solid #CCCCCE;
+     border-radius: 3px;
+     box-shadow: 0 3px 0 rgba(0, 0, 0, .3),
+                   0 2px 7px rgba(0, 0, 0, 0.2);
+     color: #616165;
+     display: block;
+     font-family: "Myriad Pro";
+     font-size: 14px;
+     font-weight: bold;
+     line-height: 25px;
+     text-align: center;
+     text-decoration: none;
+     text-transform: uppercase;
+     text-shadow:1px 1px 0 #FFF;
+     padding: 5px 15px;
+     position: relative;
+     width: auto;
+     float: left;
+     margin: 5px;
+}
+
+.xp_claculado{
+     float: left;
+     background: -webkit-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -moz-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     border: 1px solid #CCCCCE;
+     font-family: "Myriad Pro";
+     font-size: 72;
+     border-radius: 3px;
+     box-shadow: 0 3px 0 rgba(0, 0, 0, .3),
+                   0 2px 7px rgba(0, 0, 0, 0.2);
+     color: #616165;
+     margin-top: 30px;
+     margin-left: 10px;
+}
+
+.font_xp{
+    color: red;
+}
+
+.text_field{
+	 background: -webkit-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -moz-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     border: 1px solid #CCCCCE;
+     border-radius: 3px;
+     box-shadow: 0 3px 0 rgba(0, 0, 0, .3),
+                   0 2px 7px rgba(0, 0, 0, 0.2);
+     color: #616165;
+     display: block;
+     font-family: "Myriad Pro";
+     font-size: 14px;
+     font-weight: bold;
+     line-height: 25px;
+     text-align: center;
+     text-decoration: none;
+     text-transform: uppercase;
+     text-shadow:1px 1px 0 #FFF;
+     padding: 5px 15px;
+     margin: 5px;
+     position: relative;
+     width: auto;
+     float: left;
+	}
+
+.botao:before{
+     border: 1px solid #FFF;
+     border-radius: 3px;
+     box-shadow: inset 0 -2px 12px -4px rgba(70, 70, 70, .2),
+                   inset 0 3px 2px -1px rgba(255, 255, 255, 1);
+     content: "";
+     bottom: 0;
+     left: 0;
+     right: 0;
+     top: 0;
+     padding: 5px;
+     position: absolute;
+    }
+ 
+ .botao:after{
+     background: rgba(255, 255, 255, .4);
+     border-radius: 2px;
+     content: "";
+     bottom: 15px;
+     left: 0px;
+     right: 0px;
+     top: 0px;
+     position: absolute;
+    }
+ 	
+ .botao:active{
+     box-shadow: inset 0 0 7px rgba(0, 0, 0, .2);
+     top: 4px;
+    }
+    
+ .botao:active:before{
+     border: none;
+     box-shadow:none;
+    }
+
+.componentes_painel_arma{
+	width: 100%;
+	margin-left: 2%;
+	float: left;
+}
+
+.lista_ordenada{
+    margin-left: 20px;
+}
+.paragrafo{
+
+}

@@ -1,0 +1,43 @@
+1-Luvas de Patrulheiro
+2-Luvas do Aventureiro
+3-Luvas de Soldado
+4-Luvas do Guerreiro
+5-Luvas Bárbaras
+6-Luvas da Floresta
+7-Luvas da Guerra
+8-Luvas da Proteção
+9-Luvas de Cota de Malha
+10-Luvas de Combate
+11-Luvas de Oda Nobunaga
+12-Luvas Kusanagi
+13-Luvas de Paragon
+14-Luvas Scarlat
+15-Luvas de Escamas
+16-Luvas do Rei
+17-Luvas do Imperador
+18-Luvas da destruição +4 no dano
+19-Luvas de Placas
+20-Luvas do Dragão
+21-Faixas do Monge
+22-Faixas do Ki +3 no PH
+23-Faixas da sorte +2 em Carisma
+24-Faixas de Onorado Zen
+25-Faixas do Lutador
+26-Faixas do poder +2 em Força
+27-Faixas de Matamaro
+28-Faixas Hero Senim
+29-Faixas do Sensei
+30-Faixas de Gaza
+31-Faixas do Olimpo
+32-Faixas de Magarami
+33-Faixas Ninja
+34-Manoplas do Coração +2 em Carisma
+35-Manoplas de Senjugahara
+36-Manoplas Orochi
+37-Manoplas do Dragão
+38-Manoplas Kensou
+39-Manoplas de Goro
+40-Manoplas do Guerreiro
+41-Manoplas do Rústicas
+42-Manoplas Sensei
+43-Manoplas de Prata

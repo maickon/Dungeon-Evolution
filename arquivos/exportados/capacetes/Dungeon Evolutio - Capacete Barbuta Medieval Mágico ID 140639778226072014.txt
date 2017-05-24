@@ -1,0 +1,36 @@
+>>>>>>>>>>>>Capacete Barbuta Medieval Lv 5<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 16500
+Preço total: 16500
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 5° Nível
+Nível de poder (NP): 65
+RD: 30
+Defesa: 30
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Elmo Medieval do Rei Lv 1<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 2200
+Preço total: 2200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 1° Nível
+Nível de poder (NP): 9
+RD: 4
+Defesa: 4
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete Coríntio de Crista e Cauda Lv 2<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 11700
+Preço total: 11700
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 2° Nível
+Nível de poder (NP): 44
+RD: 24
+Defesa: 18
+
+_________________________________________________________________________________________________

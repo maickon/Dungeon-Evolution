@@ -1,0 +1,42 @@
+Porrete comum
+preço 350
+arma de duas maos
+NP 3
+dano 2
+-----------------------
+bastao comum
+preco 450
+armade duas maos
+NP4
+dano 3
+------------------------
+clava comum
+preco 550 
+arma de duas maos
+NP 5
+dano 4
+------------------------
+mangual comum
+preço 450
+arma de uma mao
+NP 4
+dano 3
+------------------------
+lança comum
+preco 550
+arma de uma mao
+NP 5
+dano 4
+-----------------------
+Porrete magico
+preco 10850
+arma de duas maos 
+NP 9
+dano 5+1d6 de vento
+----------------------
+Machadinha
+preco 5750
+arma de uma mao
+NP 10
+dano 6+1d6 por vento
+

@@ -1,0 +1,279 @@
+>>>>>>>>>>>>Manoplas de Senjugahara Lv 9<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 16700
+Preço total: 16700
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 9° Nível
+Nível de poder (NP): 54
+RD: 9
+Defesa: 36
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Manoplas do Dragão Lv 11<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 18150
+Preço total: 18150
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 11° Nível
+Nível de poder (NP): 77
+RD: 33
+Defesa: 33
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Luvas do Imperador Lv 12<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 39200
+Preço total: 97850
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 12° Nível
+Nível de poder (NP): 342
+RD: 24
+Defesa: 48
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 13050 PO
+Preço para Venda: 6525 PO
+Nível da pedra: 8
+Bônus de deflexão: 38
+Bônus em habilidade (Sabedoria): 41
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 0
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 45600 PO
+Preço para Venda: 22800 PO
+Nível da pedra: 11
+Bônus de esquiva: 55
+Chance de crítico: 52
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 70
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Luvas do Aventureiro Lv 11<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 12750
+Preço total: 16800
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 11° Nível
+Nível de poder (NP): 45
+RD: 0
+Defesa: 11
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 4050 PO
+Preço para Venda: 2025 PO
+Nível da pedra: 5
+Bônus de deflexão: 22
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Luvas de Escamas Lv 17<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 28600
+Preço total: 28600
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 17° Nível
+Nível de poder (NP): 68
+RD: 17
+Defesa: 34
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Luvas do Dragão Lv 15<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 40250
+Preço total: 60524
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 15° Nível
+Nível de poder (NP): 165.64
+RD: 30
+Defesa: 45
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 10474 PO
+Preço para Venda: 5237 PO
+Nível da pedra: 3
+Bônus de experiência: 2364
+Bônus de dano: 0
+Bônus em habilidade (Força): 7
+Bônus de precisão: 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 9800 PO
+Preço para Venda: 4900 PO
+Nível da pedra: 8
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 43
+Bônus de dano na habilidade de classe: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Luvas Scarlat Lv 5<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 18250
+Preço total: 19522
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 5° Nível
+Nível de poder (NP): 43.48
+RD: 15
+Defesa: 15
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 1272 PO
+Preço para Venda: 636 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 448
+Bônus em habilidade (Inteligência): 3
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Luvas de Oda Nobunaga Lv 15<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 53000
+Preço total: 53000
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 15° Nível
+Nível de poder (NP): 135
+RD: 60
+Defesa: 60
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Luvas Bárbaras Lv 13<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 20400
+Preço total: 30646
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 13° Nível
+Nível de poder (NP): 80.56
+RD: 13
+Defesa: 26
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 10246 PO
+Preço para Venda: 5123 PO
+Nível da pedra: 4
+Bônus de experiência: 2756
+Bônus de dano: 0
+Bônus em habilidade (Força): 0
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Manoplas Orochi Lv 4<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 5200
+Preço total: 5200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 4° Nível
+Nível de poder (NP): 24
+RD: 4
+Defesa: 16
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Luvas da Floresta Lv 15<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 12000
+Preço total: 12000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 15° Nível
+Nível de poder (NP): 60
+RD: 15
+Defesa: 30
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Luvas de Cota de Malha Lv 4<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 24200
+Preço total: 24200
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 4° Nível
+Nível de poder (NP): 20
+RD: 4
+Defesa: 12
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Luvas da Guerra Lv 20<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 36000
+Preço total: 51300
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 20° Nível
+Nível de poder (NP): 210
+RD: 20
+Defesa: 80
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 15300 PO
+Preço para Venda: 7650 PO
+Nível da pedra: 13
+Bônus de esquiva: 62
+Chance de crítico: 0
+Bônus de precisao a distância: 27
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Luvas de Patrulheiro Lv 14<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 23500
+Preço total: 88600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 14° Nível
+Nível de poder (NP): 108.9
+RD: 0
+Defesa: 14
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 1800 PO
+Preço para Venda: 900 PO
+Nível da pedra: 2
+Bônus de esquiva: 10
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 63300 PO
+Preço para Venda: 31650 PO
+Nível da pedra: 10
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 47
+Regenera por rodada: 0
+Recuperação de vida por acerto: 219
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Luvas de Cota de Malha Lv 18<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 28900
+Preço total: 38900
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 18° Nível
+Nível de poder (NP): 141
+RD: 18
+Defesa: 54
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 10000 PO
+Preço para Venda: 5000 PO
+Nível da pedra: 4
+Bônus em habilidade (Vigor): 14
+Bônus de Redução de Dano: 17
+Regenera por rodada: 19
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________

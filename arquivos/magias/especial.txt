@@ -1,0 +1,6 @@
+Flood Tide-9-0-3-Ataque de Água e Vento.-0
+Healing Wind-0-10-6-Cura vida e restaura status.-0
+Mud Flow-3-0-10-Ataque de Água+Terra em todos inimigos.-0
+Onslaught-4-0-5-Ataque de Vento.-0
+Rainstorm-6-0-9-Ataque de Vento+Água em todos inimigos.-0
+Brainstorm-3-0-7-Ataque de rajada mental, não pode ser reduzido com RD.-0

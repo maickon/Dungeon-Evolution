@@ -1,0 +1,369 @@
+## Swords ###
+
+Nome              Pwr P  H  Custo  Usa  Local            Info
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Chopsticks        2  0  1     40  S    Chiqua/Abnd. V.  Afeta voadores
+ Broken Sword      4  2  1      -  R    Auto
+ Bowie Knife      10  1  1    150  RS   Chamba
+ King's Sword     12  2  1      -  R    Auto             Tipo Holy, Protect 
+ Scramasax        13  2  2 11,200  RS   Kyoin/Synesta/
+ Short Sword      15  3  1    480  RS   Dam/Kyria
+ Jang'do          22  3  2      -  S    Auto
+ Moon Sword       28  4  1      -  RS   Kurok¹/Mt. Glom
+ Katzbalger       30  4  1  1,800  RS   Ludia/Worent
+ Biter            30  3  2  4,500  S    Wyndia           Critical +3%
+ Flame Sword      35  2  2  4,800  R    Abnd. V.         Tipo Fogo
+ Taegum           36  4  2  3,000  S    Faerie C.
+ Broad Sword      38  8  1  2,600  RS   Shyde            Def +5
+ Rusted Sword     40  2  1      -  RS   Abnd. V.         Slayer, 1000 kills
+ Hidden Dagger    42  2  1  4,900  S    Faerie C.        Pode matar na hora
+ Bastard Sword    46  6  1  3,200  R    Wyndia/Chek
+ Ice Blade        50  8  1  4,200  S    Faerie C.        Tipo água, da sleep
+#Render           50  6  2 60,000  S    Manillo          Tipo água, da Frost
+ Claymore         56  8  1  5,200  RS   Shikk
+ Firangi          58  2  2  8,600  RS   Shyde/Paedra R.
+ Dragonslayer     70 15  1      -  R    Auto
+ Piercing Edge    72  5  1  7,200  RS   Lyp              Pode conjurar Weaken
+#Slicer           78  4  2 20,000  RS   Imp. Castle
+ Slayer           80  4  2      -  R    Auto             Evolução da Rusted
+ Feather Sword    88  1  1  9,600  RS   Koshka/Chiqua 
+#Royal Sword      96  6  2      -  R    Imp. Castle      Pode conjurar Drain
+ Ascension        95  6  1 16,000  RS   Imp. Castle      Tipo Holy, ctr. +5%
+ Damascus Sword  104  5  1 14,500  RS   Astana
+ Barbarossa      112  8  1 18,000  RS   Chedo
+#Cleaver         119 10  1 26,000  S    Imp. Castle      Dano extra a dragões
+ Dragon Blade    128  8  1 60,000  R    Imp. Castle      Pode conjurar Might
+#Goo King Sword  152  4  1      -  R    Imp. Castle
+
+
+## Staffs ###
+
+Nome              Pwr P  H  Custo  Usa  Local            Info
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Pointed Stick     2  1  1     10  N    Faer. C./Kyria¹
+ Baton             5  1  1      -  N    Auto
+ Sage's Staff     12  2  1    230  N    Sarai/Chamba     Wisdom +5
+                                        Sandf.V/Kyria
+ Skull Staff      13  2  1  1,300  N    Chiqua/Imp. C.   Pode matar na hora
+ Magic Wand       18  2  1    800  N    Kyoin/Synesta    CP +3
+ Reed Baton       28  2  1  1,600  N    Ludia/Worent
+ Ruby Scepter     30  2  1  2,000  N    Shyde            Tipo Fogo
+ Wand of Air      38  1  1  3,600  N    Wyndia/Chek      Tipo Vento,da Sever
+ Weather Wand     48  2  1  5,000  N    Mt.Giga/Shikk    Tipo Vento
+ Warding Staff    56  3  1  4,800  N    En Jhou Ruins    Protege de magias
+ Battle Rod       61  2  1  6,200  N    Lyp
+#Rune Staff       72  2  1  8,000  N    Koshka/Chiqua    CP +5, Wisdom +10
+ Blessed Staff    84  2  1 12,000  N    Chedo            Tipo Holy, da Heal
+ Ouroboros        96  2  1 28,000  N    Imp. Castle      Conjura Raise Dead
+
+
+### Clubs ###
+
+Nome              Pwr P  H  Custo  Usa  Local            Info
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Bamboo Stick      8  3  1     130  C   Faerie C.        Cura Confusion
+ Log              13  4  1       -  C   Auto             Tipo Terra
+ Steel Bat        25  5  1   1,000  C   Kyoin/Synesta
+ Spiked Rod       35  5  1   2,200  C   Worent
+ Mace             43  6  1   3,300  C   Wyndia/Chek
+ Flail            45 13  2   7,800  C   Shyde
+ Quarterstaff     54  7  1   5,000  C   Shikk
+ Stone Club       65  6  1   7,000  C   Lyp
+ Crusher          86  8  1   9,400  C   Koshka/Chiqua
+ Giant Club       99 16  1  12,000  C   Chiqua/Sanctum   Pode causar Stun
+ Cudgel          115 10  1  20,000  C   Chedo
+ Earthbreaker    126 12  1  32,000  C   Astana/Imp. Cas  Tipo Terra, conjur
+                                                         Stone Pillar
+ Linked Pole     133  8  1  48,000  C   Manillo          Dano muda com pwr
+                                                         do inimigo
+#Nunchaku        145  8  1  32,000  C   Abnd. V.         Hit -10%, Ctr +5%
+
+
+### Fists ###
+
+Nome              Pwr P  H  Custo  Usa  Local            Info
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Red Knuckles     12  1  1R      -  E   Auto
+ Fork             14  1  1R    300  E   Island of Fire   Pode cegar o inim.
+ Ice Punch        20  1  1R    550  E   Kyion            Tipo Água
+ Flame Punch      20  1  1R    550  E   Kyria¹           Tipo Fogo
+ Raptor Claws     24  1  1R    800  E   Syn. Cel/N.Isl   Tipo Vento
+                                        Ryu's Dream
+ Earth Claws      26  1  1R  1,300  E   Shyde/Tidal F.   Tipo Terra
+ Drill Punch      32  1  1R  1,800  E   Mt. Glom
+ Homing Bomb      40  1  1R  3,500  E   Pung'tap
+ Rocket Punch     51  1  1R  4,300  E   Mt. Ryft
+ Toxic Claws      62  1  1R  5,800  E   Jungle           Pode causar poison
+ Stunner          70  1  1R  7,700  E   Faerie C./Chedo  Pode causar confus
+ Ghostbuster      85  1  1R 15,000  E   Chedo            Dano extra em demon
+ Atomic Punch     93  1  1R 10,000  E   Chiqua River
+ Power Glove      95  1  1R 22,000  E   Chiqua/Chedo     Ctr+20% se o hp do
+                                                         inimigo for < 25%
+#Mass Driver     104  1  1R 17,000  E   Fou-Lu's Tomb
+
+
+### Guns ###
+
+Nome              Pwr P  H  Custo  Usa  Local            Info
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Scattershot      35  4  T      -   U   Auto
+ MultiGun         40  2  2  2,500   U   Sinchon
+ Flintlock        42  2  2  3,200   U   Shikk
+ Sparkler         50  4  T  5,000   U   Lyp              Tipo Fogo
+ Flamethrower     60  4  T  9,000   U   Koshka/Z. Mount  Tipo Fogo,Fireblast
+ Arquebus         70  2  1  6,800   U   Chiqua
+ Repeater         82  6  2 22,000   U   Chiqua/Fou Tomb
+ Mortar          102  6  T 24,000   U   Chedo            Tipo Fogo
+#Culverin        108  6  T 30,000   U   Astana           Hit +20%, Ctr. +5%
+ Electrifier     110  2  1 16,000   U   Fou-Lu's Tomb    
+
+======================================X======================================
+                        III. B# Lista de Armaduras
+======================================X======================================
+
+
+### Armor ###
+
+Nome              Def  P   Custo Usa  Local            Info
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Lightning          0  0    200  E    Mt. Glom         Agl +40, Ev +20%
+ Leather Armor      5  2    220  RSC  Sarai/Chamba/
+                                      Kyria
+ Chain Cap         10  4    600  RSC  Kyoin/Synesta
+ Light Armor       10  0    200  E    Mt. Glom         Agl +20, Ev +10%
+ Cuirass           13  4    840  RUSC Astana/Shyde
+ Steel BPlate      17  3  1,300  RSC  A F Swamp/Ludia
+ Stout Mail        17  3  5,000  RUSC Mt. Glom         Dano se torna Z
+ Scale Mail        20  5  2,100  RSC  Wyndia/A F Swamp
+ Maelstrom         20  5    200  E    Mt. Glom         Pode causar Storm
+ Gargantua         25  8      -  E    Auto
+ Midas' Armor      25  5  5,000  RUSC Abnd. V.         Dano se torna Z
+ Asbestos Armor    26  4  2,700  RSC  Ice Peak/Chek
+ Amber BPlate      28  4      -  RUSC Auto
+ Stout Mail        30  5    200  E    Mt. Glom
+ Wind Armor        30  5    200  E    Mt. Glom         Resiste a vento
+ Whirlwind         30  5    200  E    Mt. Glom         Resiste a vento
+ Orihalcyon        30  5    200  E    Mt. Glom         Critical+
+ Quicksilver       30  5    200  E    Mt. Glom         Da Speed quando eqp
+ Defender          30  5    200  E    Mt. Glom/Imp. C  Da Barrier qnd eqp
+ Brigandine        35  5  4,800  RSC  Shikk
+ Heavy Armor       40 10    200  E    Mt. Glom
+ Full Plate        47  8  6,000  RSC  Lyp
+ Mithril Rig       50 15    200  E    Mt. Glom
+#Chopam Plate      50  8 32,000  E    Fou-Lu's Tomb    Aumenta resistência
+ Silver Mail       54  5  6,800  RSC  Tidal F/Chiqua
+ Mithril Armor     64  5  8,000  RUSC Pauk
+ Blizzard Mail     66  6  9,300  RSC  Koshka           Resiste Vento,Água;
+                                                       Não res Terra, Fogo
+ Magma Armor       66  6  9,300  RSC  Chiqua/Mt. Yogy  Resiste Fogo,Terra;
+                                                       Não res Água, Vento
+ Force Armor       82  7 15,000  RSC  Chiqua           Da Barrier qnd eqp
+ Damascus Mail     88  6 23,000  RUSC Astana
+ Life Armor        90  9 50,000  RSC  Astana           Restora 100hp p/turn
+ Mist Armor        93  8 40,000  RSC  Chedo/Imp Castl
+ Dragon Armor      96  8 38,000  R    Imp Castl        Resiste a ataques Br
+#King's Armor     100  7      -  S    Mukto            Da Focus em quem eqp
+#Royal Armor      102  8      -  R    Imperial Castle
+
+
+### Cloths ###
+
+Nome              Def  P   Custo Usa   Local            Info
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Clothing           4  2      -  RNUSC Auto
+ Waistcloth         8  2    320  RNUSC Chamba/Kurok 
+ Ranger Garb       16  3  1,500  RNUSC Worent           Resiste a Fogo
+ Manly Clothes     17  3  2,000  RSC   Worent/E. Mind   Revive e quebra 
+                                       Faerie World
+ Fighting Robe     23  3  2,500  RNUSC Pung'tap
+ Wetsuit           30  7  3,500  RNUSC Fane Sea God     Resiste a Água
+ Light Clothing    34  0  4,500  RNUS  Imp. Castle      Da Speed quando eqp
+ Armored Vest      60  6  7,200  RNUSC C River/Koshka   Resiste a atq a dist
+ Wolfskin          72  4  9,500  RNUS  Pauk
+ Burglar Garb      77  5 12,000  U     Imperial Castle  Critical +10%
+#Gideon's Garb     93 10 35,000  C     Chedo            Power +10
+
+
+### Dresses ###
+
+Nome              Def  P   Custo Usa  Local            Info
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Fancy Dress        5  2      -  NU   Auto
+ Crepe Cape        12  2    730  NU   Astana/Ludia/
+                                      Shyde/Kyoin
+ Mage's Robes      19  3  2,300  N    Wyndia/Chek      Resiste a mágica
+ Party Dress       25  4  2,500  NU   Wyndia
+ Short Skirt       32  1  3,200  NU   Faerie Colony    Fraco contra mágica
+ Robe of Wind      44  0  6,500  NU   Lyp              Resiste ao vento +5%
+ Sage's Frock      50  4  7,000  N    Faerie Colony    Wisdom +5
+ Holy Robe         64  4  8,200  N    Chiqua
+ Phantom Dress     75  6  9,000  NU   Chedo            Resiste Mind/Status/
+                                                       Death; Fraco a Holy
+ Diana's Dress     83  5 13,000  NU   Chedo
+#Star Dress        92  6 38,000  N    Astana/Imp Cas   CP +5
+#Angel's Vest      94  4 25,000  NU   Imperial Castle                
+
+
+======================================X======================================
+                        III. C# Lista de Acessórios
+======================================X======================================
+
+
+### Accessories ###
+
+Nome              Def  P   Custo Usa  Local            Info
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Red Cape           0  0   ----  E    Auto             Counter+
+ Hairband           1  0     50  NU   Auto
+ Hunting Cap        1  1  8,000  Tds  Faerie/Imp Cas   Learning Skill +40%
+ Bandana            2  1     30  Tds  Sarai/N Chamba
+ Holy Mantle        2  1 12,000  Tds  Shyde/Imp Cas    Reduz encounter rate
+ Bell Collar        3  1 10,000  NU   Shyde            Aumenta encounter rate
+ Cupid's Lyre       3  1 15,000  Tds  Astana/Fou Tomb  Restora HP qnd Anda/Luta
+ Speed Boots        3  0  4,500  Tds  Faerie/Mt. Giga  Speed +20
+ UV Goggles         3  1  3,000  Tds  Faerie/Chiqua    Resiste a Blind
+ Brass Helm         3  2     90  RCSE Sarai/Chamba/Syn 
+ Wisdom Ring        3  2  5,000  Tds  Faerie/Kwanso¹   Wisdom +20
+ Dream Ring         3  2  3,000  Tds  Faerie           Resiste a Sleep
+ Winged Boots       4  0  7,000  Tds  Faerie           Dodge +20%
+ Artemis' Cap       4  1  6,000  Tds  Ludia/Faerie     Hit rate +25%
+ Balance Ring       4  2  3,000  Tds  DWyndia/Faerie/  Resiste a Confusion
+                                      Imperial Castle
+ Hawk's Ring        5  1  6,000  Tds  Faerie/Chedo     Fica alerta
+ Glass Domino       5  2    220  Tds  Faerie/Chamba/
+                                      Lud/Kyoin/Kurok/
+ Titan's Boots      6  3  6,000  Tds  Faerie/KoshkaR   Power +10
+ Bronze Shield      7  2    380  Tds  Worent/Kasq W
+ Face Guard         8  3    450  RCE  Astana/Ludia/Shd
+ Ivory Bangle       9  1 35,000  Tds  Sonne/Imp. Cas   Restora HP qnd Anda/Luta
+ Long Boots         9  3    550  Tds  Shyde/Lyp/Wyndia
+ Dress Shoes       10  0    800  NU   Lyp/Faerie/Manil
+ Demon's Helm      12  3  1,000  RCSE FSea God/Isl F
+ Buckler           13  3  1,200  Tds  N. Islands
+ Divine Helm       14  4 21,000  RCSE Lyp¹/Z Mounts    Resiste a instant death
+ Combat Boots      15  3      -  Tds  Auto
+ Spats             17  0  9,000  NU   Chedo
+ Damacsus Helm     19  4 11,000  RCSE Chedo/Astana
+#Dragon Helm       22  4 32,000  R    Imperial Castle
+
+
+### Outros ###
+
+Nome            Custo  Local                Info
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Astral Ward   18,000  Checkpoint           Magic Def+, Physc Def-
+ Aura Ring        500  Faerie/Astana/Kyri¹  Resiste a "Mind attacks"
+ Barrier Ring   5,000  Checkp/Astana        Não sofre "Mind attacks"
+ Body Ward     18,000  Checkpoint           Physic Def+, Magic Def-
+ Coupons        2,500  Manillo              Desconto em todas as lojas
+ Diamond Ring   3,000  Checkp/Astana        Resiste a Instant Death
+ Dragon Tear   50,000  Mukto/Manillo        Não muda os status
+ Earth Ward     2,500  Faerie/Imp. Cas      Resiste a Terra
+ Fire Ward      2,500  Mt. Glom/Imp. Cas    Resiste a Fogo
+ Harmonic Ring 25,000  Fou's Tomb/Faerie    Combo rate aumenta
+ Healing Ring  18,000  Astana/Imp. Cas      Cura status anormais na lt
+ Light Bangle   5,000  Astana/Checkp/YoraeS Resiste a mudança de status
+ Life Sandals     500  Chamba/Astana/Faerie Resiste a mudança de status
+ Medallion        888  Abandoned Village    Pwr +3, Def -3 para cada eqp*
+ Midas Stone    3,000  Manillo/Faerie       Zenny ganho +50%, Peso +10
+ Poison Ward    2,500  Faerie/Chiqua        Imune a poison
+ Ring of Clay  10,000  Sonne                Ganha vida com ataques de Terra
+ Ring of Fire  10,000  Island of Fire       Ganha vida com ataques de Fogo
+ Ring of Ice   10,000  Lyp                  Ganha vida com ataques de Água
+ Ring of Wind  10,000  Wyndia               Ganha vida com ataques de Vento
+ Shaman's Ring 40,000  Faerie/Imperial Cast AP das mágias cai 25%
+ Soul Gem       1,000  Sarai/Syn/Kyo/Astana Auto-revive e depois breaks
+ Soul Ring     30,000  Sinchon/Checkp/Manil CP +50%
+ Spirit Ring   65,000  Imp Castle/Chedo     CP x2
+ Talisman         300  Astana/Faerie        Resiste a Instant Death
+ Toothpick         20  Imp Cas/BanditH/Abnd Critical +5% 
+ Topaz Tear    45,000  Checkpoint           Ataques de cura ficam no max
+ Water Ward     2,500  Faerie/Ershin's Mind Resiste à água
+ Wind Ward      2,500  Faerie/Ershin's Mind Resiste ao vento
+
+* Todos equipados com Medallion da +18 Atk + 18 Def
+
+======================================X======================================
+                        III. D# Lista de Items
+======================================X======================================
+
+Nome           Custo  Local                Info
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Ambrosia      5,000  Zhinga M/Imp Castle  +full HP para todos dragões
+ Ammonia         250  Shikk/Lyp/Chiqua/Kos Revive com HP baixo
+ Antidote         12  Pauk/Astana/Chedo    Cura Poison
+ Apple            10  Wood de Kyria        +100 HP
+ Aurum            10  Faerie               Usado para setar os skills no camp
+ Belladonna      200  Faerie/Imp Castle    Conjura Death
+ Bent Screw       10  Fou-Lu's Tomb        Usado no ferreiro em Mt. Glom
+ Berries           8  LudiaR/Plains        +50 HP
+ Bird Drop         2  Faerie               Fertilizante
+ Burnt Plug       50  Hesperia             Usado no ferreiro em Mt. Glom
+ Croc Tear         4  Sarai                +20 HP, pode curar status
+ Dark Draught  2,800  Imp Castle/E J Ruins +Hit rate e desvio até dormir
+ Dirty Filter     20  Chiqua River         Usado no ferreiro em Mt. Glom
+ Dodge Seed      280  Hesperia             Desvia mais até dormir
+ Dragon Scale    200  Sarai                +Def na batalha
+ Dynamite        500  Faerie/Chedo         Conjura Quake
+ Earth Seed      300  Faerie               +Resistência a Terra até dormir
+ Electrode       250  Faerie/Mt. Yogy      Conjura Stone Pillar
+ Elixer        1,200  Fou-Lu's Tomb        +Resistência a elementos até dorm
+ Elixer +      3,000  Fou's Tomb/Imp Cast  ++Resistência a elementos até drm
+ Eye drops        14  Sarai/Chedo/Synesta  Cura Blind
+ Faerie Drop       -  Faerie World         Usado para a falsa King's Sword
+ Flash Grenade   100  Faerie               Causa blind
+ Firecracker     700  Chedo/Mt. Yogy       Conjura Inferno
+ Fire Seed       300  Mt. Glom/Faerie      +Resistência a Fogo até dormir
+ Fish-head       400  Manillo              +1 Wis permanente
+ Flank           300  Navio                +10 AP
+ Ginseng         200  Sarai                +Pwr na batalha
+ Glass Shard      30  Tidal Flats          Usado no ferreiro em Mt. Glom
+ Hard Seed       250  Ilhas do norte       +Def até dormir
+ Headband        200  Sarai                +Wis na batalha
+ Healing Herb     20  Faerie/Sarai/Astana  +300 HP
+ Holy Seed       700  Faerie               +Healing até dormir
+ Icicle          600  Sarai                Conjura Blizzard
+ Iron Scraps      20  Fou-Lu's Tomb/Tidal  Usado no ferreiro em Mt. Glom
+ Ivory Dice      500  Astana/Abandoned V   +Exp e Zenny que vem do inimigo
+ Jabbergrass      20  Kyoin/Astana/Shyde   Cura Silence
+ Knockout Gas    100  Faerie/NChamba       Causa sleep
+ Life Shard      400  Pung'Tap/Imp Castle  +10 HP permanente
+ Loins           800  Hesperia             +800 HP para todo time
+ Magic Shard     400  Manillo              +1 AP permanente
+ Moon Tears    2,000  Sarai                +full HP e status para todo time
+ Molotov         100  Kyion/Worent/Kyria/F Conjura Flare
+ Mouth Gag       100  Faerie/Tidal Flats   Causa silence
+ Mozweed         100  Oceano(navio)        Cura todos status ruins
+ MultiVitamin    500  Faerie               +1500 HP
+ Napalm          800  Faerie/Astana        Conjura Simoon
+ Old Tire         40  Hesperia             Usado no ferreiro em Mt. Glom
+ Panacea         100  Pauk/Chedo/Faerie    Cura todos status ruins
+ Phoenix Seed    300  Faerie               +Resistência a Death até dormir
+ Poison Powder   100  Tidal Flats          Causa poison
+ Power food      400  Manillo              +1 Pwr permanente
+ Protein         400  Imp Castle/ZhingaM   +1 Def permanente
+ Ribs             20  Dugeon de Synesta    +300 HP
+ Roast           100  Região de Wyndia     +500 HP, pode curar status
+ Rotten Meat       2  Faerie               Fertilizante
+ Rusty Pipe       80  Hesperia             Usado no ferreiro em Mt. Glom
+ Sage Seed       250  Ilhas do norte       +Wis até dormir
+ ScorchedRice      4  Faerie               Fertilizante
+ Ship Parts        -  Sandflier Valley     "Usado" para concertar o Sandf
+ Stamp Card        -  Manillo              Usado para comprar item do Manil
+ Straw            20  Abandoned Village    Conjura Drain
+ Strength Seed   250  Imperial Castle      +Pwr até dormir
+ Strike Seed     280  Sul de Hesperia      +Critical até dormir
+ SuperVitamin    800  Soma/Jungle          +full HP
+ Swallow Eye     400  Manillo              +1 Agl permanente
+ Target Seed     280  Mt. Giga/Imp Castle  +Counter até dormir
+ Taser         1,200  Faerie/Astana        Conjura Disaster
+ Vitamin         100  Faerie               +800 HP
+ Vitamins      1,000  Faerie               +1000 HP para todo time
+ Vigor Seed      300  Faerie               +Resistência a status até drm
+ Void Sphere     500  Faerie               Conjura Typhoon
+ Water Bomb      100  Ice Peak             Conjura Frost
+ Water Seed      300  Faerie               +Resistência a Água até dormir
+ Weather Vane    100  Fane of the Sea God  Conjura Sever
+ Wind Seed       300  Faerie               +Resistência a Vento até dormir
+ Wisdom Seed     800  Faerie               +30 AP
+ Wisdom Fruit  2,500  Wyndia               +150 AP

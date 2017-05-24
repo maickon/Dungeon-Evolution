@@ -1,0 +1,180 @@
+>>>>>>>>>>>>Capacete Espanhol Lv 9<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 7200
+Preço total: 7200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 9° Nível
+Nível de poder (NP): 36
+RD: 9
+Defesa: 18
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete São Venceslau Lv 1<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 800
+Preço total: 800
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 1° Nível
+Nível de poder (NP): 4
+RD: 1
+Defesa: 2
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Máscara Spartan Lv 21<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 10250
+Preço total: 10250
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 21° Nível
+Nível de poder (NP): 42
+RD: 0
+Defesa: 21
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Facial Lv 18<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 14400
+Preço total: 14400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 18° Nível
+Nível de poder (NP): 72
+RD: 18
+Defesa: 36
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Frígida Nasal Lv 2<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 1100
+Preço total: 1100
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 2° Nível
+Nível de poder (NP): 6
+RD: 2
+Defesa: 2
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete Espanhol Lv 17<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 18600
+Preço total: 18600
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 17° Nível
+Nível de poder (NP): 68
+RD: 17
+Defesa: 34
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete Espanhol Lv 17<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 18600
+Preço total: 18600
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 17° Nível
+Nível de poder (NP): 68
+RD: 17
+Defesa: 34
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Máscara Spartan Lv 19<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 4750
+Preço total: 4750
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 19° Nível
+Nível de poder (NP): 38
+RD: 0
+Defesa: 19
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Frígida Nasal Lv 20<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 16000
+Preço total: 16000
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 20° Nível
+Nível de poder (NP): 60
+RD: 20
+Defesa: 20
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Máscara Spartan Lv 3<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 750
+Preço total: 750
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 3° Nível
+Nível de poder (NP): 6
+RD: 0
+Defesa: 3
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete São Venceslau Lv 23<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 18400
+Preço total: 18400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 23° Nível
+Nível de poder (NP): 92
+RD: 23
+Defesa: 46
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete Vinking com Chifres Lv 11<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 8800
+Preço total: 8800
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 11° Nível
+Nível de poder (NP): 44
+RD: 11
+Defesa: 22
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Facial Lv 7<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 5600
+Preço total: 5600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 7° Nível
+Nível de poder (NP): 28
+RD: 7
+Defesa: 14
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Máscara Spartan Lv 8<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 2000
+Preço total: 2000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 8° Nível
+Nível de poder (NP): 16
+RD: 0
+Defesa: 8
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete Vinking com Chifres Lv 1<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 800
+Preço total: 800
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 1° Nível
+Nível de poder (NP): 4
+RD: 1
+Defesa: 2
+
+_________________________________________________________________________________________________

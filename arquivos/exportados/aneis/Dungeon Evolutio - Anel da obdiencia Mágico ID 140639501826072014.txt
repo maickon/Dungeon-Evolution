@@ -1,0 +1,52 @@
+>>>>>>>>>>>>Anel da obdiencia Lv 10<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 115000
+Preço total: 124900
+Esta arma possui 1 slot de encaixe livre
+Encaixes 1
+Requisito: 10° Nível
+Nível de poder (NP): 261
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 9900 PO
+Preço para Venda: 4950 PO
+Nível da pedra: 4
+Bônus em habilidade (Vigor): 13
+Bônus de Redução de Dano: 19
+Regenera por rodada: 18
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel de Kaiser Lv 15<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 87500
+Preço total: 87500
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 15° Nível
+Nível de poder (NP): 60
+Força: 15
+Destreza: 15
+Vigor: 15
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da Luz Lv 11<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 59600
+Preço total: 60650
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 11° Nível
+Nível de poder (NP): 83
+Bônus de dano em magia: 22
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 1050 PO
+Preço para Venda: 525 PO
+Nível da pedra: 2
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 5
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 0
+
+_________________________________________________________________________________________________

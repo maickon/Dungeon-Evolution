@@ -1,0 +1,45 @@
+>>>>>>>>>>>>Camida de cota de Malha Lv 7<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 10850
+Preço total: 10850
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 7° Nível
+Nível de poder (NP): 49
+RD: 7
+Defesa: 35
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Camisa de cota de Placas Lv 23<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 48300
+Preço total: 48300
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 23° Nível
+Nível de poder (NP): 207
+RD: 46
+Defesa: 138
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Camisa de cota de Placas Lv 19<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 64900
+Preço total: 76350
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 19° Nível
+Nível de poder (NP): 225
+RD: 38
+Defesa: 114
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 11450 PO
+Preço para Venda: 5725 PO
+Nível da pedra: 6
+Bônus de experiência: 0
+Bônus de dano: 27
+Bônus em habilidade (Força): 26
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________

@@ -1,0 +1,3096 @@
+>>>>>>>>>>>>Escudo do Campeão Lv 6<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 49700
+Preço total: 57050
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 6° Nível
+Nível de poder (NP): 155
+RD: 54
+Defesa: 54
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 6150 PO
+Preço para Venda: 3075 PO
+Nível da pedra: 5
+Bônus de experiência: 0
+Bônus de dano: 25
+Bônus em habilidade (Força): 0
+Bônus de precisão: 11
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 1200 PO
+Preço para Venda: 600 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 3
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Platina Lv 3<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 30800
+Preço total: 38801
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 3° Nível
+Nível de poder (NP): 74.34
+RD: 21
+Defesa: 18
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 5800 PO
+Preço para Venda: 2900 PO
+Nível da pedra: 2
+Bônus de esquiva: 0
+Chance de crítico: 10
+Bônus de precisao a distância: 5
+Bônus em habilidade (Destreza): 5
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 2201 PO
+Preço para Venda: 1100.5 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 534
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 2
+Aumenta seu DL(Drop Level): 3
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ossos Lv 73<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 162350
+Preço total: 448050
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 73° Nível
+Nível de poder (NP): 1931
+RD: 292
+Defesa: 219
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 10800 PO
+Preço para Venda: 5400 PO
+Nível da pedra: 12
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 60
+Regenera por rodada: 0
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 274900 PO
+Preço para Venda: 137450 PO
+Nível da pedra: 45
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 1062
+Bônus de dano na habilidade de classe: 223
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ferro Grosso Lv 44<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 306600
+Preço total: 952280
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 44° Nível
+Nível de poder (NP): 4931.2
+RD: 572
+Defesa: 440
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 164600 PO
+Preço para Venda: 82300 PO
+Nível da pedra: 35
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 654
+Aumento de dano em Magias: 174
+Aumenta seu DL(Drop Level): 71
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 481080 PO
+Preço para Venda: 240540 PO
+Nível da pedra: 41
+Bônus de ouro extra a cada sessão: 179620
+Bônus em habilidade (Inteligência): 890
+Aumento de dano em Magias: 205
+Aumenta seu DL(Drop Level): 83
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Platina Lv 66<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 257600
+Preço total: 292450
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 66° Nível
+Nível de poder (NP): 1086
+RD: 462
+Defesa: 396
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 25350 PO
+Preço para Venda: 12675 PO
+Nível da pedra: 56
+Bônus de esquiva: 0
+Chance de crítico: 0
+Bônus de precisao a distância: 113
+Bônus em habilidade (Destreza): 0
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 9500 PO
+Preço para Venda: 4750 PO
+Nível da pedra: 7
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 33
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 14
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Aço Lv 67<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 83600
+Preço total: 750713
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 67° Nível
+Nível de poder (NP): 4428.42
+RD: 67
+Defesa: 134
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 660413 PO
+Preço para Venda: 330206.5 PO
+Nível da pedra: 49
+Bônus de ouro extra a cada sessão: 251042
+Bônus em habilidade (Inteligência): 1275
+Aumento de dano em Magias: 243
+Aumenta seu DL(Drop Level): 98
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 6700 PO
+Preço para Venda: 3350 PO
+Nível da pedra: 3
+Bônus de deflexão: 14
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 7
+Bônus de dano na habilidade de classe: 11
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Campeão Lv 34<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 188300
+Preço total: 444694
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 34° Nível
+Nível de poder (NP): 1724.96
+RD: 306
+Defesa: 306
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 182900 PO
+Preço para Venda: 91450 PO
+Nível da pedra: 30
+Bônus de esquiva: 0
+Chance de crítico: 149
+Bônus de precisao a distância: 60
+Bônus em habilidade (Destreza): 469
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 73494 PO
+Preço para Venda: 36747 PO
+Nível da pedra: 13
+Bônus de ouro extra a cada sessão: 20396
+Bônus em habilidade (Carisma): 105
+Aumento de Pvs reservas: 63
+Aumenta seu DL(Drop Level)/Def/Esq: 27
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo da Vida +5% de na reserva de vida Lv 20<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 52000
+Preço total: 124157
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 20° Nível
+Nível de poder (NP): 601.05
+RD: 40
+Defesa: 80
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 69757 PO
+Preço para Venda: 34878.5 PO
+Nível da pedra: 20
+Bônus de ouro extra a cada sessão: 44505
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 0
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 2400 PO
+Preço para Venda: 1200 PO
+Nível da pedra: 2
+Bônus de experiência: 0
+Bônus de dano: 9
+Bônus em habilidade (Força): 0
+Bônus de precisão: 5
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Campeão Lv 99<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 520050
+Preço total: 1651899
+Esta arma possui 0 slot de encaixe livre
+Encaixes 3
+Requisito: 99° Nível
+Nível de poder (NP): 7323.14
+RD: 891
+Defesa: 891
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 15899 PO
+Preço para Venda: 7949.5 PO
+Nível da pedra: 4
+Bônus de experiência: 3214
+Bônus de dano: 18
+Bônus em habilidade (Força): 0
+Bônus de precisão: 9
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 1061200 PO
+Preço para Venda: 530600 PO
+Nível da pedra: 92
+Bônus de deflexão: 456
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 4320
+Bônus de dano na habilidade de classe: 460
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 54750 PO
+Preço para Venda: 27375 PO
+Nível da pedra: 29
+Bônus de esquiva: 0
+Chance de crítico: 144
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ferro Frio Lv 87<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 263600
+Preço total: 1350400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 87° Nível
+Nível de poder (NP): 6950
+RD: 522
+Defesa: 348
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 1060450 PO
+Preço para Venda: 530225 PO
+Nível da pedra: 71
+Bônus de deflexão: 355
+Bônus em habilidade (Sabedoria): 2588
+Pontos de habilidade (PH): 2603
+Bônus de dano na habilidade de classe: 351
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 26350 PO
+Preço para Venda: 13175 PO
+Nível da pedra: 19
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 0
+Regenera por rodada: 94
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Mithril Lv 66<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 412800
+Preço total: 1569405
+Esta arma possui 0 slot de encaixe livre
+Encaixes 3
+Requisito: 66° Nível
+Nível de poder (NP): 7798.37
+RD: 726
+Defesa: 660
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 124905 PO
+Preço para Venda: 62452.5 PO
+Nível da pedra: 18
+Bônus de ouro extra a cada sessão: 39837
+Bônus em habilidade (Carisma): 185
+Aumento de Pvs reservas: 87
+Aumenta seu DL(Drop Level)/Def/Esq: 37
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 300050 PO
+Preço para Venda: 150025 PO
+Nível da pedra: 35
+Bônus de deflexão: 174
+Bônus em habilidade (Sabedoria): 639
+Pontos de habilidade (PH): 648
+Bônus de dano na habilidade de classe: 173
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 731650 PO
+Preço para Venda: 365825 PO
+Nível da pedra: 60
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 1855
+Pontos de habilidade (PH): 1847
+Bônus de dano na habilidade de classe: 300
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo da Vida +5% de na reserva de vida Lv 59<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 119400
+Preço total: 1511037
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 59° Nível
+Nível de poder (NP): 5024.82
+RD: 118
+Defesa: 236
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 38700 PO
+Preço para Venda: 19350 PO
+Nível da pedra: 21
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 237
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 1352937 PO
+Preço para Venda: 676468.5 PO
+Nível da pedra: 51
+Bônus de experiência: 277382
+Bônus de dano: 253
+Bônus em habilidade (Força): 1346
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Platina Lv 68<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 264800
+Preço total: 748490
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 68° Nível
+Nível de poder (NP): 3592.77
+RD: 476
+Defesa: 408
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 410940 PO
+Preço para Venda: 205470 PO
+Nível da pedra: 37
+Bônus de ouro extra a cada sessão: 151627
+Bônus em habilidade (Carisma): 708
+Aumento de Pvs reservas: 182
+Aumenta seu DL(Drop Level)/Def/Esq: 75
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 72750 PO
+Preço para Venda: 36375 PO
+Nível da pedra: 9
+Bônus em habilidade (Vigor): 52
+Bônus de Redução de Dano: 44
+Regenera por rodada: 43
+Recuperação de vida por acerto: 185
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Bárbaro Lv 43<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 83050
+Preço total: 152950
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 43° Nível
+Nível de poder (NP): 510
+RD: 86
+Defesa: 129
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 54450 PO
+Preço para Venda: 27225 PO
+Nível da pedra: 26
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 128
+Aumenta seu DL(Drop Level)/Def/Esq: 53
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 15450 PO
+Preço para Venda: 7725 PO
+Nível da pedra: 34
+Bônus de experiência: 0
+Bônus de dano: 0
+Bônus em habilidade (Força): 0
+Bônus de precisão: 69
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Druída Lv 28<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 49400
+Preço total: 108050
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 28° Nível
+Nível de poder (NP): 449
+RD: 28
+Defesa: 84
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 29600 PO
+Preço para Venda: 14800 PO
+Nível da pedra: 10
+Bônus de deflexão: 48
+Bônus em habilidade (Sabedoria): 61
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 47
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 29050 PO
+Preço para Venda: 14525 PO
+Nível da pedra: 10
+Bônus em habilidade (Vigor): 56
+Bônus de Redução de Dano: 46
+Regenera por rodada: 49
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Rei Lv 55<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 192250
+Preço total: 337550
+Esta arma possui 0 slot de encaixe livre
+Encaixes 3
+Requisito: 55° Nível
+Nível de poder (NP): 1030.5
+RD: 220
+Defesa: 385
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 16050 PO
+Preço para Venda: 8025 PO
+Nível da pedra: 12
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 57
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 119700 PO
+Preço para Venda: 59850 PO
+Nível da pedra: 14
+Bônus em habilidade (Vigor): 111
+Bônus de Redução de Dano: 68
+Regenera por rodada: 68
+Recuperação de vida por acerto: 295
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 9550 PO
+Preço para Venda: 4775 PO
+Nível da pedra: 7
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 34
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Mithril Lv 16<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 112800
+Preço total: 153100
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 16° Nível
+Nível de poder (NP): 430.1
+RD: 176
+Defesa: 160
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 31800 PO
+Preço para Venda: 15900 PO
+Nível da pedra: 5
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 22
+Regenera por rodada: 0
+Recuperação de vida por acerto: 111
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 8500 PO
+Preço para Venda: 4250 PO
+Nível da pedra: 3
+Bônus de deflexão: 15
+Bônus em habilidade (Sabedoria): 8
+Pontos de habilidade (PH): 8
+Bônus de dano na habilidade de classe: 12
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Lv 1<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 20250
+Preço total: 23373
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 1° Nível
+Nível de poder (NP): 17.49
+RD: 0
+Defesa: 1
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 2223 PO
+Preço para Venda: 1111.5 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 549
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 3
+Aumenta seu DL(Drop Level): 2
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 900 PO
+Preço para Venda: 450 PO
+Nível da pedra: 1
+Bônus de experiência: 0
+Bônus de dano: 0
+Bônus em habilidade (Força): 3
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Grossa Lv 82<<<<<<<<<<<<
+Raridade: Único
+Preço da arma: 235000
+Preço total: 461350
+Esta arma possui 0 slot de encaixe livre
+Encaixes 3
+Requisito: 82° Nível
+Nível de poder (NP): 2076
+RD: 410
+Defesa: 328
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 45750 PO
+Preço para Venda: 22875 PO
+Nível da pedra: 70
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 141
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 72150 PO
+Preço para Venda: 36075 PO
+Nível da pedra: 60
+Bônus de experiência: 0
+Bônus de dano: 300
+Bônus em habilidade (Força): 0
+Bônus de precisão: 121
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 108450 PO
+Preço para Venda: 54225 PO
+Nível da pedra: 32
+Bônus em habilidade (Vigor): 531
+Bônus de Redução de Dano: 160
+Regenera por rodada: 0
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Lv 6<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 21500
+Preço total: 63950
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 6° Nível
+Nível de poder (NP): 230
+RD: 0
+Defesa: 6
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 21850 PO
+Preço para Venda: 10925 PO
+Nível da pedra: 6
+Bônus de deflexão: 30
+Bônus em habilidade (Sabedoria): 28
+Pontos de habilidade (PH): 25
+Bônus de dano na habilidade de classe: 29
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 20600 PO
+Preço para Venda: 10300 PO
+Nível da pedra: 6
+Bônus de deflexão: 26
+Bônus em habilidade (Sabedoria): 26
+Pontos de habilidade (PH): 22
+Bônus de dano na habilidade de classe: 30
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ossos Lv 87<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 189650
+Preço total: 563650
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 87° Nível
+Nível de poder (NP): 2038
+RD: 348
+Defesa: 261
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 153150 PO
+Preço para Venda: 76575 PO
+Nível da pedra: 37
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 738
+Bônus de dano na habilidade de classe: 0
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 220850 PO
+Preço para Venda: 110425 PO
+Nível da pedra: 24
+Bônus em habilidade (Vigor): 319
+Bônus de Redução de Dano: 116
+Regenera por rodada: 118
+Recuperação de vida por acerto: 490
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Rei Lv 50<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 167500
+Preço total: 1117356
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 50° Nível
+Nível de poder (NP): 3806.16
+RD: 200
+Defesa: 350
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 90800 PO
+Preço para Venda: 45400 PO
+Nível da pedra: 24
+Bônus de esquiva: 0
+Chance de crítico: 0
+Bônus de precisao a distância: 48
+Bônus em habilidade (Destreza): 320
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 859056 PO
+Preço para Venda: 429528 PO
+Nível da pedra: 40
+Bônus de experiência: 171816
+Bônus de dano: 197
+Bônus em habilidade (Força): 840
+Bônus de precisão: 81
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Bárbaro Lv 93<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 145550
+Preço total: 214600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 93° Nível
+Nível de poder (NP): 938
+RD: 186
+Defesa: 279
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 64500 PO
+Preço para Venda: 32250 PO
+Nível da pedra: 72
+Bônus de deflexão: 358
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 0
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 4550 PO
+Preço para Venda: 2275 PO
+Nível da pedra: 3
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 9
+Aumento de dano em Magias: 11
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Corpo Lv 21<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 151250
+Preço total: 173850
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 21° Nível
+Nível de poder (NP): 623
+RD: 210
+Defesa: 273
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 7600 PO
+Preço para Venda: 3800 PO
+Nível da pedra: 4
+Bônus em habilidade (Vigor): 15
+Bônus de Redução de Dano: 0
+Regenera por rodada: 19
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 15000 PO
+Preço para Venda: 7500 PO
+Nível da pedra: 17
+Bônus de esquiva: 83
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Druída Lv 14<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 44700
+Preço total: 65900
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 14° Nível
+Nível de poder (NP): 169
+RD: 14
+Defesa: 42
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 16550 PO
+Preço para Venda: 8275 PO
+Nível da pedra: 8
+Bônus de deflexão: 39
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 38
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 4650 PO
+Preço para Venda: 2325 PO
+Nível da pedra: 3
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 8
+Aumento de dano em Magias: 12
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Druída Lv 3<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 23150
+Preço total: 26059
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 3° Nível
+Nível de poder (NP): 31.73
+RD: 3
+Defesa: 9
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 1409 PO
+Preço para Venda: 704.5 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 673
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 1
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 1500 PO
+Preço para Venda: 750 PO
+Nível da pedra: 3
+Bônus de esquiva: 0
+Chance de crítico: 0
+Bônus de precisao a distância: 7
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo da Vida +5% de na reserva de vida Lv 86<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 157600
+Preço total: 2060479
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 86° Nível
+Nível de poder (NP): 10929.23
+RD: 172
+Defesa: 344
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 1553629 PO
+Preço para Venda: 776814.5 PO
+Nível da pedra: 78
+Bônus de ouro extra a cada sessão: 624153
+Bônus em habilidade (Inteligência): 3128
+Aumento de dano em Magias: 389
+Aumenta seu DL(Drop Level): 157
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 349250 PO
+Preço para Venda: 174625 PO
+Nível da pedra: 59
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 291
+Regenera por rodada: 0
+Recuperação de vida por acerto: 1187
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ferro Frio Lv 29<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 101200
+Preço total: 163530
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 29° Nível
+Nível de poder (NP): 651.87
+RD: 174
+Defesa: 116
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 4031 PO
+Preço para Venda: 2015.5 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 854
+Bônus em habilidade (Carisma): 2
+Aumento de Pvs reservas: 5
+Aumenta seu DL(Drop Level)/Def/Esq: 3
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 58299 PO
+Preço para Venda: 29149.5 PO
+Nível da pedra: 11
+Bônus de ouro extra a cada sessão: 16533
+Bônus em habilidade (Carisma): 72
+Aumento de Pvs reservas: 52
+Aumenta seu DL(Drop Level)/Def/Esq: 23
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ferro Frio Lv 57<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 179600
+Preço total: 595145
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 57° Nível
+Nível de poder (NP): 3166.97
+RD: 342
+Defesa: 228
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 13613 PO
+Preço para Venda: 6806.5 PO
+Nível da pedra: 4
+Bônus de ouro extra a cada sessão: 2709
+Bônus em habilidade (Inteligência): 13
+Aumento de dano em Magias: 20
+Aumenta seu DL(Drop Level): 8
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 401932 PO
+Preço para Venda: 200966 PO
+Nível da pedra: 37
+Bônus de ouro extra a cada sessão: 149688
+Bônus em habilidade (Inteligência): 714
+Aumento de dano em Magias: 184
+Aumenta seu DL(Drop Level): 75
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ferro Grosso Lv 82<<<<<<<<<<<<
+Raridade: Único
+Preço da arma: 554800
+Preço total: 2955550
+Esta arma possui 0 slot de encaixe livre
+Encaixes 3
+Requisito: 82° Nível
+Nível de poder (NP): 14574
+RD: 1066
+Defesa: 820
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 1191600 PO
+Preço para Venda: 595800 PO
+Nível da pedra: 79
+Bônus de deflexão: 392
+Bônus em habilidade (Sabedoria): 3205
+Pontos de habilidade (PH): 3201
+Bônus de dano na habilidade de classe: 0
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 407700 PO
+Preço para Venda: 203850 PO
+Nível da pedra: 72
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 2646
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 801450 PO
+Preço para Venda: 400725 PO
+Nível da pedra: 78
+Bônus de experiência: 0
+Bônus de dano: 0
+Bônus em habilidade (Força): 3159
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ferro Grosso Lv 72<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 480800
+Preço total: 556300
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 72° Nível
+Nível de poder (NP): 1848
+RD: 936
+Defesa: 720
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 69200 PO
+Preço para Venda: 34600 PO
+Nível da pedra: 11
+Bônus em habilidade (Vigor): 67
+Bônus de Redução de Dano: 0
+Regenera por rodada: 0
+Recuperação de vida por acerto: 230
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 6300 PO
+Preço para Venda: 3150 PO
+Nível da pedra: 3
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 7
+Pontos de habilidade (PH): 9
+Bônus de dano na habilidade de classe: 12
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Lv 77<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 49250
+Preço total: 672638
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 77° Nível
+Nível de poder (NP): 4009.59
+RD: 0
+Defesa: 77
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 230100 PO
+Preço para Venda: 115050 PO
+Nível da pedra: 53
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 1481
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 393288 PO
+Preço para Venda: 196644 PO
+Nível da pedra: 36
+Bônus de ouro extra a cada sessão: 142259
+Bônus em habilidade (Carisma): 702
+Aumento de Pvs reservas: 176
+Aumenta seu DL(Drop Level)/Def/Esq: 72
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ferro Frio Lv 45<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 151000
+Preço total: 475250
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 45° Nível
+Nível de poder (NP): 1519.9
+RD: 270
+Defesa: 180
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 177400 PO
+Preço para Venda: 88700 PO
+Nível da pedra: 36
+Bônus de esquiva: 0
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 688
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 146850 PO
+Preço para Venda: 73425 PO
+Nível da pedra: 19
+Bônus em habilidade (Vigor): 202
+Bônus de Redução de Dano: 93
+Regenera por rodada: 0
+Recuperação de vida por acerto: 399
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo dos 1000 Guerreiros Lv 25<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 125000
+Preço total: 158554
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 25° Nível
+Nível de poder (NP): 542.36
+RD: 150
+Defesa: 200
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 22754 PO
+Preço para Venda: 11377 PO
+Nível da pedra: 6
+Bônus de ouro extra a cada sessão: 5936
+Bônus em habilidade (Inteligência): 23
+Aumento de dano em Magias: 26
+Aumenta seu DL(Drop Level): 12
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 10800 PO
+Preço para Venda: 5400 PO
+Nível da pedra: 7
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 30
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 15
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo da Vida +5% de na reserva de vida Lv 45<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 92000
+Preço total: 206250
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 45° Nível
+Nível de poder (NP): 950
+RD: 90
+Defesa: 180
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 89550 PO
+Preço para Venda: 44775 PO
+Nível da pedra: 19
+Bônus de deflexão: 93
+Bônus em habilidade (Sabedoria): 205
+Pontos de habilidade (PH): 210
+Bônus de dano na habilidade de classe: 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 24700 PO
+Preço para Venda: 12350 PO
+Nível da pedra: 7
+Bônus de deflexão: 31
+Bônus em habilidade (Sabedoria): 29
+Pontos de habilidade (PH): 32
+Bônus de dano na habilidade de classe: 33
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Rei Lv 53<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 186350
+Preço total: 520650
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 53° Nível
+Nível de poder (NP): 2465.67
+RD: 212
+Defesa: 371
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 270400 PO
+Preço para Venda: 135200 PO
+Nível da pedra: 29
+Bônus de ouro extra a cada sessão: 94867
+Bônus em habilidade (Carisma): 449
+Aumento de Pvs reservas: 143
+Aumenta seu DL(Drop Level)/Def/Esq: 59
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 63900 PO
+Preço para Venda: 31950 PO
+Nível da pedra: 46
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 0
+Regenera por rodada: 228
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ferro Frio Lv 33<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 112400
+Preço total: 221967
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 33° Nível
+Nível de poder (NP): 776.38
+RD: 198
+Defesa: 132
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 78980 PO
+Preço para Venda: 39490 PO
+Nível da pedra: 11
+Bônus de experiência: 15680
+Bônus de dano: 0
+Bônus em habilidade (Força): 76
+Bônus de precisão: 23
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 30587 PO
+Preço para Venda: 15293.5 PO
+Nível da pedra: 7
+Bônus de ouro extra a cada sessão: 7558
+Bônus em habilidade (Carisma): 32
+Aumento de Pvs reservas: 34
+Aumenta seu DL(Drop Level)/Def/Esq: 14
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Platina Lv 39<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 160400
+Preço total: 478583
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 39° Nível
+Nível de poder (NP): 1955.38
+RD: 273
+Defesa: 234
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 142650 PO
+Preço para Venda: 71325 PO
+Nível da pedra: 35
+Bônus em habilidade (Vigor): 631
+Bônus de Redução de Dano: 0
+Regenera por rodada: 171
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 175533 PO
+Preço para Venda: 87766.5 PO
+Nível da pedra: 17
+Bônus de experiência: 33238
+Bônus de dano: 82
+Bônus em habilidade (Força): 157
+Bônus de precisão: 34
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ossos Lv 75<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 176250
+Preço total: 1611403
+Esta arma possui 0 slot de encaixe livre
+Encaixes 3
+Requisito: 75° Nível
+Nível de poder (NP): 8168.26
+RD: 300
+Defesa: 225
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 962562 PO
+Preço para Venda: 481281 PO
+Nível da pedra: 60
+Bônus de ouro extra a cada sessão: 374375
+Bônus em habilidade (Carisma): 1840
+Aumento de Pvs reservas: 296
+Aumenta seu DL(Drop Level)/Def/Esq: 120
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 2391 PO
+Preço para Venda: 1195.5 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 461
+Bônus em habilidade (Inteligência): 2
+Aumento de dano em Magias: 2
+Aumenta seu DL(Drop Level): 3
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 470200 PO
+Preço para Venda: 235100 PO
+Nível da pedra: 44
+Bônus em habilidade (Vigor): 1030
+Bônus de Redução de Dano: 219
+Regenera por rodada: 216
+Recuperação de vida por acerto: 889
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Mithril Lv 86<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 528800
+Preço total: 625800
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 86° Nível
+Nível de poder (NP): 2277
+RD: 946
+Defesa: 860
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 53350 PO
+Preço para Venda: 26675 PO
+Nível da pedra: 18
+Bônus de experiência: 0
+Bônus de dano: 0
+Bônus em habilidade (Força): 181
+Bônus de precisão: 36
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 43650 PO
+Preço para Venda: 21825 PO
+Nível da pedra: 17
+Bônus de esquiva: 85
+Chance de crítico: 81
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Adamante Lv 86<<<<<<<<<<<<
+Raridade: Único
+Preço da arma: 835500
+Preço total: 1784787
+Esta arma possui 0 slot de encaixe livre
+Encaixes 4
+Requisito: 86° Nível
+Nível de poder (NP): 8852.58
+RD: 1720
+Defesa: 1118
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 805737 PO
+Preço para Venda: 402868.5 PO
+Nível da pedra: 57
+Bônus de ouro extra a cada sessão: 345658
+Bônus em habilidade (Inteligência): 1668
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 114
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 31950 PO
+Preço para Venda: 15975 PO
+Nível da pedra: 71
+Bônus de esquiva: 0
+Chance de crítico: 0
+Bônus de precisao a distância: 142
+Bônus em habilidade (Destreza): 0
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 102150 PO
+Preço para Venda: 51075 PO
+Nível da pedra: 25
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 332
+Aumento de Pvs reservas: 123
+Aumenta seu DL(Drop Level)/Def/Esq: 51
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 9450 PO
+Preço para Venda: 4725 PO
+Nível da pedra: 3
+Bônus de esquiva: 11
+Chance de crítico: 12
+Bônus de precisao a distância: 6
+Bônus em habilidade (Destreza): 9
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Lv 91<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 52750
+Preço total: 489596
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 91° Nível
+Nível de poder (NP): 2998.31
+RD: 0
+Defesa: 91
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 23400 PO
+Preço para Venda: 11700 PO
+Nível da pedra: 11
+Bônus de deflexão: 55
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 54
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 413446 PO
+Preço para Venda: 206723 PO
+Nível da pedra: 51
+Bônus de ouro extra a cada sessão: 270531
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Mithril Lv 97<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 582600
+Preço total: 768350
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 97° Nível
+Nível de poder (NP): 3254
+RD: 1067
+Defesa: 970
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 5500 PO
+Preço para Venda: 2750 PO
+Nível da pedra: 5
+Bônus de esquiva: 0
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 19
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 180250 PO
+Preço para Venda: 90125 PO
+Nível da pedra: 44
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 1011
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 88
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Campeão Lv 49<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 262550
+Preço total: 474300
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 49° Nível
+Nível de poder (NP): 2055
+RD: 441
+Defesa: 441
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 6650 PO
+Preço para Venda: 3325 PO
+Nível da pedra: 4
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 12
+Aumento de Pvs reservas: 17
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 205100 PO
+Preço para Venda: 102550 PO
+Nível da pedra: 39
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 819
+Aumento de Pvs reservas: 195
+Aumenta seu DL(Drop Level)/Def/Esq: 79
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Aço Lv 5<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 29000
+Preço total: 33550
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 5° Nível
+Nível de poder (NP): 39
+RD: 5
+Defesa: 10
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 3600 PO
+Preço para Venda: 1800 PO
+Nível da pedra: 3
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 7
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 6
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 950 PO
+Preço para Venda: 475 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 2
+Aumento de Pvs reservas: 2
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Mithril Lv 87<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 529600
+Preço total: 1547750
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 87° Nível
+Nível de poder (NP): 6041
+RD: 957
+Defesa: 870
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 125250 PO
+Preço para Venda: 62625 PO
+Nível da pedra: 27
+Bônus de esquiva: 133
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 405
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 892900 PO
+Preço para Venda: 446450 PO
+Nível da pedra: 73
+Bônus de esquiva: 365
+Chance de crítico: 364
+Bônus de precisao a distância: 147
+Bônus em habilidade (Destreza): 2711
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo dos 1000 Guerreiros Lv 54<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 225200
+Preço total: 376761
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 54° Nível
+Nível de poder (NP): 1243.09
+RD: 324
+Defesa: 432
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 88761 PO
+Preço para Venda: 44380.5 PO
+Nível da pedra: 13
+Bônus de experiência: 20989
+Bônus de dano: 63
+Bônus em habilidade (Força): 0
+Bônus de precisão: 26
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 62800 PO
+Preço para Venda: 31400 PO
+Nível da pedra: 8
+Bônus em habilidade (Vigor): 39
+Bônus de Redução de Dano: 40
+Regenera por rodada: 37
+Recuperação de vida por acerto: 162
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Bárbaro Lv 72<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 117200
+Preço total: 781550
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 72° Nível
+Nível de poder (NP): 3065.2
+RD: 144
+Defesa: 216
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 46850 PO
+Preço para Venda: 23425 PO
+Nível da pedra: 9
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 0
+Regenera por rodada: 0
+Recuperação de vida por acerto: 182
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 617500 PO
+Preço para Venda: 308750 PO
+Nível da pedra: 65
+Bônus de esquiva: 324
+Chance de crítico: 0
+Bônus de precisao a distância: 131
+Bônus em habilidade (Destreza): 2158
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Rei Lv 61<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 204950
+Preço total: 349800
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 61° Nível
+Nível de poder (NP): 1498
+RD: 244
+Defesa: 427
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 42950 PO
+Preço para Venda: 21475 PO
+Nível da pedra: 16
+Bônus de deflexão: 77
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 145
+Bônus de dano na habilidade de classe: 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 101900 PO
+Preço para Venda: 50950 PO
+Nível da pedra: 18
+Bônus de deflexão: 88
+Bônus em habilidade (Sabedoria): 185
+Pontos de habilidade (PH): 180
+Bônus de dano na habilidade de classe: 89
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ferro Grosso Lv 91<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 602400
+Preço total: 1444524
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 91° Nível
+Nível de poder (NP): 7282.16
+RD: 1183
+Defesa: 910
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 364200 PO
+Preço para Venda: 182100 PO
+Nível da pedra: 41
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 897
+Pontos de habilidade (PH): 865
+Bônus de dano na habilidade de classe: 202
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 477924 PO
+Preço para Venda: 238962 PO
+Nível da pedra: 54
+Bônus de ouro extra a cada sessão: 313216
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Campeão Lv 41<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 222950
+Preço total: 366570
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 41° Nível
+Nível de poder (NP): 1301.47
+RD: 369
+Defesa: 369
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 122762 PO
+Preço para Venda: 61381 PO
+Nível da pedra: 16
+Bônus de experiência: 29675
+Bônus de dano: 77
+Bônus em habilidade (Força): 0
+Bônus de precisão: 33
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 20858 PO
+Preço para Venda: 10429 PO
+Nível da pedra: 6
+Bônus de ouro extra a cada sessão: 6072
+Bônus em habilidade (Inteligência): 24
+Aumento de dano em Magias: 29
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ferro Frio Lv 82<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 254600
+Preço total: 1888401
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 82° Nível
+Nível de poder (NP): 11143.01
+RD: 492
+Defesa: 328
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 57400 PO
+Preço para Venda: 28700 PO
+Nível da pedra: 15
+Bônus de deflexão: 72
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 128
+Bônus de dano na habilidade de classe: 75
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 1576401 PO
+Preço para Venda: 788200.5 PO
+Nível da pedra: 78
+Bônus de ouro extra a cada sessão: 632001
+Bônus em habilidade (Carisma): 3099
+Aumento de Pvs reservas: 389
+Aumenta seu DL(Drop Level)/Def/Esq: 156
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Bárbaro Lv 85<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 134750
+Preço total: 308506
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 85° Nível
+Nível de poder (NP): 1439.04
+RD: 170
+Defesa: 255
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 131206 PO
+Preço para Venda: 65603 PO
+Nível da pedra: 19
+Bônus de ouro extra a cada sessão: 43204
+Bônus em habilidade (Inteligência): 202
+Aumento de dano em Magias: 95
+Aumenta seu DL(Drop Level): 38
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 42550 PO
+Preço para Venda: 21275 PO
+Nível da pedra: 17
+Bônus de esquiva: 0
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 160
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Grossa Lv 40<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 120000
+Preço total: 500245
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 40° Nível
+Nível de poder (NP): 1631.56
+RD: 200
+Defesa: 160
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 150500 PO
+Preço para Venda: 75250 PO
+Nível da pedra: 26
+Bônus de esquiva: 0
+Chance de crítico: 129
+Bônus de precisao a distância: 53
+Bônus em habilidade (Destreza): 374
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 229745 PO
+Preço para Venda: 114872.5 PO
+Nível da pedra: 24
+Bônus de experiência: 62556
+Bônus de dano: 0
+Bônus em habilidade (Força): 0
+Bônus de precisão: 48
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Grossa Lv 62<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 175000
+Preço total: 404000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 62° Nível
+Nível de poder (NP): 1783.67
+RD: 310
+Defesa: 248
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 123300 PO
+Preço para Venda: 61650 PO
+Nível da pedra: 25
+Bônus de ouro extra a cada sessão: 71367
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 50
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 105700 PO
+Preço para Venda: 52850 PO
+Nível da pedra: 40
+Bônus de esquiva: 198
+Chance de crítico: 200
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ferro Grosso Lv 68<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 460200
+Preço total: 1797786
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 68° Nível
+Nível de poder (NP): 6511.96
+RD: 884
+Defesa: 680
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 197350 PO
+Preço para Venda: 98675 PO
+Nível da pedra: 42
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 927
+Aumento de Pvs reservas: 208
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 1140236 PO
+Preço para Venda: 570118 PO
+Nível da pedra: 46
+Bônus de experiência: 229596
+Bônus de dano: 227
+Bônus em habilidade (Força): 1127
+Bônus de precisão: 93
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Bárbaro Lv 62<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 108700
+Preço total: 1004675
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 62° Nível
+Nível de poder (NP): 5643.5
+RD: 124
+Defesa: 186
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 315575 PO
+Preço para Venda: 157787.5 PO
+Nível da pedra: 33
+Bônus de ouro extra a cada sessão: 122350
+Bônus em habilidade (Inteligência): 574
+Aumento de dano em Magias: 164
+Aumenta seu DL(Drop Level): 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 580400 PO
+Preço para Venda: 290200 PO
+Nível da pedra: 54
+Bônus de deflexão: 270
+Bônus em habilidade (Sabedoria): 1516
+Pontos de habilidade (PH): 1522
+Bônus de dano na habilidade de classe: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ossos Lv 23<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 64850
+Preço total: 158150
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 23° Nível
+Nível de poder (NP): 630
+RD: 92
+Defesa: 69
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 11700 PO
+Preço para Venda: 5850 PO
+Nível da pedra: 7
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 36
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 15
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 81600 PO
+Preço para Venda: 40800 PO
+Nível da pedra: 19
+Bônus de deflexão: 92
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 206
+Bônus de dano na habilidade de classe: 95
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Mithril Lv 20<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 136000
+Preço total: 183350
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 20° Nível
+Nível de poder (NP): 636
+RD: 220
+Defesa: 200
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 20750 PO
+Preço para Venda: 10375 PO
+Nível da pedra: 7
+Bônus de deflexão: 34
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 33
+Bônus de dano na habilidade de classe: 32
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 26600 PO
+Preço para Venda: 13300 PO
+Nível da pedra: 19
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 95
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Druída Lv 68<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 91400
+Preço total: 1368700
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 68° Nível
+Nível de poder (NP): 4921.43
+RD: 68
+Defesa: 204
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 207900 PO
+Preço para Venda: 103950 PO
+Nível da pedra: 46
+Bônus em habilidade (Vigor): 1112
+Bônus de Redução de Dano: 228
+Regenera por rodada: 0
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 1069400 PO
+Preço para Venda: 534700 PO
+Nível da pedra: 52
+Bônus de experiência: 287843
+Bônus de dano: 256
+Bônus em habilidade (Força): 0
+Bônus de precisão: 105
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Rei Lv 47<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 158650
+Preço total: 437694
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 47° Nível
+Nível de poder (NP): 2257.96
+RD: 188
+Defesa: 329
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 4300 PO
+Preço para Venda: 2150 PO
+Nível da pedra: 2
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 10
+Regenera por rodada: 10
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 274744 PO
+Preço para Venda: 137372 PO
+Nível da pedra: 37
+Bônus de ouro extra a cada sessão: 148796
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 184
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Lv 19<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 24750
+Preço total: 69609
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 19° Nível
+Nível de poder (NP): 224.73
+RD: 0
+Defesa: 19
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 43200 PO
+Preço para Venda: 21600 PO
+Nível da pedra: 16
+Bônus de experiência: 0
+Bônus de dano: 0
+Bônus em habilidade (Força): 144
+Bônus de precisão: 32
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 1659 PO
+Preço para Venda: 829.5 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 473
+Bônus em habilidade (Inteligência): 2
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 2
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Lv 11<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 22750
+Preço total: 49123
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 11° Nível
+Nível de poder (NP): 151.49
+RD: 0
+Defesa: 11
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 2450 PO
+Preço para Venda: 1225 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 5
+Aumenta seu DL(Drop Level)/Def/Esq: 3
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 23923 PO
+Preço para Venda: 11961.5 PO
+Nível da pedra: 6
+Bônus de ouro extra a cada sessão: 5849
+Bônus em habilidade (Carisma): 22
+Aumento de Pvs reservas: 27
+Aumenta seu DL(Drop Level)/Def/Esq: 12
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Aço Lv 88<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 90400
+Preço total: 593726
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 88° Nível
+Nível de poder (NP): 2302.36
+RD: 88
+Defesa: 176
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 259076 PO
+Preço para Venda: 129538 PO
+Nível da pedra: 21
+Bônus de experiência: 48936
+Bônus de dano: 104
+Bônus em habilidade (Força): 251
+Bônus de precisão: 42
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 244250 PO
+Preço para Venda: 122125 PO
+Nível da pedra: 39
+Bônus de experiência: 0
+Bônus de dano: 193
+Bônus em habilidade (Força): 791
+Bônus de precisão: 78
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Grossa Lv 38<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 115000
+Preço total: 327150
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 38° Nível
+Nível de poder (NP): 1543
+RD: 190
+Defesa: 152
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 18600 PO
+Preço para Venda: 9300 PO
+Nível da pedra: 10
+Bônus em habilidade (Vigor): 65
+Bônus de Redução de Dano: 49
+Regenera por rodada: 0
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 193550 PO
+Preço para Venda: 96775 PO
+Nível da pedra: 27
+Bônus de deflexão: 131
+Bônus em habilidade (Sabedoria): 402
+Pontos de habilidade (PH): 379
+Bônus de dano na habilidade de classe: 135
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Platina Lv 73<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 282800
+Preço total: 1250351
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 73° Nível
+Nível de poder (NP): 7126.01
+RD: 511
+Defesa: 438
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 2800 PO
+Preço para Venda: 1400 PO
+Nível da pedra: 1
+Bônus de esquiva: 4
+Chance de crítico: 5
+Bônus de precisao a distância: 2
+Bônus em habilidade (Destreza): 0
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 964751 PO
+Preço para Venda: 482375.5 PO
+Nível da pedra: 60
+Bônus de ouro extra a cada sessão: 383101
+Bônus em habilidade (Inteligência): 1839
+Aumento de dano em Magias: 300
+Aumenta seu DL(Drop Level): 121
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Grossa Lv 65<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 192500
+Preço total: 817441
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 65° Nível
+Nível de poder (NP): 4162.94
+RD: 325
+Defesa: 260
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 480241 PO
+Preço para Venda: 240120.5 PO
+Nível da pedra: 49
+Bônus de ouro extra a cada sessão: 258594
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 242
+Aumenta seu DL(Drop Level): 98
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 144700 PO
+Preço para Venda: 72350 PO
+Nível da pedra: 31
+Bônus de experiência: 0
+Bônus de dano: 0
+Bônus em habilidade (Força): 523
+Bônus de precisão: 62
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo dos 1000 Guerreiros Lv 12<<<<<<<<<<<<
+Raridade: Único
+Preço da arma: 85600
+Preço total: 201677
+Esta arma possui 0 slot de encaixe livre
+Encaixes 4
+Requisito: 12° Nível
+Nível de poder (NP): 557.58
+RD: 72
+Defesa: 96
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 7500 PO
+Preço para Venda: 3750 PO
+Nível da pedra: 9
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 41
+Regenera por rodada: 0
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 58300 PO
+Preço para Venda: 29150 PO
+Nível da pedra: 7
+Bônus em habilidade (Vigor): 32
+Bônus de Redução de Dano: 33
+Regenera por rodada: 31
+Recuperação de vida por acerto: 159
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 25207 PO
+Preço para Venda: 12603.5 PO
+Nível da pedra: 6
+Bônus de ouro extra a cada sessão: 5805
+Bônus em habilidade (Carisma): 26
+Aumento de Pvs reservas: 30
+Aumenta seu DL(Drop Level)/Def/Esq: 12
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 25070 PO
+Preço para Venda: 12535 PO
+Nível da pedra: 5
+Bônus de experiência: 4063
+Bônus de dano: 23
+Bônus em habilidade (Força): 20
+Bônus de precisão: 11
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Lv 77<<<<<<<<<<<<
+Raridade: Único
+Preço da arma: 54250
+Preço total: 332550
+Esta arma possui 1 slot de encaixe livre
+Encaixes 3
+Requisito: 77° Nível
+Nível de poder (NP): 1395
+RD: 0
+Defesa: 77
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 45900 PO
+Preço para Venda: 22950 PO
+Nível da pedra: 14
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 111
+Aumento de Pvs reservas: 68
+Aumenta seu DL(Drop Level)/Def/Esq: 29
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 168300 PO
+Preço para Venda: 84150 PO
+Nível da pedra: 35
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 637
+Aumento de Pvs reservas: 172
+Aumenta seu DL(Drop Level)/Def/Esq: 70
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 64100 PO
+Preço para Venda: 32050 PO
+Nível da pedra: 75
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 151
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo dos 1000 Guerreiros Lv 12<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 65600
+Preço total: 130186
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 12° Nível
+Nível de poder (NP): 427.96
+RD: 72
+Defesa: 96
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 11750 PO
+Preço para Venda: 5875 PO
+Nível da pedra: 6
+Bônus de deflexão: 29
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 26
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 52836 PO
+Preço para Venda: 26418 PO
+Nível da pedra: 8
+Bônus de experiência: 9396
+Bônus de dano: 39
+Bônus em habilidade (Força): 42
+Bônus de precisão: 16
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Grossa Lv 14<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 55000
+Preço total: 132890
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 14° Nível
+Nível de poder (NP): 413.4
+RD: 70
+Defesa: 56
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 61040 PO
+Preço para Venda: 30520 PO
+Nível da pedra: 9
+Bônus de experiência: 11540
+Bônus de dano: 42
+Bônus em habilidade (Força): 52
+Bônus de precisão: 0
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 16850 PO
+Preço para Venda: 8425 PO
+Nível da pedra: 9
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 44
+Aumenta seu DL(Drop Level): 18
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Bárbaro Lv 30<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 70500
+Preço total: 230050
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 30° Nível
+Nível de poder (NP): 1007
+RD: 60
+Defesa: 90
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 5300 PO
+Preço para Venda: 2650 PO
+Nível da pedra: 2
+Bônus de esquiva: 10
+Chance de crítico: 10
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 154250 PO
+Preço para Venda: 77125 PO
+Nível da pedra: 25
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 335
+Pontos de habilidade (PH): 345
+Bônus de dano na habilidade de classe: 125
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Aço Lv 2<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 26600
+Preço total: 33551
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 2° Nível
+Nível de poder (NP): 43.01
+RD: 2
+Defesa: 4
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 4901 PO
+Preço para Venda: 2450.5 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 1501
+Bônus em habilidade (Carisma): 4
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 5
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 2050 PO
+Preço para Venda: 1025 PO
+Nível da pedra: 1
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 2
+Pontos de habilidade (PH): 3
+Bônus de dano na habilidade de classe: 4
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Grossa Lv 29<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 92500
+Preço total: 322722
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 29° Nível
+Nível de poder (NP): 1537.48
+RD: 145
+Defesa: 116
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 208100 PO
+Preço para Venda: 104050 PO
+Nível da pedra: 28
+Bônus de deflexão: 139
+Bônus em habilidade (Sabedoria): 420
+Pontos de habilidade (PH): 429
+Bônus de dano na habilidade de classe: 137
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 22122 PO
+Preço para Venda: 11061 PO
+Nível da pedra: 7
+Bônus de ouro extra a cada sessão: 7248
+Bônus em habilidade (Carisma): 33
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 15
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo dos 1000 Guerreiros Lv 79<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 325200
+Preço total: 1435527
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 79° Nível
+Nível de poder (NP): 8185.18
+RD: 474
+Defesa: 632
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 126400 PO
+Preço para Venda: 63200 PO
+Nível da pedra: 32
+Bônus em habilidade (Vigor): 549
+Bônus de Redução de Dano: 0
+Regenera por rodada: 157
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 983927 PO
+Preço para Venda: 491963.5 PO
+Nível da pedra: 62
+Bônus de ouro extra a cada sessão: 399518
+Bônus em habilidade (Carisma): 1989
+Aumento de Pvs reservas: 308
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ferro Grosso Lv 40<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 276000
+Preço total: 387950
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 40° Nível
+Nível de poder (NP): 1481
+RD: 520
+Defesa: 400
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 34500 PO
+Preço para Venda: 17250 PO
+Nível da pedra: 16
+Bônus de esquiva: 0
+Chance de crítico: 78
+Bônus de precisao a distância: 32
+Bônus em habilidade (Destreza): 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 77450 PO
+Preço para Venda: 38725 PO
+Nível da pedra: 15
+Bônus de deflexão: 74
+Bônus em habilidade (Sabedoria): 130
+Pontos de habilidade (PH): 133
+Bônus de dano na habilidade de classe: 72
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ferro Grosso Lv 28<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 204200
+Preço total: 274488
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 28° Nível
+Nível de poder (NP): 895.68
+RD: 364
+Defesa: 280
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 56488 PO
+Preço para Venda: 28244 PO
+Nível da pedra: 11
+Bônus de experiência: 15668
+Bônus de dano: 0
+Bônus em habilidade (Força): 0
+Bônus de precisão: 0
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 13800 PO
+Preço para Venda: 6900 PO
+Nível da pedra: 7
+Bônus de experiência: 0
+Bônus de dano: 35
+Bônus em habilidade (Força): 30
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Rei Lv 85<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 270750
+Preço total: 1137773
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 85° Nível
+Nível de poder (NP): 6452.49
+RD: 340
+Defesa: 595
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 794873 PO
+Preço para Venda: 397436.5 PO
+Nível da pedra: 67
+Bônus de ouro extra a cada sessão: 467549
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 334
+Aumenta seu DL(Drop Level): 0
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 72150 PO
+Preço para Venda: 36075 PO
+Nível da pedra: 60
+Bônus de esquiva: 300
+Chance de crítico: 0
+Bônus de precisao a distância: 121
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo da Vida +5% de na reserva de vida Lv 80<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 153000
+Preço total: 1002998
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 80° Nível
+Nível de poder (NP): 5890.32
+RD: 160
+Defesa: 320
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 839598 PO
+Preço para Venda: 419799 PO
+Nível da pedra: 56
+Bônus de ouro extra a cada sessão: 327532
+Bônus em habilidade (Inteligência): 1611
+Aumento de dano em Magias: 280
+Aumenta seu DL(Drop Level): 113
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 10400 PO
+Preço para Venda: 5200 PO
+Nível da pedra: 4
+Bônus de deflexão: 17
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 15
+Bônus de dano na habilidade de classe: 17
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Adamante Lv 66<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 630500
+Preço total: 2045679
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 66° Nível
+Nível de poder (NP): 8111.42
+RD: 1320
+Defesa: 858
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 419976 PO
+Preço para Venda: 209988 PO
+Nível da pedra: 38
+Bônus de ouro extra a cada sessão: 157584
+Bônus em habilidade (Inteligência): 746
+Aumento de dano em Magias: 187
+Aumenta seu DL(Drop Level): 77
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 995203 PO
+Preço para Venda: 497601.5 PO
+Nível da pedra: 43
+Bônus de experiência: 198958
+Bônus de dano: 215
+Bônus em habilidade (Força): 989
+Bônus de precisão: 86
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Grossa Lv 6<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 45000
+Preço total: 76150
+Esta arma possui 0 slot de encaixe livre
+Encaixes 3
+Requisito: 6° Nível
+Nível de poder (NP): 203
+RD: 30
+Defesa: 24
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 11600 PO
+Preço para Venda: 5800 PO
+Nível da pedra: 6
+Bônus em habilidade (Vigor): 23
+Bônus de Redução de Dano: 0
+Regenera por rodada: 29
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 14000 PO
+Preço para Venda: 7000 PO
+Nível da pedra: 4
+Bônus de esquiva: 17
+Chance de crítico: 19
+Bônus de precisao a distância: 8
+Bônus em habilidade (Destreza): 12
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 5550 PO
+Preço para Venda: 2775 PO
+Nível da pedra: 5
+Bônus de esquiva: 22
+Chance de crítico: 0
+Bônus de precisao a distância: 10
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Platina Lv 11<<<<<<<<<<<<
+Raridade: Único
+Preço da arma: 69600
+Preço total: 104853
+Esta arma possui 0 slot de encaixe livre
+Encaixes 3
+Requisito: 11° Nível
+Nível de poder (NP): 328.02
+RD: 77
+Defesa: 66
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 15253 PO
+Preço para Venda: 7626.5 PO
+Nível da pedra: 5
+Bônus de ouro extra a cada sessão: 4002
+Bônus em habilidade (Carisma): 20
+Aumento de Pvs reservas: 22
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 10100 PO
+Preço para Venda: 5050 PO
+Nível da pedra: 5
+Bônus de esquiva: 24
+Chance de crítico: 0
+Bônus de precisao a distância: 10
+Bônus em habilidade (Destreza): 17
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 9900 PO
+Preço para Venda: 4950 PO
+Nível da pedra: 4
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 11
+Aumento de Pvs reservas: 18
+Aumenta seu DL(Drop Level)/Def/Esq: 9
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Platina Lv 15<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 74000
+Preço total: 102200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 15° Nível
+Nível de poder (NP): 306
+RD: 105
+Defesa: 90
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 22950 PO
+Preço para Venda: 11475 PO
+Nível da pedra: 11
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 53
+Aumenta seu DL(Drop Level)/Def/Esq: 23
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 5250 PO
+Preço para Venda: 2625 PO
+Nível da pedra: 5
+Bônus de esquiva: 0
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 18
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Aço Lv 47<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 57600
+Preço total: 507300
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 47° Nível
+Nível de poder (NP): 1918.7
+RD: 47
+Defesa: 94
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 267500 PO
+Preço para Venda: 133750 PO
+Nível da pedra: 30
+Bônus em habilidade (Vigor): 475
+Bônus de Redução de Dano: 0
+Regenera por rodada: 150
+Recuperação de vida por acerto: 617
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 182200 PO
+Preço para Venda: 91100 PO
+Nível da pedra: 40
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 843
+Aumento de Pvs reservas: 199
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Adamante Lv 59<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 565750
+Preço total: 2242090
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 59° Nível
+Nível de poder (NP): 8534.27
+RD: 1180
+Defesa: 767
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 1273487 PO
+Preço para Venda: 636743.5 PO
+Nível da pedra: 50
+Bônus de experiência: 263525
+Bônus de dano: 0
+Bônus em habilidade (Força): 1314
+Bônus de precisão: 101
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 402853 PO
+Preço para Venda: 201426.5 PO
+Nível da pedra: 37
+Bônus de ouro extra a cada sessão: 149902
+Bônus em habilidade (Inteligência): 718
+Aumento de dano em Magias: 184
+Aumenta seu DL(Drop Level): 75
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Druída Lv 90<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 114500
+Preço total: 915550
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 90° Nível
+Nível de poder (NP): 3784
+RD: 90
+Defesa: 270
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 698250 PO
+Preço para Venda: 349125 PO
+Nível da pedra: 64
+Bônus de esquiva: 318
+Chance de crítico: 317
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 2120
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 102800 PO
+Preço para Venda: 51400 PO
+Nível da pedra: 25
+Bônus de deflexão: 122
+Bônus em habilidade (Sabedoria): 330
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 125
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ossos Lv 68<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 162600
+Preço total: 292600
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 68° Nível
+Nível de poder (NP): 1170
+RD: 272
+Defesa: 204
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 33250 PO
+Preço para Venda: 16625 PO
+Nível da pedra: 13
+Bônus de esquiva: 64
+Chance de crítico: 62
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 96750 PO
+Preço para Venda: 48375 PO
+Nível da pedra: 19
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 209
+Pontos de habilidade (PH): 194
+Bônus de dano na habilidade de classe: 95
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Bárbaro Lv 8<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 30800
+Preço total: 50455
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 8° Nível
+Nível de poder (NP): 139.37
+RD: 16
+Defesa: 24
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 12205 PO
+Preço para Venda: 6102.5 PO
+Nível da pedra: 4
+Bônus de ouro extra a cada sessão: 2637
+Bônus em habilidade (Inteligência): 11
+Aumento de dano em Magias: 16
+Aumenta seu DL(Drop Level): 8
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 7450 PO
+Preço para Venda: 3725 PO
+Nível da pedra: 3
+Bônus de esquiva: 14
+Chance de crítico: 14
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Mithril Lv 46<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 296800
+Preço total: 424450
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 46° Nível
+Nível de poder (NP): 1739
+RD: 506
+Defesa: 460
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 2200 PO
+Preço para Venda: 1100 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 6
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 4
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 125450 PO
+Preço para Venda: 62725 PO
+Nível da pedra: 28
+Bônus em habilidade (Vigor): 435
+Bônus de Redução de Dano: 140
+Regenera por rodada: 140
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Mithril Lv 47<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 292600
+Preço total: 499323
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 47° Nível
+Nível de poder (NP): 2012.78
+RD: 517
+Defesa: 470
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 118600 PO
+Preço para Venda: 59300 PO
+Nível da pedra: 34
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 598
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 68
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 88123 PO
+Preço para Venda: 44061.5 PO
+Nível da pedra: 11
+Bônus de experiência: 16178
+Bônus de dano: 51
+Bônus em habilidade (Força): 75
+Bônus de precisão: 23
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ossos Lv 58<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 138100
+Preço total: 1436035
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 58° Nível
+Nível de poder (NP): 4838.8
+RD: 232
+Defesa: 174
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 739935 PO
+Preço para Venda: 369967.5 PO
+Nível da pedra: 37
+Bônus de experiência: 148210
+Bônus de dano: 181
+Bônus em habilidade (Força): 709
+Bônus de precisão: 75
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 558000 PO
+Preço para Venda: 279000 PO
+Nível da pedra: 50
+Bônus em habilidade (Vigor): 1325
+Bônus de Redução de Dano: 250
+Regenera por rodada: 250
+Recuperação de vida por acerto: 1007
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Campeão Lv 34<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 188300
+Preço total: 485408
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 34° Nível
+Nível de poder (NP): 1552.62
+RD: 306
+Defesa: 306
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 19108 PO
+Preço para Venda: 9554 PO
+Nível da pedra: 7
+Bônus de ouro extra a cada sessão: 6872
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 31
+Aumenta seu DL(Drop Level): 0
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 278000 PO
+Preço para Venda: 139000 PO
+Nível da pedra: 29
+Bônus em habilidade (Vigor): 458
+Bônus de Redução de Dano: 143
+Regenera por rodada: 145
+Recuperação de vida por acerto: 589
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Mithril Lv 92<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 553600
+Preço total: 2331397
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 92° Nível
+Nível de poder (NP): 12647.65
+RD: 1012
+Defesa: 920
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 809650 PO
+Preço para Venda: 404825 PO
+Nível da pedra: 61
+Bônus de deflexão: 301
+Bônus em habilidade (Sabedoria): 1938
+Pontos de habilidade (PH): 1942
+Bônus de dano na habilidade de classe: 305
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 968147 PO
+Preço para Venda: 484073.5 PO
+Nível da pedra: 74
+Bônus de ouro extra a cada sessão: 576865
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 367
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Rei Lv 49<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 174550
+Preço total: 678484
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 49° Nível
+Nível de poder (NP): 2500.67
+RD: 196
+Defesa: 343
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 264234 PO
+Preço para Venda: 132117 PO
+Nível da pedra: 21
+Bônus de experiência: 51467
+Bônus de dano: 105
+Bônus em habilidade (Força): 235
+Bônus de precisão: 43
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 239700 PO
+Preço para Venda: 119850 PO
+Nível da pedra: 39
+Bônus de experiência: 0
+Bônus de dano: 194
+Bônus em habilidade (Força): 819
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Madeira Grossa Lv 32<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 100000
+Preço total: 144050
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 32° Nível
+Nível de poder (NP): 527
+RD: 160
+Defesa: 128
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 9900 PO
+Preço para Venda: 4950 PO
+Nível da pedra: 22
+Bônus de experiência: 0
+Bônus de dano: 0
+Bônus em habilidade (Força): 0
+Bônus de precisão: 44
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 34150 PO
+Preço para Venda: 17075 PO
+Nível da pedra: 12
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 79
+Aumento de dano em Magias: 58
+Aumenta seu DL(Drop Level): 24
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Corpo Lv 71<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 463750
+Preço total: 1344150
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 71° Nível
+Nível de poder (NP): 6536
+RD: 710
+Defesa: 923
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 2300 PO
+Preço para Venda: 1150 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 8
+Aumenta seu DL(Drop Level): 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 878100 PO
+Preço para Venda: 439050 PO
+Nível da pedra: 66
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 2254
+Pontos de habilidade (PH): 2238
+Bônus de dano na habilidade de classe: 330
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Ossos Lv 25<<<<<<<<<<<<
+Raridade: Único
+Preço da arma: 78750
+Preço total: 345375
+Esta arma possui 0 slot de encaixe livre
+Encaixes 3
+Requisito: 25° Nível
+Nível de poder (NP): 858.9
+RD: 100
+Defesa: 75
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 63300 PO
+Preço para Venda: 31650 PO
+Nível da pedra: 12
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 0
+Regenera por rodada: 0
+Recuperação de vida por acerto: 246
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 54675 PO
+Preço para Venda: 27337.5 PO
+Nível da pedra: 17
+Bônus de ouro extra a cada sessão: 34750
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 148650 PO
+Preço para Venda: 74325 PO
+Nível da pedra: 21
+Bônus em habilidade (Vigor): 240
+Bônus de Redução de Dano: 0
+Regenera por rodada: 0
+Recuperação de vida por acerto: 438
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo do Campeão Lv 77<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 401150
+Preço total: 2641028
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 77° Nível
+Nível de poder (NP): 8056.95
+RD: 693
+Defesa: 693
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 3065 PO
+Preço para Venda: 1532.5 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 1177
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 4
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 2236813 PO
+Preço para Venda: 1118406.5 PO
+Nível da pedra: 77
+Bônus de experiência: 619418
+Bônus de dano: 382
+Bônus em habilidade (Força): 0
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Adamante Lv 34<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 334500
+Preço total: 440850
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 34° Nível
+Nível de poder (NP): 1659
+RD: 680
+Defesa: 442
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 33150 PO
+Preço para Venda: 16575 PO
+Nível da pedra: 19
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 202
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 0
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 73200 PO
+Preço para Venda: 36600 PO
+Nível da pedra: 25
+Bônus de esquiva: 125
+Chance de crítico: 123
+Bônus de precisao a distância: 51
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________

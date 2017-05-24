@@ -1,0 +1,45 @@
+>>>>>>>>>>>>Armadura Kusanagi Lv 21<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 320800
+Preço total: 361850
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 21° Nível
+Nível de poder (NP): 1310
+RD: 546
+Defesa: 588
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 41050 PO
+Preço para Venda: 20525 PO
+Nível da pedra: 17
+Bônus de experiência: 0
+Bônus de dano: 0
+Bônus em habilidade (Força): 154
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Armadura Alcolchoada Lv 14<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 15400
+Preço total: 15400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 14° Nível
+Nível de poder (NP): 70
+RD: 28
+Defesa: 28
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Dhenuka Lv 21<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 86100
+Preço total: 86100
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 21° Nível
+Nível de poder (NP): 336
+RD: 147
+Defesa: 168
+
+_________________________________________________________________________________________________

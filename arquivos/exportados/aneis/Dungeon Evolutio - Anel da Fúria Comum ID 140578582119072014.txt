@@ -1,0 +1,600 @@
+>>>>>>>>>>>>Anel da Fúria Lv 2<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 8000
+Preço total: 8000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 2° Nível
+Nível de poder (NP): 2
+Força: 2
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Zodiaco Lv 15<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 100000
+Preço total: 170110
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 15° Nível
+Nível de poder (NP): 231.6
+Força: 15
+Destreza: 15
+Vigor: 15
+Inteligência: 15
+Sabedoria: 15
+Carisma: 15
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 70110 PO
+Preço para Venda: 35055 PO
+Nível da pedra: 11
+Bônus de experiência: 14560
+Bônus de dano: 0
+Bônus em habilidade (Força): 70
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel Glacial Lv 17<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 105000
+Preço total: 168593
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 17° Nível
+Nível de poder (NP): 379.62
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 63593 PO
+Preço para Venda: 31796.5 PO
+Nível da pedra: 17
+Bônus de ouro extra a cada sessão: 32762
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 34
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Sábio Lv 9<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 22500
+Preço total: 22500
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 9° Nível
+Nível de poder (NP): 9
+Sabedoria: 9
+Bônus de dano em habilidade de classe: 45
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Poder Lv 18<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 38000
+Preço total: 48950
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 18° Nível
+Nível de poder (NP): 85
+Força: 18
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 10950 PO
+Preço para Venda: 5475 PO
+Nível da pedra: 7
+Bônus de deflexão: 31
+Bônus em habilidade (Sabedoria): 35
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel Glacial Lv 14<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 95000
+Preço total: 137400
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 14° Nível
+Nível de poder (NP): 218
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 42400 PO
+Preço para Venda: 21200 PO
+Nível da pedra: 12
+Bônus de deflexão: 60
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 83
+Bônus de dano na habilidade de classe: 60
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel Precioso Lv 12<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 8600
+Preço total: 8600
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 12° Nível
+Nível de poder (NP): 12
+Esquiva: 12
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Cromático Lv 22<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 32000
+Preço total: 36950
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 22° Nível
+Nível de poder (NP): 47
+Carisma: 22
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 4950 PO
+Preço para Venda: 2475 PO
+Nível da pedra: 3
+Bônus de experiência: 0
+Bônus de dano: 15
+Bônus em habilidade (Força): 9
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Mago Lv 10<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 30000
+Preço total: 30000
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 10° Nível
+Nível de poder (NP): 10
+Inteligência: 10
+Bônus de dano em magia: 50
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel Infernal Lv 16<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 40000
+Preço total: 40000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 16° Nível
+Nível de poder (NP): 16
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da Ganancia Lv 16<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 41000
+Preço total: 41900
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 16° Nível
+Nível de poder (NP): 22
+Carisma: 16
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 900 PO
+Preço para Venda: 450 PO
+Nível da pedra: 1
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 5
+Regenera por rodada: 0
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da Ganancia Lv 20<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 20000
+Preço total: 20000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 20° Nível
+Nível de poder (NP): 20
+Carisma: 20
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel Infernal Lv 4<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 15000
+Preço total: 15000
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 4° Nível
+Nível de poder (NP): 4
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Cromático Lv 10<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 10000
+Preço total: 10000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 10° Nível
+Nível de poder (NP): 10
+Carisma: 10
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da Ganancia Lv 9<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 29000
+Preço total: 41337
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 9° Nível
+Nível de poder (NP): 85.25
+Carisma: 9
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 9300 PO
+Preço para Venda: 4650 PO
+Nível da pedra: 6
+Bônus de deflexão: 28
+Bônus em habilidade (Sabedoria): 28
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 0
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 3037 PO
+Preço para Venda: 1518.5 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 1325
+Bônus em habilidade (Carisma): 5
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel de Tauron Lv 1<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 2000
+Preço total: 2000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 1° Nível
+Nível de poder (NP): 1
+Força: 2
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel de Tauron Lv 1<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 2000
+Preço total: 2000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 1° Nível
+Nível de poder (NP): 1
+Força: 2
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel Precioso Lv 13<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 8900
+Preço total: 8900
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 13° Nível
+Nível de poder (NP): 13
+Esquiva: 13
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Sábio Lv 1<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 12500
+Preço total: 14500
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 1° Nível
+Nível de poder (NP): 12
+Sabedoria: 1
+Bônus de dano em habilidade de classe: 5
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 2000 PO
+Preço para Venda: 1000 PO
+Nível da pedra: 1
+Bônus de deflexão: 2
+Bônus em habilidade (Sabedoria): 3
+Pontos de habilidade (PH): 3
+Bônus de dano na habilidade de classe: 2
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Sábio Lv 17<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 67500
+Preço total: 99200
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 17° Nível
+Nível de poder (NP): 189
+Sabedoria: 17
+Bônus de dano em habilidade de classe: 85
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 12750 PO
+Preço para Venda: 6375 PO
+Nível da pedra: 11
+Bônus em habilidade (Vigor): 74
+Bônus de Redução de Dano: 0
+Regenera por rodada: 0
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 18950 PO
+Preço para Venda: 9475 PO
+Nível da pedra: 7
+Bônus em habilidade (Vigor): 30
+Bônus de Redução de Dano: 31
+Regenera por rodada: 35
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel de Tauron Lv 8<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 36000
+Preço total: 36000
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 8° Nível
+Nível de poder (NP): 8
+Força: 16
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da Fúria Lv 14<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 66000
+Preço total: 127982
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 14° Nível
+Nível de poder (NP): 361.55
+Força: 14
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 61982 PO
+Preço para Venda: 30991 PO
+Nível da pedra: 12
+Bônus de ouro extra a cada sessão: 18255
+Bônus em habilidade (Inteligência): 82
+Aumento de dano em Magias: 57
+Aumenta seu DL(Drop Level): 25
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da Fúria Lv 7<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 28000
+Preço total: 28000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 7° Nível
+Nível de poder (NP): 7
+Força: 7
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da Fúria Lv 12<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 73000
+Preço total: 159301
+Esta arma possui 1 slot de encaixe livre
+Encaixes 2
+Requisito: 12° Nível
+Nível de poder (NP): 394.86
+Força: 12
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 34200 PO
+Preço para Venda: 17100 PO
+Nível da pedra: 11
+Bônus de deflexão: 54
+Bônus em habilidade (Sabedoria): 71
+Pontos de habilidade (PH): 69
+Bônus de dano na habilidade de classe: 0
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 52101 PO
+Preço para Venda: 26050.5 PO
+Nível da pedra: 8
+Bônus de experiência: 9486
+Bônus de dano: 37
+Bônus em habilidade (Força): 39
+Bônus de precisão: 16
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Zodiaco Lv 7<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 42000
+Preço total: 42000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 7° Nível
+Nível de poder (NP): 7
+Força: 7
+Destreza: 7
+Vigor: 7
+Inteligência: 7
+Sabedoria: 7
+Carisma: 7
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da Ganancia Lv 16<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 36000
+Preço total: 104599
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 16° Nível
+Nível de poder (NP): 289.57
+Carisma: 16
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 12699 PO
+Preço para Venda: 6349.5 PO
+Nível da pedra: 3
+Bônus de experiência: 2357
+Bônus de dano: 15
+Bônus em habilidade (Força): 7
+Bônus de precisão: 0
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 55900 PO
+Preço para Venda: 27950 PO
+Nível da pedra: 12
+Bônus de esquiva: 59
+Chance de crítico: 60
+Bônus de precisao a distância: 25
+Bônus em habilidade (Destreza): 82
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel Glacial Lv 14<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 80000
+Preço total: 147406
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 14° Nível
+Nível de poder (NP): 232.16
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 67406 PO
+Preço para Venda: 33703 PO
+Nível da pedra: 10
+Bônus de experiência: 13716
+Bônus de dano: 0
+Bônus em habilidade (Força): 59
+Bônus de precisão: 21
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel de Tauron Lv 17<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 49000
+Preço total: 49000
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 17° Nível
+Nível de poder (NP): 17
+Força: 34
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel de Tauron Lv 20<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 40000
+Preço total: 40000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 20° Nível
+Nível de poder (NP): 20
+Força: 40
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Cromático Lv 18<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 18000
+Preço total: 18000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 18° Nível
+Nível de poder (NP): 18
+Carisma: 18
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da Fúria Lv 9<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 56000
+Preço total: 71150
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 9° Nível
+Nível de poder (NP): 65
+Força: 9
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 10950 PO
+Preço para Venda: 5475 PO
+Nível da pedra: 8
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 0
+Regenera por rodada: 39
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 4200 PO
+Preço para Venda: 2100 PO
+Nível da pedra: 3
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 0
+Regenera por rodada: 15
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da Ganancia Lv 7<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 27000
+Preço total: 27000
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 7° Nível
+Nível de poder (NP): 7
+Carisma: 7
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel Glacial Lv 1<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 25000
+Preço total: 27567
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 1° Nível
+Nível de poder (NP): 14.78
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 2567 PO
+Preço para Venda: 1283.5 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 778
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 5
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Poder Lv 1<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 11000
+Preço total: 13800
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 1° Nível
+Nível de poder (NP): 16
+Força: 1
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 2800 PO
+Preço para Venda: 1400 PO
+Nível da pedra: 1
+Bônus de deflexão: 4
+Bônus em habilidade (Sabedoria): 3
+Pontos de habilidade (PH): 3
+Bônus de dano na habilidade de classe: 4
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel de Tauron Lv 8<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 36000
+Preço total: 54313
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 8° Nível
+Nível de poder (NP): 76.61
+Força: 16
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 11563 PO
+Preço para Venda: 5781.5 PO
+Nível da pedra: 3
+Bônus de experiência: 1861
+Bônus de dano: 14
+Bônus em habilidade (Força): 10
+Bônus de precisão: 0
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 6750 PO
+Preço para Venda: 3375 PO
+Nível da pedra: 5
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 24
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________

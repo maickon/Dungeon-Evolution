@@ -1,0 +1,100 @@
+1-Espada larga
+2-Espada de Pau de Ferro Grosso
+3-Espada de Ferro de Pau Grosso
+4-Espada bastarda
+5-Espada Montante
+6-Espada Montante Monstruosa
+7-Espada Grande
+8-Espada de Ogro
+9-Espada de duas Mãos
+10-Espada de duas Mãos Assassina
+11-Espada grande de Ferro Frio
+12-Cutelo
+13-Cutelo do Terror Sangunário
+14-Cutelo do Açougueiro
+15-Cutelo Grande
+16-Cutelo Enorme
+17-Machado grande
+18-Machado Enorme
+19-Machado Monstruoso
+20-Besta pesada
+21-Besta de Repetição
+22-Besta de Repetição do Massacre
+23-Besta de Repetição do Terror
+24-Besta de Repetição Pesada
+25-Balestra
+26-Scramasax
+27-Scramasax Bárbara
+28-Alabarda
+29-Alabarda Grande
+30-Alfange
+31-Lança montada
+32-Lança Dragon Hate
+33-Mangual Pesado
+34-Mangual Grande
+35-Marreta
+36-Marreta Pesada
+37-Marreta de Gigante
+38-Marreta Enorme
+39-Marreta de Ogro
+40-Marreta Esmagadora
+41-Marreta Monstruosa
+42-Martelo Grande
+43-Martelo Esmagador
+44-Martelo Titânico
+45-Martelo Enorme de Mecúro
+46-Martelo Monstruoso de Mercúrio
+47-Arco curto
+48-Arco longo
+49-Arco de Guerra
+50-Arco Elfico
+51-Arco Druídico
+52-Arco do Caçador
+53-Arco do Atirador
+54-Arco Bárbaro
+55-Arco da dor
+56-Arco de Guerra Anão
+57-Arco da Vingança
+58-Nagamaki
+59-Chijiriki
+60-Kusari-game
+61-Lajatang
+62-Sang Kouw
+63-Sasumata
+64-Shikomi-zue
+65-Sodegarami
+66-Naginata
+67-Zambatou
+68-Bastarda Mzurame
+69-Zambatou de Yamagawa
+70-Daikyou
+71-Arco Kyudo Kai 
+72-Katana Sanjusangendo
+73-Katana Memorial
+74-Machado Traumatizador
+75-Martelo Cabeça de Bigórnia
+76-Arco Basara
+77-Toguro Blade
+78-Master Blade
+79-Titan Blade
+80-Foice Longa 
+81-Foice de Adamaro
+82-Zambrósia
+83-Marreta Brutal
+84-Marreta de Goro
+85-Marreta de Meltodrom
+86-Marreta Assombrosa
+87-Martelo do Titãn Opala
+88-Foice execultora
+89-Espada Corta Vidas
+90-Porrete de Platina
+91-Porrete de Opala
+92-Porrete Aniquilado
+93-Espada Kuabara
+94-Katana Richiryu Ha
+95-Katana Mystery +10 de dano de energia misteriosa
+96-Venon Blade
+97-Adaga de Mercúrio das 7 vidas
+98-Marreta de Energia Escura +10 de dano por Escuridão
+99-Katana dos Senins
+100-Murai Fukushin Blade, Katana dos 7 ventos +20 de dano por Vento

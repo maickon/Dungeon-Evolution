@@ -1,0 +1,23 @@
+1-Ombreiras do soldado
+2-Ombreiras do Bárbaro
+3-Ombreiras do Arquiero
+4-Ombreiras do Ranger
+5-Ombreiras do Soldado
+6-Ombreiras kusanagi
+7-Ombreiras Yagami
+8-Ombreiras de placas
+9-Ombreiras de Malha
+10-Ombreiras de Marfin
+11-Ombreiras de Ossos
+12-Ombreiras do Shogum
+13-Ombreiras Hamarashi
+14-Ombreiras Grega
+15-Ombreiras do General
+16-Ombreiras do Capitão
+17-Ombreiras de Malha fina
+18-Ombreiras de Malha Grossa
+19-Ombreiras Reforçada
+20-Ombreiras Shimaru
+21-Ombreiras de Escamas
+22-Ombreiras de Ferro frio
+23-Ombreiras de Titan

@@ -1,0 +1,51 @@
+>>>>>>>>>>>>Anel da obdiencia Lv 8<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 100000
+Preço total: 107914
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 8° Nível
+Nível de poder (NP): 216.76
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 7914 PO
+Preço para Venda: 3957 PO
+Nível da pedra: 5
+Bônus de ouro extra a cada sessão: 4776
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Mago Lv 8<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 35000
+Preço total: 42100
+Esta arma possui 1 slot de encaixe livre
+Encaixes 1
+Requisito: 8° Nível
+Nível de poder (NP): 37
+Inteligência: 8
+Bônus de dano em magia: 40
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 7100 PO
+Preço para Venda: 3550 PO
+Nível da pedra: 2
+Bônus de esquiva: 8
+Chance de crítico: 10
+Bônus de precisao a distância: 4
+Bônus em habilidade (Destreza): 6
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Vigor Lv 7<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 7000
+Preço total: 7000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 7° Nível
+Nível de poder (NP): 7
+Vigor: 7
+
+_________________________________________________________________________________________________

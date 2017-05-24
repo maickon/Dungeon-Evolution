@@ -1,0 +1,36 @@
+>>>>>>>>>>>>Capacete com Frígida Nasal Lv16<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 13800
+Preço total: 13800
+Esta arma possui  slot de encaixe livre
+Encaixes 0
+Requisito: °16 Nível
+Nível de poder (NP): 48
+RD: 16
+Defesa: 16
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Facial Lv23<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 18400
+Preço total: 18400
+Esta arma possui  slot de encaixe livre
+Encaixes 0
+Requisito: °23 Nível
+Nível de poder (NP): 92
+RD: 23
+Defesa: 46
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Frígida Nasal Lv15<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 8250
+Preço total: 8250
+Esta arma possui  slot de encaixe livre
+Encaixes 0
+Requisito: °15 Nível
+Nível de poder (NP): 45
+RD: 15
+Defesa: 15
+
+_________________________________________________________________________________________________

@@ -1,0 +1,45 @@
+>>>>>>>>>>>>Botas de Arquiero Lv 14<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 26200
+Preço total: 26200
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 14° Nível
+Nível de poder (NP): 56
+RD: 14
+Defesa: 28
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 15<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 17000
+Preço total: 17000
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 15° Nível
+Nível de poder (NP): 60
+RD: 15
+Defesa: 30
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Bárbaro Lv 13<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 25400
+Preço total: 45500
+Esta arma possui 1 slot de encaixe livre
+Encaixes 1
+Requisito: 13° Nível
+Nível de poder (NP): 148
+RD: 13
+Defesa: 26
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 20100 PO
+Preço para Venda: 10050 PO
+Nível da pedra: 9
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 50
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 45
+
+_________________________________________________________________________________________________

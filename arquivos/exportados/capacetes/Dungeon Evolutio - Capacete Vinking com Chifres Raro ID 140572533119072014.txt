@@ -1,0 +1,36 @@
+>>>>>>>>>>>>Capacete Vinking com Chifres Lv20<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 16000
+Preço total: 16000
+Esta arma possui  slot de encaixe livre
+Encaixes 0
+Requisito: °20
+ NívelNível de poder (NP): 
+RD: 20
+Defesa: 40
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Facial Lv7<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 10600
+Preço total: 10600
+Esta arma possui  slot de encaixe livre
+Encaixes 0
+Requisito: °7
+ NívelNível de poder (NP): 
+RD: 7
+Defesa: 14
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Frígida Nasal Lv3<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 6650
+Preço total: 6650
+Esta arma possui  slot de encaixe livre
+Encaixes 0
+Requisito: °3
+ NívelNível de poder (NP): 
+RD: 3
+Defesa: 3
+
+_________________________________________________________________________________________________

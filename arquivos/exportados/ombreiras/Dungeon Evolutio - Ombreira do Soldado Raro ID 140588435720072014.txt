@@ -1,0 +1,63 @@
+>>>>>>>>>>>>Ombreira do Soldado Lv 19<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 45200
+Preço total: 226750
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 19° Nível
+Nível de poder (NP): 905
+RD: 19
+Defesa: 38
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 106400 PO
+Preço para Venda: 53200 PO
+Nível da pedra: 19
+Bônus de esquiva: 95
+Chance de crítico: 92
+Bônus de precisao a distância: 39
+Bônus em habilidade (Destreza): 205
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 75150 PO
+Preço para Venda: 37575 PO
+Nível da pedra: 15
+Bônus de deflexão: 73
+Bônus em habilidade (Sabedoria): 127
+Pontos de habilidade (PH): 122
+Bônus de dano na habilidade de classe: 74
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 1<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 10800
+Preço total: 11400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 1° Nível
+Nível de poder (NP): 8
+RD: 1
+Defesa: 2
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 600 PO
+Preço para Venda: 300 PO
+Nível da pedra: 1
+Bônus de esquiva: 0
+Chance de crítico: 0
+Bônus de precisao a distância: 3
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 9<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 7200
+Preço total: 7200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 9° Nível
+Nível de poder (NP): 36
+RD: 9
+Defesa: 18
+
+_________________________________________________________________________________________________

@@ -1,0 +1,687 @@
+>>>>>>>>>>>>Vestes Comuns Lv 9<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 24500
+Preço total: 67124
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 9° Nível
+Nível de poder (NP): 256.8
+RD: 0
+Defesa: 18
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 16407 PO
+Preço para Venda: 8203.5 PO
+Nível da pedra: 4
+Bônus de experiência: 2702
+Bônus de dano: 16
+Bônus em habilidade (Força): 11
+Bônus de precisão: 8
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 26217 PO
+Preço para Venda: 13108.5 PO
+Nível da pedra: 9
+Bônus de ouro extra a cada sessão: 11278
+Bônus em habilidade (Carisma): 53
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças de Escamas Lv 18<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 38900
+Preço total: 66235
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 18° Nível
+Nível de poder (NP): 155.27
+RD: 18
+Defesa: 54
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 3685 PO
+Preço para Venda: 1842.5 PO
+Nível da pedra: 3
+Bônus de ouro extra a cada sessão: 2157
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 0
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 23650 PO
+Preço para Venda: 11825 PO
+Nível da pedra: 3
+Bônus em habilidade (Vigor): 9
+Bônus de Redução de Dano: 14
+Regenera por rodada: 12
+Recuperação de vida por acerto: 67
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças do Rei Lv 8<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 30400
+Preço total: 30400
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 8° Nível
+Nível de poder (NP): 48
+RD: 8
+Defesa: 32
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças do Barbaro Lv 17<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 13600
+Preço total: 13600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 17° Nível
+Nível de poder (NP): 68
+RD: 17
+Defesa: 34
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes tiban Lv 18<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 23400
+Preço total: 23400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 18° Nível
+Nível de poder (NP): 108
+RD: 18
+Defesa: 72
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças de couro Lv 16<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 22800
+Preço total: 25617
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 16° Nível
+Nível de poder (NP): 79.45
+RD: 16
+Defesa: 32
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 2817 PO
+Preço para Venda: 1408.5 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 745
+Bônus em habilidade (Carisma): 2
+Aumento de Pvs reservas: 5
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças Borgon Lv 14<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 21200
+Preço total: 42238
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 14° Nível
+Nível de poder (NP): 171.59
+RD: 14
+Defesa: 28
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 21038 PO
+Preço para Venda: 10519 PO
+Nível da pedra: 7
+Bônus de ouro extra a cada sessão: 6859
+Bônus em habilidade (Carisma): 32
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 14
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes tiban Lv 15<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 19500
+Preço total: 19500
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 15° Nível
+Nível de poder (NP): 90
+RD: 15
+Defesa: 60
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes Kusanagi Lv 19<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 34950
+Preço total: 34950
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 19° Nível
+Nível de poder (NP): 95
+RD: 19
+Defesa: 57
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes do Soldado Lv 18<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 39900
+Preço total: 58547
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 18° Nível
+Nível de poder (NP): 129.98
+RD: 18
+Defesa: 18
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 4247 PO
+Preço para Venda: 2123.5 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 1398
+Bônus em habilidade (Inteligência): 4
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 5
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 14400 PO
+Preço para Venda: 7200 PO
+Nível da pedra: 11
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 51
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças do Barbaro Lv 1<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 10800
+Preço total: 11250
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 1° Nível
+Nível de poder (NP): 7
+RD: 1
+Defesa: 2
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 450 PO
+Preço para Venda: 225 PO
+Nível da pedra: 1
+Bônus de esquiva: 2
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças do Arquiero Lv 7<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 5600
+Preço total: 5600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 7° Nível
+Nível de poder (NP): 28
+RD: 7
+Defesa: 14
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes Real Lv 22<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 44100
+Preço total: 137500
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 22° Nível
+Nível de poder (NP): 323.7
+RD: 22
+Defesa: 110
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 93400 PO
+Preço para Venda: 46700 PO
+Nível da pedra: 12
+Bônus em habilidade (Vigor): 84
+Bônus de Redução de Dano: 0
+Regenera por rodada: 59
+Recuperação de vida por acerto: 257
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>vestes do Dragão Lv 4<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 26200
+Preço total: 26200
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 4° Nível
+Nível de poder (NP): 28
+RD: 4
+Defesa: 20
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes Orochi Lv 13<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 30150
+Preço total: 30150
+Esta arma possui 2 slot de encaixe livre
+Encaixes 0
+Requisito: 13° Nível
+Nível de poder (NP): 91
+RD: 13
+Defesa: 65
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes tiban Lv 22<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 48600
+Preço total: 198800
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 22° Nível
+Nível de poder (NP): 488.9
+RD: 22
+Defesa: 88
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 11200 PO
+Preço para Venda: 5600 PO
+Nível da pedra: 8
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 0
+Regenera por rodada: 40
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 139000 PO
+Preço para Venda: 69500 PO
+Nível da pedra: 18
+Bônus em habilidade (Vigor): 188
+Bônus de Redução de Dano: 89
+Regenera por rodada: 0
+Recuperação de vida por acerto: 379
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças do Ranger Lv 6<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 19800
+Preço total: 19800
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 6° Nível
+Nível de poder (NP): 24
+RD: 6
+Defesa: 12
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças do Barbaro Lv 12<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 9600
+Preço total: 9600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 12° Nível
+Nível de poder (NP): 48
+RD: 12
+Defesa: 24
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças do Guerreiro Lv 22<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 17600
+Preço total: 17600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 22° Nível
+Nível de poder (NP): 88
+RD: 22
+Defesa: 44
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças de Horácio Lv 12<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 22600
+Preço total: 47400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 12° Nível
+Nível de poder (NP): 94.7
+RD: 12
+Defesa: 36
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 24800 PO
+Preço para Venda: 12400 PO
+Nível da pedra: 3
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 14
+Regenera por rodada: 12
+Recuperação de vida por acerto: 77
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças Borgon Lv 18<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 24400
+Preço total: 115450
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 18° Nível
+Nível de poder (NP): 108.4
+RD: 18
+Defesa: 36
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 91050 PO
+Preço para Venda: 45525 PO
+Nível da pedra: 17
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 0
+Regenera por rodada: 0
+Recuperação de vida por acerto: 354
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes Kusanagi Lv 12<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 22600
+Preço total: 27331
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 12° Nível
+Nível de poder (NP): 89.54
+RD: 12
+Defesa: 36
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 4731 PO
+Preço para Venda: 2365.5 PO
+Nível da pedra: 3
+Bônus de ouro extra a cada sessão: 2154
+Bônus em habilidade (Carisma): 7
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes do Soldado Lv 17<<<<<<<<<<<<
+Raridade: Lendário
+Preço da arma: 29350
+Preço total: 155668
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 17° Nível
+Nível de poder (NP): 763.12
+RD: 17
+Defesa: 17
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 109968 PO
+Preço para Venda: 54984 PO
+Nível da pedra: 17
+Bônus de ouro extra a cada sessão: 34012
+Bônus em habilidade (Carisma): 156
+Aumento de Pvs reservas: 83
+Aumenta seu DL(Drop Level)/Def/Esq: 35
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 16350 PO
+Preço para Venda: 8175 PO
+Nível da pedra: 13
+Bônus em habilidade (Vigor): 96
+Bônus de Redução de Dano: 0
+Regenera por rodada: 0
+Recuperação de vida por acerto: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes tiban Lv 8<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 30400
+Preço total: 34600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 8° Nível
+Nível de poder (NP): 70
+RD: 8
+Defesa: 32
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 1650 PO
+Preço para Venda: 825 PO
+Nível da pedra: 2
+Bônus de experiência: 0
+Bônus de dano: 9
+Bônus em habilidade (Força): 0
+Bônus de precisão: 0
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 2550 PO
+Preço para Venda: 1275 PO
+Nível da pedra: 2
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 5
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 6
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças de Treinamento Lv 7<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 3500
+Preço total: 3500
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 7° Nível
+Nível de poder (NP): 21
+RD: 0
+Defesa: 14
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças do Arquiero Lv 12<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 19600
+Preço total: 23200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 12° Nível
+Nível de poder (NP): 68
+RD: 12
+Defesa: 24
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 3600 PO
+Preço para Venda: 1800 PO
+Nível da pedra: 5
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 19
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças de Treinamento Lv 5<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 12500
+Preço total: 13950
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 5° Nível
+Nível de poder (NP): 22
+RD: 0
+Defesa: 10
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 1450 PO
+Preço para Venda: 725 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 2
+Aumento de Pvs reservas: 4
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calça Gael Lv 12<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 12600
+Preço total: 12600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 12° Nível
+Nível de poder (NP): 60
+RD: 12
+Defesa: 36
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes de ouro Lv 14<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 31700
+Preço total: 48450
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 14° Nível
+Nível de poder (NP): 143
+RD: 14
+Defesa: 70
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 16750 PO
+Preço para Venda: 8375 PO
+Nível da pedra: 9
+Bônus de esquiva: 0
+Chance de crítico: 44
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes Real Lv 5<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 27750
+Preço total: 27750
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 5° Nível
+Nível de poder (NP): 35
+RD: 5
+Defesa: 25
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças do Ranger Lv 22<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 27600
+Preço total: 36850
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 22° Nível
+Nível de poder (NP): 131
+RD: 22
+Defesa: 44
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 9250 PO
+Preço para Venda: 4625 PO
+Nível da pedra: 5
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 20
+Aumento de dano em Magias: 22
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças Medieval Brilhante Lv 16<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 22800
+Preço total: 77973
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 16° Nível
+Nível de poder (NP): 356.49
+RD: 16
+Defesa: 32
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 55173 PO
+Preço para Venda: 27586.5 PO
+Nível da pedra: 11
+Bônus de ouro extra a cada sessão: 14749
+Bônus em habilidade (Carisma): 69
+Aumento de Pvs reservas: 52
+Aumenta seu DL(Drop Level)/Def/Esq: 23
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças de Treinamento Lv 15<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 17500
+Preço total: 17500
+Esta arma possui 2 slot de encaixe livre
+Encaixes 0
+Requisito: 15° Nível
+Nível de poder (NP): 45
+RD: 0
+Defesa: 30
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças de Horácio Lv 4<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 29200
+Preço total: 32400
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 4° Nível
+Nível de poder (NP): 37
+RD: 4
+Defesa: 12
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 3200 PO
+Preço para Venda: 1600 PO
+Nível da pedra: 3
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 9
+Pontos de habilidade (PH): 7
+Bônus de dano na habilidade de classe: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes do Soldado Lv 7<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 23850
+Preço total: 31250
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 7° Nível
+Nível de poder (NP): 51
+RD: 7
+Defesa: 7
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 5600 PO
+Preço para Venda: 2800 PO
+Nível da pedra: 4
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 20
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 1800 PO
+Preço para Venda: 900 PO
+Nível da pedra: 4
+Bônus de experiência: 0
+Bônus de dano: 0
+Bônus em habilidade (Força): 0
+Bônus de precisão: 8
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças de Escamas Lv 8<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 18400
+Preço total: 18400
+Esta arma possui 2 slot de encaixe livre
+Encaixes 0
+Requisito: 8° Nível
+Nível de poder (NP): 40
+RD: 8
+Defesa: 24
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças do Guerreiro Lv 20<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 21000
+Preço total: 21000
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 20° Nível
+Nível de poder (NP): 80
+RD: 20
+Defesa: 40
+
+_________________________________________________________________________________________________

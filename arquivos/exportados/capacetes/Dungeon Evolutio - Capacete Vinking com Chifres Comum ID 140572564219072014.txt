@@ -1,0 +1,189 @@
+>>>>>>>>>>>>Capacete Vinking com Chifres Lv 19<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 15200
+Preço total: 15200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 19° Nível
+Nível de poder (NP): 76
+RD: 19
+Defesa: 38
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Frígida Nasal Lv 17<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 14350
+Preço total: 14350
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 17° Nível
+Nível de poder (NP): 51
+RD: 17
+Defesa: 17
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete São Venceslau Lv 5<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 4000
+Preço total: 4000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 5° Nível
+Nível de poder (NP): 20
+RD: 5
+Defesa: 10
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Máscara Spartan Lv 23<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 10750
+Preço total: 10750
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 23° Nível
+Nível de poder (NP): 46
+RD: 0
+Defesa: 23
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Máscara Spartan Lv 25<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 16250
+Preço total: 35350
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 25° Nível
+Nível de poder (NP): 78.8
+RD: 0
+Defesa: 25
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 19100 PO
+Preço para Venda: 9550 PO
+Nível da pedra: 2
+Bônus em habilidade (Vigor): 4
+Bônus de Redução de Dano: 8
+Regenera por rodada: 10
+Recuperação de vida por acerto: 58
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete Espanhol Lv 32<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 25600
+Preço total: 25600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 32° Nível
+Nível de poder (NP): 128
+RD: 32
+Defesa: 64
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete Vinking com Orelhas Lv 32<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 56200
+Preço total: 56200
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 32° Nível
+Nível de poder (NP): 224
+RD: 64
+Defesa: 128
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Frígida Nasal Lv 9<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 4950
+Preço total: 4950
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 9° Nível
+Nível de poder (NP): 27
+RD: 9
+Defesa: 9
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete Vinking com Chifres Lv 7<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 5600
+Preço total: 5600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 7° Nível
+Nível de poder (NP): 28
+RD: 7
+Defesa: 14
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete São Venceslau Lv 8<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 6400
+Preço total: 6400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 8° Nível
+Nível de poder (NP): 32
+RD: 8
+Defesa: 16
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Frígida Nasal Lv 6<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 8300
+Preço total: 8300
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 6° Nível
+Nível de poder (NP): 18
+RD: 6
+Defesa: 6
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Frígida Nasal Lv 15<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 8250
+Preço total: 8250
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 15° Nível
+Nível de poder (NP): 45
+RD: 15
+Defesa: 15
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete Vinking com Orelhas Lv 32<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 51200
+Preço total: 51200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 32° Nível
+Nível de poder (NP): 224
+RD: 64
+Defesa: 128
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Facial Lv 10<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 8000
+Preço total: 8000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 10° Nível
+Nível de poder (NP): 40
+RD: 10
+Defesa: 20
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete com Facial Lv 9<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 7200
+Preço total: 7200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 9° Nível
+Nível de poder (NP): 36
+RD: 9
+Defesa: 18
+
+_________________________________________________________________________________________________

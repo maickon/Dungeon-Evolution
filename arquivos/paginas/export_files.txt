@@ -1,0 +1,24 @@
+<p>
+<h3>Este é o site oficial do RPG Dungeon Evolution</h3>
+<h4>Download de arquivos de itens</h4>
+Os arquivos de itens são arquivos gerados pela exportação para boloco de notas no momento em que os itens são gerados. Dessa forma os jogadores terão acesso aos itens gerados. basta fazer a consulta por aqui.
+Os arquivos são nomeados pelo nome do site mais o nome do primeiro item da lista e mais um código que representa o seu ID.
+
+<h4>Os Itens</h4>
+Clique nos links abaixo para você ter acesso ao item exportado.
+  
+<div class="lista_ordenada">
+	<ul>
+		<li><a href="http://dungeonevolution.orgfree.com/arquivos/exportados/aneis/">Aneis</a></li>
+		<li><a href="http://dungeonevolution.orgfree.com/arquivos/exportados/armaduras/">Armaduras</a></li>
+		<li><a href="http://dungeonevolution.orgfree.com/arquivos/exportados/armas/">Armas</a></li>
+		<li><a href="http://dungeonevolution.orgfree.com/arquivos/exportados/botas/">Botas</a></li>
+		<li><a href="http://dungeonevolution.orgfree.com/arquivos/exportados/calcas/">Calças</a></li>
+		<li><a href="http://dungeonevolution.orgfree.com/arquivos/exportados/capacetes/">Capacetes</a></li>
+		<li><a href="http://dungeonevolution.orgfree.com/arquivos/exportados/colares/">Colares</a></li>	
+		<li><a href="http://dungeonevolution.orgfree.com/arquivos/exportados/escudos/">Escudos</a></li>
+		<li><a href="http://dungeonevolution.orgfree.com/arquivos/exportados/luvas/">Luvas</a></li>
+		<li><a href="http://dungeonevolution.orgfree.com/arquivos/exportados/ombreiras/">Ombreiras</a></li>
+	</ul>
+</div>
+</p>

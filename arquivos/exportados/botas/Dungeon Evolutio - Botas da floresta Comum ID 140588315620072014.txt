@@ -1,0 +1,924 @@
+>>>>>>>>>>>>Botas da floresta Lv 23<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 33400
+Preço total: 33400
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 23° Nível
+Nível de poder (NP): 92
+RD: 23
+Defesa: 46
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Arquiero Lv 6<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 4800
+Preço total: 4800
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 6° Nível
+Nível de poder (NP): 24
+RD: 6
+Defesa: 12
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 10<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 13000
+Preço total: 13000
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 10° Nível
+Nível de poder (NP): 40
+RD: 10
+Defesa: 20
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Arquiero Lv 4<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 3200
+Preço total: 3200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 4° Nível
+Nível de poder (NP): 16
+RD: 4
+Defesa: 8
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Bárbaro Lv 15<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 12000
+Preço total: 12000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 15° Nível
+Nível de poder (NP): 60
+RD: 15
+Defesa: 30
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Arquiero Lv 17<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 23600
+Preço total: 42600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 17° Nível
+Nível de poder (NP): 119
+RD: 17
+Defesa: 34
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 19000 PO
+Preço para Venda: 9500 PO
+Nível da pedra: 10
+Bônus de esquiva: 0
+Chance de crítico: 50
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 21<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 16800
+Preço total: 16800
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 21° Nível
+Nível de poder (NP): 84
+RD: 21
+Defesa: 42
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 17<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 13600
+Preço total: 13600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 17° Nível
+Nível de poder (NP): 68
+RD: 17
+Defesa: 34
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 7<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 20600
+Preço total: 24632
+Esta arma possui 1 slot de encaixe livre
+Encaixes 1
+Requisito: 7° Nível
+Nível de poder (NP): 48.55
+RD: 7
+Defesa: 14
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 4032 PO
+Preço para Venda: 2016 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 955
+Bônus em habilidade (Carisma): 6
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 4
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas da floresta Lv 3<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 17400
+Preço total: 25310
+Esta arma possui 1 slot de encaixe livre
+Encaixes 1
+Requisito: 3° Nível
+Nível de poder (NP): 41.6
+RD: 3
+Defesa: 6
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 7910 PO
+Preço para Venda: 3955 PO
+Nível da pedra: 2
+Bônus de experiência: 1460
+Bônus de dano: 6
+Bônus em habilidade (Força): 4
+Bônus de precisão: 4
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 7<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 5600
+Preço total: 5600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 7° Nível
+Nível de poder (NP): 28
+RD: 7
+Defesa: 14
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 4<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 18200
+Preço total: 18200
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 4° Nível
+Nível de poder (NP): 16
+RD: 4
+Defesa: 8
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Bárbaro Lv 17<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 23600
+Preço total: 23600
+Esta arma possui 2 slot de encaixe livre
+Encaixes 0
+Requisito: 17° Nível
+Nível de poder (NP): 68
+RD: 17
+Defesa: 34
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 20<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 36000
+Preço total: 36000
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 20° Nível
+Nível de poder (NP): 80
+RD: 20
+Defesa: 40
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas da floresta Lv 19<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 20200
+Preço total: 20200
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 19° Nível
+Nível de poder (NP): 76
+RD: 19
+Defesa: 38
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas da floresta Lv 23<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 28400
+Preço total: 160899
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 23° Nível
+Nível de poder (NP): 843.33
+RD: 23
+Defesa: 46
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 132499 PO
+Preço para Venda: 66249.5 PO
+Nível da pedra: 19
+Bônus de ouro extra a cada sessão: 41533
+Bônus em habilidade (Carisma): 203
+Aumento de Pvs reservas: 93
+Aumenta seu DL(Drop Level)/Def/Esq: 39
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 2<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 6600
+Preço total: 6600
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 2° Nível
+Nível de poder (NP): 8
+RD: 2
+Defesa: 4
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 5<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 24000
+Preço total: 47323
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 5° Nível
+Nível de poder (NP): 109.21
+RD: 5
+Defesa: 10
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 2400 PO
+Preço para Venda: 1200 PO
+Nível da pedra: 3
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 13
+Regenera por rodada: 0
+Recuperação de vida por acerto: 0
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 20923 PO
+Preço para Venda: 10461.5 PO
+Nível da pedra: 5
+Bônus de experiência: 3721
+Bônus de dano: 21
+Bônus em habilidade (Força): 16
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 4<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 3200
+Preço total: 3200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 4° Nível
+Nível de poder (NP): 16
+RD: 4
+Defesa: 8
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 8<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 31400
+Preço total: 36350
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 8° Nível
+Nível de poder (NP): 60
+RD: 8
+Defesa: 16
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 4950 PO
+Preço para Venda: 2475 PO
+Nível da pedra: 6
+Bônus de esquiva: 27
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas da floresta Lv 8<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 6400
+Preço total: 6400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 8° Nível
+Nível de poder (NP): 32
+RD: 8
+Defesa: 16
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 13<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 40400
+Preço total: 94339
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 13° Nível
+Nível de poder (NP): 353.26
+RD: 13
+Defesa: 26
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 29300 PO
+Preço para Venda: 14650 PO
+Nível da pedra: 12
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 90
+Aumento de Pvs reservas: 56
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 24639 PO
+Preço para Venda: 12319.5 PO
+Nível da pedra: 11
+Bônus de ouro extra a cada sessão: 15326
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas da floresta Lv 17<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 13600
+Preço total: 13600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 17° Nível
+Nível de poder (NP): 68
+RD: 17
+Defesa: 34
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas da floresta Lv 18<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 44400
+Preço total: 223200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 3
+Requisito: 18° Nível
+Nível de poder (NP): 632.2
+RD: 18
+Defesa: 36
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 8250 PO
+Preço para Venda: 4125 PO
+Nível da pedra: 18
+Bônus de experiência: 0
+Bônus de dano: 0
+Bônus em habilidade (Força): 0
+Bônus de precisão: 37
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 126250 PO
+Preço para Venda: 63125 PO
+Nível da pedra: 15
+Bônus em habilidade (Vigor): 125
+Bônus de Redução de Dano: 75
+Regenera por rodada: 74
+Recuperação de vida por acerto: 302
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 44300 PO
+Preço para Venda: 22150 PO
+Nível da pedra: 14
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 118
+Aumento de dano em Magias: 69
+Aumenta seu DL(Drop Level): 29
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 6<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 14800
+Preço total: 23150
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 6° Nível
+Nível de poder (NP): 72
+RD: 6
+Defesa: 12
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 8350 PO
+Preço para Venda: 4175 PO
+Nível da pedra: 4
+Bônus de deflexão: 20
+Bônus em habilidade (Sabedoria): 13
+Pontos de habilidade (PH): 14
+Bônus de dano na habilidade de classe: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Arquiero Lv 23<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 33400
+Preço total: 33400
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 23° Nível
+Nível de poder (NP): 92
+RD: 23
+Defesa: 46
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 12<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 19600
+Preço total: 39096
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 12° Nível
+Nível de poder (NP): 143.31
+RD: 12
+Defesa: 24
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 19496 PO
+Preço para Venda: 9748 PO
+Nível da pedra: 5
+Bônus de ouro extra a cada sessão: 4231
+Bônus em habilidade (Carisma): 17
+Aumento de Pvs reservas: 24
+Aumenta seu DL(Drop Level)/Def/Esq: 11
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Bárbaro Lv 4<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 28200
+Preço total: 30400
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 4° Nível
+Nível de poder (NP): 27
+RD: 4
+Defesa: 8
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 2200 PO
+Preço para Venda: 1100 PO
+Nível da pedra: 2
+Bônus de experiência: 0
+Bônus de dano: 6
+Bônus em habilidade (Força): 4
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 11<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 33800
+Preço total: 45950
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 11° Nível
+Nível de poder (NP): 115
+RD: 11
+Defesa: 22
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 12150 PO
+Preço para Venda: 6075 PO
+Nível da pedra: 11
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 70
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 18<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 34400
+Preço total: 77167
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 18° Nível
+Nível de poder (NP): 268.48
+RD: 18
+Defesa: 36
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 27280 PO
+Preço para Venda: 13640 PO
+Nível da pedra: 6
+Bônus de experiência: 5823
+Bônus de dano: 27
+Bônus em habilidade (Força): 0
+Bônus de precisão: 13
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 15487 PO
+Preço para Venda: 7743.5 PO
+Nível da pedra: 7
+Bônus de ouro extra a cada sessão: 6625
+Bônus em habilidade (Inteligência): 30
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Bárbaro Lv 8<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 26400
+Preço total: 46899
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 8° Nível
+Nível de poder (NP): 96.57
+RD: 8
+Defesa: 16
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 19699 PO
+Preço para Venda: 9849.5 PO
+Nível da pedra: 5
+Bônus de experiência: 4057
+Bônus de dano: 0
+Bônus em habilidade (Força): 19
+Bônus de precisão: 0
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 800 PO
+Preço para Venda: 400 PO
+Nível da pedra: 1
+Bônus de esquiva: 1
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 2
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 5<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 24000
+Preço total: 53657
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 5° Nível
+Nível de poder (NP): 138.97
+RD: 5
+Defesa: 10
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 22346 PO
+Preço para Venda: 11173 PO
+Nível da pedra: 5
+Bônus de experiência: 4756
+Bônus de dano: 23
+Bônus em habilidade (Força): 0
+Bônus de precisão: 10
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 7311 PO
+Preço para Venda: 3655.5 PO
+Nível da pedra: 3
+Bônus de ouro extra a cada sessão: 2241
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 14
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 10<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 18000
+Preço total: 20650
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 10° Nível
+Nível de poder (NP): 52
+RD: 10
+Defesa: 20
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 2650 PO
+Preço para Venda: 1325 PO
+Nível da pedra: 2
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 4
+Pontos de habilidade (PH): 0
+Bônus de dano na habilidade de classe: 7
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 2<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 11600
+Preço total: 13434
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 2° Nível
+Nível de poder (NP): 19.23
+RD: 2
+Defesa: 4
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 1834 PO
+Preço para Venda: 917 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 1023
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 8<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 6400
+Preço total: 6400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 8° Nível
+Nível de poder (NP): 32
+RD: 8
+Defesa: 16
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Arquiero Lv 8<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 6400
+Preço total: 6400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 8° Nível
+Nível de poder (NP): 32
+RD: 8
+Defesa: 16
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Arquiero Lv 14<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 21200
+Preço total: 27113
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 14° Nível
+Nível de poder (NP): 83.09
+RD: 14
+Defesa: 28
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 5913 PO
+Preço para Venda: 2956.5 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 1309
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 9
+Aumenta seu DL(Drop Level)/Def/Esq: 4
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Arquiero Lv 10<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 18000
+Preço total: 40950
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 10° Nível
+Nível de poder (NP): 121
+RD: 10
+Defesa: 20
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 22950 PO
+Preço para Venda: 11475 PO
+Nível da pedra: 7
+Bônus de esquiva: 0
+Chance de crítico: 33
+Bônus de precisao a distância: 14
+Bônus em habilidade (Destreza): 33
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 4<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 8200
+Preço total: 8200
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 4° Nível
+Nível de poder (NP): 16
+RD: 4
+Defesa: 8
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 22<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 37600
+Preço total: 37600
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 22° Nível
+Nível de poder (NP): 88
+RD: 22
+Defesa: 44
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Arquiero Lv 4<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 13200
+Preço total: 13200
+Esta arma possui 2 slot de encaixe livre
+Encaixes 0
+Requisito: 4° Nível
+Nível de poder (NP): 16
+RD: 4
+Defesa: 8
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 22<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 47600
+Preço total: 220110
+Esta arma possui 2 slot de encaixe livre
+Encaixes 2
+Requisito: 22° Nível
+Nível de poder (NP): 908.87
+RD: 22
+Defesa: 44
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 142260 PO
+Preço para Venda: 71130 PO
+Nível da pedra: 20
+Bônus de ouro extra a cada sessão: 45307
+Bônus em habilidade (Carisma): 213
+Aumento de Pvs reservas: 100
+Aumenta seu DL(Drop Level)/Def/Esq: 41
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 30250 PO
+Preço para Venda: 15125 PO
+Nível da pedra: 5
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 0
+Regenera por rodada: 0
+Recuperação de vida por acerto: 118
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Ranger Lv 11<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 18800
+Preço total: 25231
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 11° Nível
+Nível de poder (NP): 69.66
+RD: 11
+Defesa: 22
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 6431 PO
+Preço para Venda: 3215.5 PO
+Nível da pedra: 2
+Bônus de experiência: 966
+Bônus de dano: 6
+Bônus em habilidade (Força): 5
+Bônus de precisão: 4
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Bárbaro Lv 4<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 13200
+Preço total: 20550
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 4° Nível
+Nível de poder (NP): 44
+RD: 4
+Defesa: 8
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 7350 PO
+Preço para Venda: 3675 PO
+Nível da pedra: 4
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 0
+Aumento de dano em Magias: 19
+Aumenta seu DL(Drop Level): 8
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas da floresta Lv 3<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 2400
+Preço total: 2400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 3° Nível
+Nível de poder (NP): 12
+RD: 3
+Defesa: 6
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Bárbaro Lv 9<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 22200
+Preço total: 44300
+Esta arma possui 1 slot de encaixe livre
+Encaixes 1
+Requisito: 9° Nível
+Nível de poder (NP): 129
+RD: 9
+Defesa: 18
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 22100 PO
+Preço para Venda: 11050 PO
+Nível da pedra: 8
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 38
+Aumento de Pvs reservas: 37
+Aumenta seu DL(Drop Level)/Def/Esq: 17
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Bárbaro Lv 8<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 16400
+Preço total: 25623
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 8° Nível
+Nível de poder (NP): 74.82
+RD: 8
+Defesa: 16
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 9223 PO
+Preço para Venda: 4611.5 PO
+Nível da pedra: 3
+Bônus de ouro extra a cada sessão: 2282
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 13
+Aumenta seu DL(Drop Level)/Def/Esq: 6
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 3<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 22400
+Preço total: 30350
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 3° Nível
+Nível de poder (NP): 29.2
+RD: 3
+Defesa: 6
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 1200 PO
+Preço para Venda: 600 PO
+Nível da pedra: 1
+Bônus de experiência: 0
+Bônus de dano: 4
+Bônus em habilidade (Força): 0
+Bônus de precisão: 3
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 6750 PO
+Preço para Venda: 3375 PO
+Nível da pedra: 1
+Bônus em habilidade (Vigor): 2
+Bônus de Redução de Dano: 2
+Regenera por rodada: 2
+Recuperação de vida por acerto: 22
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Arquiero Lv 16<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 17800
+Preço total: 17800
+Esta arma possui 1 slot de encaixe livre
+Encaixes 0
+Requisito: 16° Nível
+Nível de poder (NP): 64
+RD: 16
+Defesa: 32
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Botas de Soldado Lv 21<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 36800
+Preço total: 113508
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 21° Nível
+Nível de poder (NP): 547.39
+RD: 21
+Defesa: 42
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 69358 PO
+Preço para Venda: 34679 PO
+Nível da pedra: 15
+Bônus de ouro extra a cada sessão: 26239
+Bônus em habilidade (Inteligência): 135
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 30
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 7350 PO
+Preço para Venda: 3675 PO
+Nível da pedra: 3
+Bônus de deflexão: 11
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 10
+Bônus de dano na habilidade de classe: 13
+
+_________________________________________________________________________________________________

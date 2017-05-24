@@ -1,0 +1,7 @@
+Heal-0-4-5-Cura de leve no seu Pvs.-0
+Rejuvenate-0-9-9-Cura simples no seu Pvs.-0
+Restore-0-18-20-Cura moderada no seu Pvs.-0
+Vitalize-0-30-34-Cura de alto nível em seu Pvs.-0
+Vigor-0-45-55-Cura quase que completa em seu Pvs.-0
+Raise Dead-0-0-70-Te revive, caso esteja no negativo com 1/4 Pvs Total.-0
+Resurrect-0-0-95-Te revive com Pvs cheio.-0

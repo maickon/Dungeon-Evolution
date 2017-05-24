@@ -1,0 +1,60 @@
+>>>>>>>>>>>>Jitte
+ Lv18<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 79700 PO
+Preço total: 83950
+Categoria: Arma de uma mão
+Esta arma possui 2 slot de encaixe livre
+Encaixes 0
+Indicada para o nível: 18
+Nível de poder (NP): 755
+Dano: 720  +17d6
+
+>>>>>>>>>>>>Habilidades<<<<<<<<<<<<
+Elemento: Gelo/Frio
+Descrição: Esta arma tem a capacidade de causar 17.d6 de dano adicional por Gelo/Frio
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Schnitter
+ Lv21<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 26550 PO
+Preço total: 171350
+Categoria: Arma de uma mão
+Esta arma possui 1 slot de encaixe livre
+Encaixes 1
+Indicada para o nível: 21
+Nível de poder (NP): 343
+Dano: 84  +1d6
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 144550 PO
+Preço para Venda: 72275 PO
+Nível da pedra: 20
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 97
+Regenera por rodada: 98
+Recuperação de vida por acerto: 410
+
+>>>>>>>>>>>>Habilidades<<<<<<<<<<<<
+Elemento: Trevas/Escuridão
+Descrição: Esta arma tem a capacidade de causar 1.d6 de dano adicional por Trevas/Escuridão
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Punhal Longo
+ Lv4<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 13000 PO
+Preço total: 14500
+Categoria: Arma de uma mão
+Esta arma possui  0  slot de encaixe livre
+Encaixes 0
+Indicada para o nível: 4
+Nível de poder (NP): 34
+Dano: 24  +4d6 +2d6
+
+>>>>>>>>>>>>Habilidades<<<<<<<<<<<<
+Elemento: Eletricidade
+Descrição: Esta arma tem a capacidade de causar 4.d6 de dano adicional por Eletricidade
+>>>>>>>>>>>>Habilidades<<<<<<<<<<<<
+Elemento: Luz
+Descrição: Esta arma tem a capacidade de causar 2.d6 de dano adicional por Luz
+_________________________________________________________________________________________________

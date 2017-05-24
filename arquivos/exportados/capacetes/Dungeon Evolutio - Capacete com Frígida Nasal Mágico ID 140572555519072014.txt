@@ -1,0 +1,36 @@
+>>>>>>>>>>>>Capacete com Frígida Nasal Lv5<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 2750
+Preço total: 2750
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 5° Nível
+Nível de poder (NP): 15
+RD: 5
+Defesa: 5
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Capacete Vinking com Orelhas Lv16<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 25600
+Preço total: 25600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 16° Nível
+Nível de poder (NP): 112
+RD: 32
+Defesa: 64
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Máscara Spartan Lv19<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 4750
+Preço total: 4750
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 19° Nível
+Nível de poder (NP): 38
+RD: 0
+Defesa: 19
+
+_________________________________________________________________________________________________

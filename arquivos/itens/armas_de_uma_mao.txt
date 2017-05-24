@@ -1,0 +1,197 @@
+1-Espada Curta
+2-Espada de Assassinos
+3-Espada Curta Italiana
+4-Espada Francesa
+5-Espada Holandesa
+6-Arbach
+7-Falcione
+8-Falcione Austríaco
+9-Falcione Italiano
+10-Cutlass
+11-Dusagge Naval
+12-Dusagge de Infantaria
+13-Espada Cabo Cesta
+14-Espada Africana
+15-Espada Bárbara
+16-Espada Bastarda
+17-Espada da Justiça
+18-Rondrakamm
+19-Flamberge
+20-Sabre
+21-Sabre Escocês
+22-Sabre de Piratas
+23-Sabre de Amazonas
+24-Hunger
+25-Florete
+26-Gládio
+27-Rapier
+28-Rapier de Duelos
+39-Rapier de Piratas
+30-Florete
+31-Florete de Magos
+32-Espada Maçônica
+33-Zarabatana
+34-Garrote
+35-Nunchaku
+36-Faca
+37-Faca de pedra
+38-Faca de caça
+39-Navaja
+40-Foice
+41-Foice Druídica
+42-Baselard
+43-Drachenzahn(Dente de Dragão)
+44-Holbein
+45-Eberfanfer(Presas de Javali)
+46-Rondel
+47-Ear Rondel
+48-Cinquedea
+49-Garra de Basilisco
+50-Adaga Suiça
+51-Adaga Germânica
+52-Adaga da Floresta
+53-Adaga de Prata
+54-Adaga de Arremesso
+55-Main Gaunche
+56-Canhestro
+57-Hauswehren
+59-Punhal
+60-Punhal Mexicano
+61-Punhal Longo
+62-Punhal Escocês
+63-Punhal Espada
+64-Machete
+65-Machadinha
+66-Machado de Mão
+67-Machado de Lenhador
+68-Orknase
+69-Machado de Arremesso
+70-Machado de Ponta
+71-Machado Navalha
+72-Machado Sinuoso
+73-Machado Militar
+74-Machado de Batalha Curvo
+75-Machado de Batalha Reto
+76-Machado Bárbaro
+77-Thorwaler
+78-Machado Molok
+79-Stonecutter
+80-chicote
+81-Gato de Nove Caudas (Chicote)
+82-Maquarri (Chicote)
+83-Raposa de Nove caudas (Chicote)
+84-Chicote de Lâmina
+85-Chicote Navalha
+86-Besta leve
+87-Mangual
+88-Mangual de Guerra
+89-Mangual Metálico
+90-Mangual Duplo
+91-Mangual Triplo
+92-Mangual Militar
+93-Mangual de Corrente
+94-Corrente com Bola
+95-Mangual de Gancho	
+96-Clava
+97-Clava de Pedra
+98-Clava Espinho
+99-Maça de Exército
+100-Maça de Guerra
+101-Morningstar
+102-Maça Germânica
+103-Porrete
+104-Bastão
+105-Soqueira
+106-Espada longa
+107-Katana
+108-Bastão
+109-Martelo de Guerra
+110-Martelo Ritual
+111-Martelo de Duas Cabeças
+112-Awl Pike
+113-Martelo Cabeça de Corvo
+114-Gruufhai
+115-Lança
+116-Lança de Golpe
+117-Lança de Mão
+118-Pike
+119-Lança Molok
+120-Partisan-8Lança de Mão Sem Ponta
+121-Tridente Ritual
+122-Dreizak
+123-Arpão de Pesca
+124-Lança de Arremesso
+125-Lança de Duas Pontas
+126-Tridente
+127-Sturmsense
+128-Lança de Guerra
+129-Halberd Longo1
+130-Glefe
+131-Schnitter
+132-Lança Machado
+133-Lança Mata Dragão
+134-Lança de Caça
+135-Lança de Haken
+136-Lança de Justa
+137-Pailos
+138-Dragonlance
+139-Soqueira
+140-Soqueira com Garras
+141-Soqueira com Espinhos
+142-Naginata
+143-Jitte
+144-Espada Semehada
+145-Dragon Blade
+146-Claymore
+147-Dragonslayer +10 de dano contra dragões
+148-Slayer
+149-Ice Blade +10 de dano de gelo
+150-Flame Sword +10 de dano de fogo
+151-Royal Sword
+152-Barbarossa
+153-Jang'do
+154-Kunai
+155-Nuntchaku de Madeira
+156-Nuntchaku de Metal
+157-Nuntchaku de Prata
+158-Machado Escarlate 
+159-Machado Demoniaco 
+160-Machado de Ouro-9 
+161-Machado Incandescente +10 de dano de Fogo
+162-Execultor
+163-Machado Sagrado +10 de dano Sagrado
+164-Machado Duplo
+165-Machado do Caos +10 de dano do Caos
+166-Machado de Órion +10 de dano de Luz
+167-Francisca
+168-Caçador de Bestas
+169-Machado Vulcânico +10 de dano de Fogo
+170-Machado Estigio 
+171-Machado Titânico
+172-Machado do Trovão +10 de dano Elétrico 
+173-Machado Dracônico
+174-Machado do Zodiaco +5 em todos os atributos
+175-Hakujin-Khukri
+176-Yagyu Darkblade
+177-Kusanagi
+178-Kagenu
+179-Espada de Iga
+180-Ashura
+181-Orochi
+182-Espada de Koga
+183-Sakura Saezuri
+184-Chokuto
+185-Kantana Raitoningu
+186-Nodachi-Wakizashi
+187-Kogarasumaru
+188-Shirasaya
+189-Yakei
+190-Masamune
+191-Kiku Ichimonji
+192-Zambatou
+193-Kotetsu
+194-Osafune
+195-Murasame
+196-Muramasa
+197-Ame no Murakumo
+198-Magoroku

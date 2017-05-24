@@ -1,0 +1,45 @@
+>>>>>>>>>>>>Escudo Troiano Lv 10<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 136000
+Preço total: 140050
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 10° Nível
+Nível de poder (NP): 489
+RD: 220
+Defesa: 240
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 4050 PO
+Preço para Venda: 2025 PO
+Nível da pedra: 9
+Bônus de experiência: 0
+Bônus de dano: 0
+Bônus em habilidade (Força): 0
+Bônus de precisão: 18
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Cid Lv 8<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 21600
+Preço total: 21600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 8° Nível
+Nível de poder (NP): 88
+RD: 32
+Defesa: 48
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo de Aço Lv 7<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 41350
+Preço total: 41350
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 7° Nível
+Nível de poder (NP): 84
+RD: 42
+Defesa: 35
+
+_________________________________________________________________________________________________

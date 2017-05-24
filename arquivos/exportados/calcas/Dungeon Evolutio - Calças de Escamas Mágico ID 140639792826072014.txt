@@ -1,0 +1,54 @@
+>>>>>>>>>>>>Calças de Escamas Lv 19<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 30900
+Preço total: 106235
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 19° Nível
+Nível de poder (NP): 526.57
+RD: 38
+Defesa: 38
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 75335 PO
+Preço para Venda: 37667.5 PO
+Nível da pedra: 17
+Bônus de ouro extra a cada sessão: 34857
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 82
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Vestes Kusanagi Lv 2<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 4400
+Preço total: 4400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 2° Nível
+Nível de poder (NP): 18
+RD: 8
+Defesa: 8
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calça azul Lv 18<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 87400
+Preço total: 100790
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 18° Nível
+Nível de poder (NP): 374.6
+RD: 108
+Defesa: 180
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 13390 PO
+Preço para Venda: 6695 PO
+Nível da pedra: 5
+Bônus de ouro extra a cada sessão: 4260
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 25
+Aumenta seu DL(Drop Level)/Def/Esq: 0
+
+_________________________________________________________________________________________________

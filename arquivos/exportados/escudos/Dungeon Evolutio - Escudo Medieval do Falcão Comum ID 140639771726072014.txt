@@ -1,0 +1,54 @@
+>>>>>>>>>>>>Escudo Medieval do Falcão Lv 20<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 37000
+Preço total: 37000
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 20° Nível
+Nível de poder (NP): 80
+RD: 40
+Defesa: 20
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo Saracen Lv 11<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 146500
+Preço total: 169650
+Esta arma possui 2 slot de encaixe livre
+Encaixes 1
+Requisito: 11° Nível
+Nível de poder (NP): 572
+RD: 220
+Defesa: 242
+
+>>>>>>>>>>>>Pedra Azul (Ametista)<<<<<<<<<<<<
+Preço de compra: 23150 PO
+Preço para Venda: 11575 PO
+Nível da pedra: 9
+Bônus de deflexão: 0
+Bônus em habilidade (Sabedoria): 0
+Pontos de habilidade (PH): 54
+Bônus de dano na habilidade de classe: 44
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Escudo da Vida +5% de na reserva de vida Lv 8<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 58000
+Preço total: 72337
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 8° Nível
+Nível de poder (NP): 261.58
+RD: 80
+Defesa: 96
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 14337 PO
+Preço para Venda: 7168.5 PO
+Nível da pedra: 5
+Bônus de ouro extra a cada sessão: 3758
+Bônus em habilidade (Inteligência): 18
+Aumento de dano em Magias: 21
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________

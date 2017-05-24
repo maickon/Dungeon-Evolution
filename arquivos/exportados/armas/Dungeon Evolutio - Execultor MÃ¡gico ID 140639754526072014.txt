@@ -1,0 +1,78 @@
+>>>>>>>>>>>>Execultor Lv20<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 43000 PO
+Preço total: 88837
+Categoria: Arma de uma mão
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Indicada para o nível: 20
+Nível de poder (NP): 490.25
+Dano: 200  +6d6 +10d6
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 41837 PO
+Preço para Venda: 20918.5 PO
+Nível da pedra: 11
+Bônus de ouro extra a cada sessão: 16325
+Bônus em habilidade (Inteligência): 68
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 22
+
+>>>>>>>>>>>>Habilidades<<<<<<<<<<<<
+Elemento: Veneno
+Descrição: Esta arma tem a capacidade de causar 6.d6 de dano adicional por Veneno
+>>>>>>>>>>>>Habilidades<<<<<<<<<<<<
+Elemento: Trevas/Escuridão
+Descrição: Esta arma tem a capacidade de causar 10.d6 de dano adicional por Trevas/Escuridão
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Lança de Mão Lv14<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 21900 PO
+Preço total: 44700
+Categoria: Arma de uma mão
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Indicada para o nível: 14
+Nível de poder (NP): 197
+Dano: 98 
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 22800 PO
+Preço para Venda: 11400 PO
+Nível da pedra: 12
+Bônus de experiência: 0
+Bônus de dano: 0
+Bônus em habilidade (Força): 84
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Espada da Justiça Lv19<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 31650 PO
+Preço total: 85292
+Categoria: Arma de uma mão
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Indicada para o nível: 19
+Nível de poder (NP): 259.12
+Dano: 73  +16d6 +19d6 +8d6
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 42892 PO
+Preço para Venda: 21446 PO
+Nível da pedra: 7
+Bônus de experiência: 7312
+Bônus de dano: 35
+Bônus em habilidade (Força): 35
+Bônus de precisão: 15
+
+>>>>>>>>>>>>Habilidades<<<<<<<<<<<<
+Elemento: Gelo/Frio
+Descrição: Esta arma tem a capacidade de causar 16.d6 de dano adicional por Gelo/Frio
+>>>>>>>>>>>>Habilidades<<<<<<<<<<<<
+Elemento: Trevas/Escuridão
+Descrição: Esta arma tem a capacidade de causar 19.d6 de dano adicional por Trevas/Escuridão
+>>>>>>>>>>>>Habilidades<<<<<<<<<<<<
+Elemento: Luz
+Descrição: Esta arma tem a capacidade de causar 8.d6 de dano adicional por Luz
+_________________________________________________________________________________________________

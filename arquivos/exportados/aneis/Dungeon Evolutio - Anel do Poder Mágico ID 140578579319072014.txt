@@ -1,0 +1,50 @@
+>>>>>>>>>>>>Anel do Poder Lv 2<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 27000
+Preço total: 29950
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 2° Nível
+Nível de poder (NP): 15
+Força: 2
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 2950 PO
+Preço para Venda: 1475 PO
+Nível da pedra: 1
+Bônus de esquiva: 4
+Chance de crítico: 5
+Bônus de precisao a distância: 3
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel Infernal Lv 10<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 40000
+Preço total: 40000
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 10° Nível
+Nível de poder (NP): 10
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da Ganancia Lv 1<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 26000
+Preço total: 30531
+Esta arma possui 3 slot de encaixe livre
+Encaixes 1
+Requisito: 1° Nível
+Nível de poder (NP): 17.66
+Carisma: 1
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 4531 PO
+Preço para Venda: 2265.5 PO
+Nível da pedra: 1
+Bônus de experiência: 866
+Bônus de dano: 4
+Bônus em habilidade (Força): 3
+Bônus de precisão: 0
+
+_________________________________________________________________________________________________

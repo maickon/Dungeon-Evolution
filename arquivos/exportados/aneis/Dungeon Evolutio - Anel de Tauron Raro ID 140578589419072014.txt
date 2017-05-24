@@ -1,0 +1,69 @@
+>>>>>>>>>>>>Anel de Tauron Lv 17<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 54000
+Preço total: 84900
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 17° Nível
+Nível de poder (NP): 159
+Força: 34
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 28250 PO
+Preço para Venda: 14125 PO
+Nível da pedra: 11
+Bônus de esquiva: 54
+Chance de crítico: 0
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 74
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 2650 PO
+Preço para Venda: 1325 PO
+Nível da pedra: 1
+Bônus de esquiva: 4
+Chance de crítico: 2
+Bônus de precisao a distância: 3
+Bônus em habilidade (Destreza): 3
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel da Fúria Lv 5<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 35000
+Preço total: 35000
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 5° Nível
+Nível de poder (NP): 5
+Força: 5
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Anel do Cromático Lv 4<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 24000
+Preço total: 56400
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 4° Nível
+Nível de poder (NP): 55
+Carisma: 4
+
+>>>>>>>>>>>>Pedra Roxa (Safira)<<<<<<<<<<<<
+Preço de compra: 29650 PO
+Preço para Venda: 14825 PO
+Nível da pedra: 4
+Bônus em habilidade (Vigor): 0
+Bônus de Redução de Dano: 17
+Regenera por rodada: 16
+Recuperação de vida por acerto: 90
+
+>>>>>>>>>>>>Pedra Verde (Esmeralda)<<<<<<<<<<<<
+Preço de compra: 2750 PO
+Preço para Venda: 1375 PO
+Nível da pedra: 2
+Bônus de esquiva: 0
+Chance de crítico: 7
+Bônus de precisao a distância: 0
+Bônus em habilidade (Destreza): 0
+
+_________________________________________________________________________________________________

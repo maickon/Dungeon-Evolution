@@ -1,0 +1,70 @@
+1-Máscara Spartan
+2-Capacete Espanhol
+3-Capacete Espanhol Morion
+4-Capacete Viking com Orelhas
+5-Capacete Viking com Chifres
+6-Capacete com Facial
+7-Capacete com Frígida Nasal
+8-Capacete São Venceslau
+9-Capacete do Conquistador
+10-Capacete do Centurião
+11-Elmo Medieval do Rei
+12-Capacete de Gladiador de Arena
+13-Capacete de Líder Imperial
+14-Capacete do Gladiador Murmillo
+15-Capacete do Gladiador Ronin
+16-Capacete Coríntio de Crista e Cauda
+17-Capacete do Gladiador Romano
+18-Capacete Wenceslas com Cota de Malha
+19-Capacete de Torneio Medieval
+20-Capacete do Templário
+21-Capacete Medieval
+22-Capacete do Centurião Romano
+23-Capacete Spartan de Bronze
+24-Capacete Aberto
+25-Capacete Spangenhelm Siglo
+26-Capacete Piquero
+27-Capacete Barbuta
+28-Capacete do Templário de Latão
+29-Capacete Sanguessa
+30-Capacete Hispânica
+31-Capacete Viking
+32-Capacete Norman com Cota de Malha
+33-Capacete Norman de Combate
+34-Capacete de Batalha Viking
+35-Capacete de Arqueiro
+36-Capacete Real Grega Corinto
+37-Capacete Spartan Grego
+38-Capacete de Leonidas
+39-Capacete de Italo
+40-Capacete de Ouro Grego com Pluma
+41-Capacete Romano Imperial
+42-Capacete do Templário Negro
+43-Capacete Pão de Açucar Medieval
+44-Capacete do Templário Medieval
+45-Capacete de Couro Medieval
+46-Capacete Barbuta Medieval
+47-Capacete de Prata do Gladiador
+48-Capacete Masamune Date Kabuto
+49-Capacete Kabuto Nobunaga Oda
+50-Capacete Kabuto Shingen Takeda
+51-Capacete Kabuto Daisho Kake
+52-Capacete romano Gladiador
+53-Capacete do Guerreiro
+54-Capacete Blindado
+55-Elmo Imperial
+56-Bandana
+57-Bandana de Couro
+58-Bandana do Monge
+59-Bandana do Lutador
+60-Bandana do Eremita +4 em Sabedoria
+61-Bandana da Vingança +2 no dano
+62-Tiara de Perola
+63-Tiara de Prata
+64-Tiara da Rainha
+65-Tiara da Dama
+66-Tiara de Princesa
+67-Tiara de da Lua
+68-Tiara do Sol
+69-Tiara do Amor +2 em Carisma
+70-Tiara da Sorte +2 na deflexão

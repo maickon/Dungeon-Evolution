@@ -1,0 +1,54 @@
+>>>>>>>>>>>>Calças do Guerreiro Lv 15<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 12000
+Preço total: 12000
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 15° Nível
+Nível de poder (NP): 60
+RD: 15
+Defesa: 30
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Calças Borgon Lv 5<<<<<<<<<<<<
+Raridade: Raro
+Preço da arma: 24000
+Preço total: 28600
+Esta arma possui 0 slot de encaixe livre
+Encaixes 2
+Requisito: 5° Nível
+Nível de poder (NP): 39
+RD: 5
+Defesa: 10
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 3400 PO
+Preço para Venda: 1700 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 4
+Aumento de dano em Magias: 6
+Aumenta seu DL(Drop Level): 4
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 1200 PO
+Preço para Venda: 600 PO
+Nível da pedra: 1
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Carisma): 0
+Aumento de Pvs reservas: 0
+Aumenta seu DL(Drop Level)/Def/Esq: 3
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>vestes do Dragão Lv 15<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 38250
+Preço total: 38250
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 15° Nível
+Nível de poder (NP): 105
+RD: 15
+Defesa: 75
+
+_________________________________________________________________________________________________

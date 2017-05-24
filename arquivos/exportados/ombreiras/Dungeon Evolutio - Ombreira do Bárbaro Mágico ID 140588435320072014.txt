@@ -1,0 +1,54 @@
+>>>>>>>>>>>>Ombreira do Bárbaro Lv 5<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 14000
+Preço total: 15200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 5° Nível
+Nível de poder (NP): 27
+RD: 5
+Defesa: 10
+
+>>>>>>>>>>>>Pedra Amarela (Topázio)<<<<<<<<<<<<
+Preço de compra: 1200 PO
+Preço para Venda: 600 PO
+Nível da pedra: 2
+Bônus de ouro extra a cada sessão: 0
+Bônus em habilidade (Inteligência): 6
+Aumento de dano em Magias: 0
+Aumenta seu DL(Drop Level): 0
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 19<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 25200
+Preço total: 190292
+Esta arma possui 0 slot de encaixe livre
+Encaixes 1
+Requisito: 19° Nível
+Nível de poder (NP): 648.12
+RD: 19
+Defesa: 38
+
+>>>>>>>>>>>>Pedra Vermelha (Rubi)<<<<<<<<<<<<
+Preço de compra: 165092 PO
+Preço para Venda: 82546 PO
+Nível da pedra: 16
+Bônus de experiência: 30912
+Bônus de dano: 78
+Bônus em habilidade (Força): 152
+Bônus de precisão: 32
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Ombreira do Arquiero Lv 16<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 12800
+Preço total: 12800
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 16° Nível
+Nível de poder (NP): 64
+RD: 16
+Defesa: 32
+
+_________________________________________________________________________________________________

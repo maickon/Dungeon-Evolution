@@ -1,0 +1,10 @@
+NoProtect-0-0-6-Diminui a Defesa em -6
+NoShield-0-0-7-Diminui a Defesa em -8
+Down Force-0-0-2-Diminui a Força em -4
+Down Speed-0-0-3-Diminui a Destreza em -3
+No Deflexus-0-0-3-Diminui a Deflexão em -2
+No Precision-0-0-3-Diminui a Precisão em -2
+Down Health-0-0-5-Diminui o Vigor em -3
+Down Charm-0-0-2-Diminui o Carisma em -2
+Down Know-0-0-3-Diminui a Sabedoria em -4
+Down Smart-0-0-3-Diminui a Inteligência em -2

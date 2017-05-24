@@ -1,0 +1,6 @@
+Inferno-14-0-4-Ataque de Fogo-0
+Flare-4-0-2-Ataque de Fogo-0
+Fire Ball-9-0-3-Ataque de Fogo-0
+Chuva de Meteoros-16-0-10-Ataque de Fogo em todos os inimigos-0
+Flame Blast-6-0-3-Ataque de Fogo-0
+Apocalipse-30-0-20-Esta magia afeta todos os inimigos causando um verdadeiro inferno nos seus Pvs.-0

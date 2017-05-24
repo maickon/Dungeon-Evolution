@@ -1,0 +1,19 @@
+<p>
+<h3>Este é o site oficial do RPG Dungeon Evolution</h3>
+<h4>O que é Dungeon Evolution</h4>
+Na tentativa de criar um RPG onde não nos preucupamos muito com a regra, saiu esta iniciativa de criar este RPG de fantasia Medieval. A idéia principal deste RPG é apresentar um modelo de jogo que é muito conhecido entre nós, trata-se de criar um RPG fiel aos RPGs de jogos eletrônicos, aqui você escolhe uma raça e classe e tenta evolui-la ao nivel máximo conquistando os melhores itens mágico para melhorar o  seu personagem. 
+Dungeon Evolution é um RPG de fantasia medieval que reúne um novo sistema de regras para a evolução do seu personagem. Estas regras buscam simplificar mais o jogo permitindo assim que os jogadores se preocupem menos coms as regras e busquem mais evolução.
+
+<h4>Estilo de jogo</h4>
+Se você é fan de jogos de computador ou dos consoles desta ultima geração, com certeza se sentirá muito familiarizado com este sistema que busca tornar a 	evolução algo 	interessante e competitivo para os jogadores.
+  
+No universo de Dungeon Evolution você assume o controle de um personagem que você mesmo cria. Através dele você entra neste mundo como se estivesse logando num game 	online. Os outros personagens NPC interagem com você como se fossem jogadores jogando em tempo real e buscando os melhores conjuntos de itens para o seu personagem.
+A idéia deste sistema é que você encare este jogo como se estivesse jogando em seu computador, entretanto o mundo onde você vai entrar é composto de jogadores	do mundo inteiro e mais centenas de milhares de personagens que interagem com você como se fossem personagens do próprio jogo. Da mesma forma que quando joga um jogo 	online 	você clica com o botão para falar com um personagem pré programado do sistema, aqui estes personagens são como se tivessem um inteligência artificial única já 	que são 	interpretados pelo mestre. Fora os outro personagens que são interpretados como se fossem persenagens controlados por outros jogadores.
+	Da mesma forma que num jogo online de computador existem regras, aqui também existirão regras para evitar confusões sobre quem tem direito de tal item 	encontrado e 	entre outros. Aqui você vai encontrar muitas características dos jogos que você vem jogando nestes últimos tempos. 
+</p>
+
+<p class"paragrafo">É isso aí pessoal, o site é simples mas o pouco que tem ja da para se divertir.
+<br />
+Att,<br />
+Maickon Rangel
+</p>

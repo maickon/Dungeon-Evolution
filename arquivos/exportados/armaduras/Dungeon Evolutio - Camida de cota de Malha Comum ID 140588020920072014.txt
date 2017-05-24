@@ -1,0 +1,36 @@
+>>>>>>>>>>>>Camida de cota de Malha Lv 13<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 35150
+Preço total: 35150
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 13° Nível
+Nível de poder (NP): 91
+RD: 13
+Defesa: 65
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Camida de cota de Malha Lv 12<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 33600
+Preço total: 33600
+Esta arma possui 3 slot de encaixe livre
+Encaixes 0
+Requisito: 12° Nível
+Nível de poder (NP): 84
+RD: 12
+Defesa: 60
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Camisa de caouro Lv 1<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 750
+Preço total: 750
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 1° Nível
+Nível de poder (NP): 4
+RD: 0
+Defesa: 3
+
+_________________________________________________________________________________________________

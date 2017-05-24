@@ -1,0 +1,45 @@
+>>>>>>>>>>>>Luvas de Combate Lv 2<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 13200
+Preço total: 13200
+Esta arma possui 0 slot de encaixe livre
+Encaixes 0
+Requisito: 2° Nível
+Nível de poder (NP): 50
+RD: 24
+Defesa: 24
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Manoplas Sensei Lv 5<<<<<<<<<<<<
+Raridade: Mágico
+Preço da arma: 26000
+Preço total: 40267
+Esta arma possui 1 slot de encaixe livre
+Encaixes 1
+Requisito: 5° Nível
+Nível de poder (NP): 113.78
+RD: 20
+Defesa: 20
+
+>>>>>>>>>>>>Pedra Rosa (Diamante)<<<<<<<<<<<<
+Preço de compra: 14267 PO
+Preço para Venda: 7133.5 PO
+Nível da pedra: 4
+Bônus de ouro extra a cada sessão: 2978
+Bônus em habilidade (Carisma): 12
+Aumento de Pvs reservas: 17
+Aumenta seu DL(Drop Level)/Def/Esq: 9
+
+_________________________________________________________________________________________________
+>>>>>>>>>>>>Luvas do Rei Lv 23<<<<<<<<<<<<
+Raridade: Comum
+Preço da arma: 184450
+Preço total: 184450
+Esta arma possui 4 slot de encaixe livre
+Encaixes 0
+Requisito: 23° Nível
+Nível de poder (NP): 621
+RD: 299
+Defesa: 299
+
+_________________________________________________________________________________________________

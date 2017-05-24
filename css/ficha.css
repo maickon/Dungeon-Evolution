@@ -1,0 +1,185 @@
+.caixa_preta{
+	width: 45px;
+	height: auto;
+	margin-bottom: 10px;
+	border: 1px solid #000000;
+	background-color: #000000;
+	float: left;
+	text-align: center;
+}
+
+.caixa_branca{
+	width: 55px;
+	height: auto;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	border: 1px solid #000000;
+	background-color: #FFFFFF;
+	float: left;
+}
+
+.caixa_branca_descricao{
+	width: 100px;
+	height: auto;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	border: 1px solid #000000;
+	background-color: #FFFFFF;
+	float: left;
+}
+
+.caixa_preta_grande{
+	width: 160px;
+	height: auto;
+	margin-bottom: 10px;
+	border: 1px solid #000000;
+	background-color: #000000;
+	float: left;
+}
+
+.caixa_vazia{
+	width: auto;
+	height: auto;
+	margin-bottom: 4px;
+	margin-left: 5px;
+	float: left;
+}
+
+.label_base{
+	float: left;
+	width:55px;
+	height: 0px;
+	font-size: 10;
+	text-align: center;
+	font: bolder;
+}
+
+.atributos_caixa_preta{
+	width: auto;
+	height: auto;
+	font-size: 18px;
+	color: #FFFFFF;
+	margin: 2.5px;
+	padding: 2.5px;
+	font: bolder;
+	text-align: center;
+}
+
+.sinal{
+	width: auto;
+	height: auto;
+	font-size: 18px;
+	color: #000000;
+	float: inherit;
+	margin: 2.5px;
+	padding: 2.5px;
+	font: bolder;
+	text-align: center;
+}
+
+.atributo_linha_descricao{
+	width:850px;
+	display:inline-block;
+	text-align: center;
+}
+
+.atributos_caixa_branca{
+	width: auto;
+	height: auto;
+	font-size: 18px;
+	color: #000000;
+	margin: 2.5px;
+	padding: 2.5px;
+	font: bolder;
+	text-align: center;
+}
+
+.atributo_linha_atributos{
+	width:820px;
+	display:inline-block;
+	text-align: center;
+}
+
+.atributo_linha{
+	width:420px;
+	display:inline-block;
+	text-align: center;
+}
+
+.atributos{
+	float: left;
+	width: 200px;
+	height: auto;
+}
+
+.atributos_secundarios1{
+	float: left;
+	display: block;
+	width: 200px;
+}
+
+.atributos_secundarios2{
+	margin-left: 450px;
+	margin-top: -132px;
+	float: left;
+	display: block;
+	width: 400px;
+}
+
+.itens{
+	display: inline-block;
+}
+
+.itens_caixa_preta{
+	width: 160px;
+	height: auto;
+	margin-bottom: 10px;
+	border: 1px solid #000000;
+	background-color: #000000;
+	float: left;
+}
+
+.itens_caixa_branca{
+	width: 200px;
+	height: auto;
+	margin-bottom: 10px;
+	border-left: 1px solid;
+	border: 1px solid #000000;
+	background-color: #FFFFFF;
+	float: left;
+}
+
+.itens_caixa_preta_grande{
+	width: 362px;
+	height: auto;
+	text-align: center;	
+	border: 1px solid #000000;
+	background-color: #000000;
+	margin-top: 55px;
+}
+
+.itens_caixa_branca_grande{
+	width: 362px;
+	height: 230px;
+	margin-bottom: 10px;
+	border-left: 1px solid;
+	border: 1px solid #000000;
+	background-color: #FFFFFF;
+	float: left;
+	overflow: auto;
+}
+
+.label_base2{
+	width:55px;
+	height: 15px;
+	color: #000000;
+	font-size: 14;
+	text-align: left;
+	font: bolder;
+}
+
+.atributo_geral{
+	width: 80%;
+	float: left;
+}

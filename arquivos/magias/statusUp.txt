@@ -1,0 +1,10 @@
+Protect-0-0-6-Aumenta a Defesa em -6
+Shield-0-0-7-Aumenta a Defesa em -8
+Body Force-0-0-2-Aumenta a Força em -4
+Body Speed-0-0-3-Aumenta a Destreza em -3
+Deflexus-0-0-3-Aumenta a Deflexão em -2
+Precision-0-0-3-Aumenta a Precisão em -2
+Body Health-0-0-5-Aumenta o Vigor em -3
+Body Charm-0-0-2-Aumenta o Carisma em -2
+Body Know-0-0-3-Aumenta a Sabedoria em -4
+Body Smart-0-0-3-Aumenta a Inteligência em -2

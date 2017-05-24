@@ -1,0 +1,30 @@
+Anel do Poder-1-0-0-0-0-0-Aumenta a sua força, garantindo um grande poder.-0-0-0-0-0-0-0
+Anel da Fúria-1-0-0-0-0-0-Além de aumenta seua força, aumenta mais ainda quando entra em fúria. Este anel lhe da a habilidadde de Fúria aumentando sua força em +6 adicional.-6-0-0-0-0-0-0
+Anel de Tauron-2-0-0-0-0-0-Este anel aumenta sua força.-0-0-0-0-0-0-0
+Anel de Escudo-0-0-0-0-0-0-0-Este anel aumenta sua defesa.-0-0-0-0-1-0-0
+Anel do Zodiaco-1-1-1-1-1-1-Este anel Aumenta todas as habilidades básicas.-0-0-0-0-0-0-0
+Anel do Cromático-0-0-0-0-0-1-Este anel Aumenta o carisma.-0-0-0-0-0-0-0
+Anel Infernal-0-0-0-0-0-0-Aumenta o dano da sua arma em +5 para cada nível de uma arma escolhida.-5-0-0-0-0-0-0
+Anel Precioso-0-0-0-0-0-0-Aumenta a sua deflexão.-0-0-0-1-0-0-0
+Anel Glacial-0-0-0-0-0-0-Dispara um raio glacial que causa 10 de dano por nível de personagem.-10-0-0-0-0-0-0
+Anel do Mago-0-0-0-1-0-0-Aumenta o dano de suas magias.-0-0-0-0-0-5-0
+Anel do Sábio-0-0-0-0-1-0-Aumenta o dano de suas habilidades de classe.-0-0-0-0-0-0-5
+Anel da Ganancia-0-0-0-0-0-0-Aumenta a sua chance de Dropar itens em +2 por cada dois níveis.-2-0-0-0-0-0-0
+Anel da obdiencia-0-0-0-0-0-0-Diminui seu custo de PH em 1 para cada nível de personagem.-20-0-0-0-0-0-0
+Anel Galático-0-0-0-1-1-1-Aumenta todas as sua habilidades não fisicas.-0-0-0-0-0-0-0
+Anel Druídico-0-0-0-0-0-0-Lhe permite Falar com animais.-3-0-0-0-0-0-0
+Anel Profano-0-0-0-0-0-0-Aumenta seu dano em +20/nível do anel contra Paladinos.-20-0-0-0-0-0-0
+Anel do Titan-3-0-0-0-0-0-Aumenta sua força titânicamente.-0-0-0-0-0-0-0
+Anel da brutalidade-0-0-1-0-0-0-Dobra o bônus concedido por uma fúria e aumenta o seu vigor mais ainda.-20-0-0-0-0-0-0
+Anel Scarlate-0-0-1-0-0-0-Aumenta o seu vigor e +5% na sua reserva de vida para cada 5pts na sua habilidade de Vigor.-5-0-0-0-0-0-0
+Anel do Combate-1-0-0-0-0-0-Aumenta sua força e sua defesa em +3 para cada nível de classe.-3-0-0-0-0-0-0
+Anel do Vigor-0-0-1-0-0-0-Aumenta a sua vitalidade.-0-0-0-0-0-0-0
+Anel do parceiro-0-0-0-0-0-0-Aumenta Aumenta sua precisão e defesa em +10 por nível de classe somente se você possuir um companheiro animal(Habilidade).-20-0-0-0-0-0-0
+Anel da floresta-0-0-0-0-0-0-Sempre que estiver dentro de uma floresta sua defesa é aumentada.-0-0-0-0-2-0-0
+Anel das linguas antigas-0-0-0-1-0-0-Alem de aumentar sua inteligência, com este anel você consegue falar em qualquer linguagem antiga de qualquer raça.-2-0-0-0-0-0-0
+Anel congelante-0-0-0-0-0-0-Este anel reduz todo o seu dano tomado derivado de Gelo e Frio pela metade e seus danos com magia de gelo são aumentados-5-0-0-0-0-1-0
+Anel da Luz-0-0-0-0-0-0-Com este anel suas magias de luz causam mais dano.-6-0-0-0-0-2-0
+Anel da aceleração-0-0-0-0-0-0-Este anel lhe concede um ação de rodada extra para cada 10 níveis de classe.Obs: somente no nível 10 esta habilidade é ativa.-50-0-0-0-0-0-0
+Anel da Velocidade-0-2-0-0-0-0-Este anel aumenta sua detreza.-0-0-0-0-0-0-0
+Anel da proteção invisivel-0-0-0-0-0-0-Este anel só funciona em combate. Enquanto estiver invesível com ele, você não consegue atacar e sua defesa é aumentada.-0-0-0-1-0-0-0
+Anel de Kaiser-1-1-1-0-0-0-Este anel permite que você se transforme num hibrido entre sua raça e um dragão. Enquanto estiver nesta forma você terá suas habilidades físicas ampliada. Esta habilidade só pode ser ativada em combate, dura apenas 1d4 de turnos e custa 3PH por nível de classe.-3-0-0-0-0-0-0

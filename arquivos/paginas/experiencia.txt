@@ -1,0 +1,24 @@
+<h3>Pontos de experiência e evolução</h3>
+<p>
+No Dungeon Evolution os personagens ficam mais fortes através de um sistema de pontuação de experiência. Este sistema será responsável por definir o nivel em que o seu personagem se encontra. Através de aventuras e desafios os personagens adquirem pontos de experiência e vão se tornando mais forte. Todo personagem em Dungeon evolution começa no nível 1 e o nível máximo que um personagem pode chegar é 23. Porém a tabela de experiência online define xp para até o nível 46.
+Conforme a tabela encontrada neste link <a href="?p=experiencia&t=1">(tabela 1)</a>, podemos saber a quantidade de experiência necessária para se passar de nível.
+</p>
+
+<h3>Tabela de Pontos de experiência dos inimigos.</h3>
+<p>
+Durante uma aventura, é comum o encontro contra inimigos, sejam eles advesários do mesmo nível ou maior. Para saber quantos pontos de experiência um personagem recebe no final da aventura, basta seguir o seguinte roteiro:
+A término da aventura o mestre deverá questionar cada jogador sobre as seguintes perguntas:
+</p>
+<div class="lista_ordenada">
+	<ul>
+		<li>1-	O personagem foi bem participativo da aventura ou ficou muito ausente?</li>
+		<li>2-	O personagem fez uma boa interpretação?</li>
+		<li>3-	O personagem foi Heróico?</li>
+	</ul>
+</div>
+<p>
+Como cada jogador já conhecerá cada pergunta, a votação deverá der feita de forma aberta onde cada jogador deverá ser questionado aos demais para receber sua pontuação nos três quesitos. O valor da pontuação deverá estar entre 1 e 10 onde o valor “dez” representa o ponto máximo e “um” o ponto mínimo e “cinco” na mádia.
+No final, os pontos de cada jogador devem ser somados e multiplicados por 100 para definir o bônus de xp ganho. Após isso devemos calcular os pontos de experiência recebidos por cada criatura derrotada. A tabela encontrada neste link <a href="?p=experiencia&t=2">(tabela 2)</a>, indica os pontos de experiência que cada criatura oferece de acordo com o seu nível.
+
+</p>
+

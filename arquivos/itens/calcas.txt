@@ -1,0 +1,28 @@
+1-Vestes Comuns
+2-Vestes do Soldado
+3-calças de Malha
+4-Calças de Lã Chainmail
+5-Calça Gael
+6-Calças de Treinamento
+7-Calças Borgon
+8-Calças Medieval Brilhante
+9-Vestes Ronin
+10-Vestes Kusanagi
+11-Vestes Orochi
+12-Calças de couro
+13-Calças de Escamas
+14-Calças de Horácio
+15-Calças do Ranger
+16-Calças do Barbaro
+17-Calças do Arquiero
+18-Calças do Guerreiro
+19-Vestes de Broly
+20-Calça azul
+21-Calças Ylahari
+22-Calças do Rei
+23-Calças de Zaoan
+24-Vestes de ouro
+25-vestes do Dragão
+26-Vestes Real
+27-Vestes tiban
+28-Vestes de Bronze

@@ -1,0 +1,37 @@
+1-Camisa de couro
+2-Camida de cota de Malha
+3-Camisa de cota de Talas
+4-Camisa de cota de Placas
+5-Armadura de Corda
+6-Armadura Óssea
+7-Armadura Ashigaru
+8-Dhenuka
+9-Brigandine
+10-Armadura Parcial
+11-Lamellar
+12-Grande Armadura
+13-Brunea
+14-Corselete de Couro
+15-Armadura Alcolchoada
+16-Gibão de Peles
+17-Gibão de Couro
+18-Loriga Segmentada
+19-Armadura Ashura
+20-Armadura Kusanagi
+21-Gibão Bárbaro
+22-Gibão Aurora
+23-Gibão da Floresta
+24-Corselete de Malha Refinada
+25-Corselete de Malha Grossa
+26-Corselete de Couro de Dragão
+27-Corselete de Placas de Metal
+28-Peitoral de Aço
+29-Peitoral de Bronze
+30-Peitoral de Ossos
+31-Armadura Yagami
+32-Armadura de Troia
+33-Armadura Grega
+34-Armadura Azura
+35-Peitoral Braka
+36-Gibão de Escamas
+37-Armadura Barom

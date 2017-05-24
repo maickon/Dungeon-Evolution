@@ -1,0 +1,54 @@
+1-Escudo de Madeira
+2-Escudo de Aço
+3-Escudo de Ferro Frio
+4-Escudo de Ossos
+5-Escudo de Platina
+6-Escudo de Ferro Grosso
+7-Escudo do Druída
+8-Escudo do Bárbaro
+9-Escudo da Vida +5% de na reserva de vida
+10-Escudo de Mithril
+11-Escudo de Adamante
+12-Escudo de Madeira Grossa
+13-Escudo do Rei
+14-Escudo do Campeão
+15-Escudo de Corpo
+16-Escudo dos 1000 Guerreiros
+17-Escudo Gótico Decorado
+18-Escudo Braveheart
+19-Escudo Barbaroja
+20-Escudo Céltico Noite e Dia
+21-Escudo Romano Pretoriana
+22-Escudo Medieval
+23-Escudo Almond
+24-Escudo Castela e Leon
+25-Escudo Eagle Toledo
+26-Escudo Flor de Lis
+27-Escudo Rústico do Guerreiro
+28-Escudo do Pirata
+29-Escudo Viking
+30-Escudo do Templário Protetor
+31-Escudo Medieval do Leão
+32-Escudo Medieval do Falcão
+33-Escudo Saracen-
+34-Escudo Celta
+35-Escudo Romano
+36-Escudo de Carlos Magno
+37-Escudo de Cid
+38-Escudo da Ordem dos Cavaleiros Hospitalários
+39-Escudo das Cruzadas
+40-Escudo Negro do Príncipe
+41-Escudo do Algoz
+42-Escudo do Paladino
+43-Escudo do Rei
+44-Escudo de Carlos V
+45-Escudo de Ricardo Coração de Leão
+46-Escudo Negro de Troia
+47-Escudo Espartano de Batlha
+48-Escudo Troiano
+49-Escudo egípcio
+50-Escudo egípcio de Ra
+51-Escudo egípcio de Anubis
+52-Escudo de Garael
+53-Escudo das Cruzadas
+54-Escudo Medieval de Guerra
